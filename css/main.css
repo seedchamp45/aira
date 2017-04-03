@@ -1,0 +1,330 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 26, 2017, 3:41:00 PM
+    Author     : Axe
+*/
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) { 
+.logo {
+        background-image: url('../images/logo.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-image-size: 100% 100%;
+        background-size: 100% 100%;
+        min-width: 100%;
+        min-height: 100%;
+        width:162px;
+        height:77px;
+        margin: 1em;
+        float:left;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) {
+.logo {
+        background-image: url('../images/logo.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-image-size: 100% 100%;
+        background-size: 100% 100%;
+        min-width: 100%;
+        min-height: 100%;
+        width:162px;
+        height:77px;
+        margin: 1em;
+        float:left;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 996px) {
+   
+    
+    .logo{
+        margin-left: 1.2em;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 997px) and (max-width: 1199px) { 
+    .bar-top{
+       top:2em; 
+    }
+    
+    .logo{
+        margin-left: 1.2em;
+    }
+    
+    .bar_full_80{
+        margin-left: 1em;
+        width: 100%;
+    }
+    
+    .menu_right{
+        float: right;
+    }
+    .m_left_txt{
+        float: right;
+    }
+    
+    .icon_menu{
+        float: right;
+        margin-left: 0px;
+        padding-right: 1em;
+    }
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    /* bar */
+    .bar-top{
+       top: 1.01em; 
+    }
+    
+    .menu_bar{
+       width:12.5%;
+    }
+    .menu_bar1{
+       width:11%;
+    }
+    .menu_bar2{
+       width:10.5%;
+    }
+    .w_35{
+        width:60%;
+    }
+    .menu_bar3{
+       width:13%;
+    }
+    
+    .menu_bar4{
+       width:15.47%;
+    }
+    
+    .menu_bar5{
+       width:14%;
+    }
+     .menu_bar6{
+       width:19.8%;
+    }
+    .bg-inverse {
+      /*  background-color: #ffffff!important;*/
+    }
+    
+    .logo{
+        margin-left: 1.2em;
+    }
+    
+    .bar_full{
+        
+        width: 100%;
+    }
+    
+    .menu_right{
+        float: right;
+      
+    }
+    
+    .menu_right2{
+        float: right;
+        padding-right: 60px;
+    }
+    
+    .m_left_txt{
+        float: left;
+        margin-left: 0.5em;
+    }
+    
+    .icon_menu{
+        float: right;
+        margin-left: 0px;
+    }
+    
+    .bow_w_80{
+        width: 90%;
+    }
+    
+    
+    .overflow_box {
+        background: #FFF;
+        padding: 4%;
+        border: 1px solid #F00;
+   /* overflow: hidden;*/ /*ลบออกนะครับ*/
+    }
+    
+    .setting_bar{
+        margin-left: 0em;
+        margin-right: 0em;
+    }
+    
+    .bu_social{
+        margin-left: 2px;
+        margin-right: 2px;   
+    }
+    
+    
+    .icon_th{
+        background-image: url('../images/menu/bu_th.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:45px;
+        height:31px;
+    }
+    
+    .icon_en{
+        background-image: url('../images/menu/bu_en.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:44px;
+        height:31px;
+    }
+    
+    .icon_jp{
+        background-image: url('../images/menu/bu_jp.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100% !important;
+         background-repeat: no-repeat;
+        width:46px;
+        height:30px;
+    }
+    
+    .icon_facebook{
+        background-image: url('../images/menu/bu_facebook.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:25px;
+        height:25px;
+    }
+    
+    .icon_youtub{
+        background-image: url('../images/menu/bu_youtube.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:35px;
+        height:24px;
+    }
+    
+    .icon_twitter{
+        background-image: url('../images/menu/bu_twitter.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:29px;
+        height:24px;
+    }
+    
+    .icon_google{
+        background-image: url('../images/menu/bu_google.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 100% 100%;
+        width:27px;
+        height:25px;
+    }
+    /*
+    .logo {
+        background-image: url('../images/logo.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-image-size: 100% 100%;
+        background-size: 100% 100%;
+        min-width: 100%;
+        min-height: 100%;
+        width:162px;
+        height:77px;
+        margin: 1em;
+        float:left;
+    }*/
+    
+    .bu_menu_in_aira {
+        background-image: url('../images/menu_in_aira.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 100% 100%;
+        background-size: 100% 100%;
+        min-width: 100%;
+        min-height: 100%;
+        margin: 1em;
+        float:left;
+    }
+    
+   
+    /* bar */
+    
+    
+    /*background*/
+   
+    
+    
+}
+
+
+
+.bg-inverse {
+    background-color: #ffffff!important;
+    box-shadow: 0px 5px 5px #333333;
+ }
+.bg_body{
+    background-image: url('../images/banckgroud_2.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+
+    background-size: 100% 100%;
+    background-position: right top;
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.f_helvethaica{
+     font-family: "db_helvethaica_x";
+    font-size:1.1em;
+    font-weight: normal;
+    color: #333333; 
+}
+
+ul .setting{
+    /* margin: auto;
+    width: 99%;*/
+    -webkit-padding-start: 1em;
+    list-style-type: none;
+}
+ul .setting li {
+    float: left;
+}
+
+.center {
+    margin: auto;
+    width: 99%;
+    border: 3px solid green;
+    padding: 0px;
+}
