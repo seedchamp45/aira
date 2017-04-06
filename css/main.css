@@ -372,6 +372,85 @@ and open the template in the editor.
         height:1.5em;
          background-repeat: no-repeat;
     }
+    
+    
+     /*page_ network*/
+    .pop_network{
+        background-image: url('../images/network/pop_network.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        
+        /*min-width: 9.35em;
+        min-height: 6.4em;
+        max-height: 8em;*/
+        background-size: 100% auto;
+        min-height: 8rem;
+        background-repeat: no-repeat;
+    }
+    
+    .row_between{
+        margin-top: 2em;
+    }
+    
+    .row_between_top{
+        margin-top: 2em;
+    }
+    
+    .row_data{
+        padding-left: 0.5em;
+        padding-right: 0.5em;  
+    }
+  
+    
+    .title_page{
+        margin-top: 4.5em;
+    }
+    
+    .title_txt{
+        font-family: "db_helvethaica_x";
+        margin-top: 0.4em;
+        font-size: 3.2em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
+    
+    
+    .body_txt{
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
+    
+    .body_network{
+          margin: auto;
+        /*width: 60%;
+        border: 3px solid #73AD21;*/
+        padding: 10px;
+        
+    }
+    
+    
+    .page{
+        position: fixed;
+        height: 81%;
+        width: 95%;
+        background-color: #203080;
+        margin-top: -1em;
+        margin-left: 1em;
+        margin-right: 1em;
+        margin-bottom: 1em;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
+        filter: alpha(opacity=60);  /* IE 5-7 */
+        -moz-opacity: 0.6;          /* Netscape */
+        -khtml-opacity: 0.6;        /* Safari 1.x */
+        opacity: 0.6;               /* Good browsers */
+    }
+    
+    #content_page{
+        margin: 4em;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -609,21 +688,37 @@ and open the template in the editor.
     /*background*/
    
     /*page_ network*/
+    /*page_ network*/
     .pop_network{
         background-image: url('../images/network/pop_network.png');
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        background-size: 80% 80%s;
-        min-width: 100%;
-        min-height: 100%;
-        background-repeat: no-repeat;
         
+        /*min-width: 9.35em;
+        min-height: 6.4em;
+        max-height: 8em;*/
+        background-size: 100% auto;
+        min-height: 15rem;
+        background-repeat: no-repeat;
     }
+    
+    .row_between{
+        margin-top: 1em;
+    }
+     .row_between_top{
+        margin-top: 4em;
+    }
+    .row_data{
+        /*padding-left: 0.5em;
+        padding-right: 0.5em;  */
+    }
+  
     
     .title_page{
         margin-top: 4.5em;
     }
+    
     .title_txt{
         font-family: "db_helvethaica_x";
         margin-top: 0.4em;
@@ -632,6 +727,7 @@ and open the template in the editor.
         color: #FFF !important;
     }
     
+    
     .body_txt{
         font-family: "db_helvethaica_x";
         font-size: 1em;
@@ -639,6 +735,33 @@ and open the template in the editor.
         color: #FFF !important;
     }
     
+    .body_network{
+          margin: auto;
+       /* width: 60%;
+        border: 3px solid #73AD21;*/
+        padding: 10px;
+        
+    }
+    
+    
+    .page{
+        position: fixed;
+        height: 81%;
+        width: 98%;
+        background-color: #203080;
+        margin-top: -1em;
+     
+        margin-bottom: 1em;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
+        filter: alpha(opacity=60);  /* IE 5-7 */
+        -moz-opacity: 0.6;          /* Netscape */
+        -khtml-opacity: 0.6;        /* Safari 1.x */
+        opacity: 0.6;               /* Good browsers */
+    }
+    
+    #content_page{
+        margin: 1em;
+    }
     
 }
 
@@ -686,22 +809,7 @@ ul .setting li {
     padding: 0px;
 }
 
-.page{
-  
-    position: fixed;
-    height: 81%;
-    width: 95%;
-    background-color: #203080;
-    margin-top: -1em;
-    margin-left: 1em;
-    margin-right: 1em;
-    margin-bottom: 1em;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
-    filter: alpha(opacity=60);  /* IE 5-7 */
-    -moz-opacity: 0.6;          /* Netscape */
-    -khtml-opacity: 0.6;        /* Safari 1.x */
-    opacity: 0.6;               /* Good browsers */
-}
+
 
 .menu_action{
     color: #DB022B;
@@ -712,9 +820,7 @@ a .menu_right{
 }
 
 
-#content_page{
-    margin: 1em;
-}
+
 
 #title_page{
     
