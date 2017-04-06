@@ -9,96 +9,115 @@ and open the template in the editor.
         <title>TODO supply a title</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- Bootstrap CSS -->
+        <!-- Bootstrap CSS 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    
+        --> <link rel="stylesheet" href="css/bootstrap.min.css">
         <!-- CSS -->
         <link href="css/font.css" rel="stylesheet">
         <link href="css/main.css" rel="stylesheet">
-      
     </head>
     <body>
-        <!-- jQuery first, then Tether, then Bootstrap JS. -->
+        <!-- jQuery first, then Tether, then Bootstrap JS.
         <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+        
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+        --> 
+        
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
         <div class="bg_body">
             <div class="navbar navbar-toggleable-md navbar-inverse bar-top bg-inverse">
                 <div class="logo">
                     <a href="#" class="navbar-brand ">
-                        <img src="images/logo.png" class="img-fluid">
+                        <img src="images/logo.png" class="img-fluid"/>
                     </a>
                 </div>
                <ul class="navbar-nav bar_full f_helvethaica">
                     <li class="nav-item menu_bar">
-                            <div class="mx-auto">
-                                <div class="menu_right" style="width:50%">
-                                    <div class="m_left_txt ">บริษัทใน<br>เครือไฮร่า</div> 
+                        <div class="mx-auto">
+                            <a href="#" id="aira_network" >
+                                <div class="menu_right">
+                                    <div class="m_left_txt"  id="aira_network_txt" >บริษัทใน<br>เครือไฮร่า</div> 
                                 </div>
                                 <div class="icon_menu">
-                                    <img src="images/menu/menu_in_aira.png" class="img-fluid">
+                                    <img src="images/menu/aira_network.png" class="img-fluid img_res" id="aira_network_img"/>
                                 </div>
-                            </div>
+                            </a>
+                        </div>
                         
                     </li>
                     <li class="nav-item menu_bar1" >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:50%">
-                                <div class="m_left_txt">ข้อมูล<br>บริษัท</div> 
-                            </div>
-                             <div class="icon_menu">
-                                <img src="images/menu/menu_data_company.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_data_company">
+                                <div class="menu_right" >
+                                    <div class="m_left_txt" id="menu_data_company_txt">ข้อมูล<br>บริษัท</div> 
+                                </div>
+                                 <div class="icon_menu" >
+                                    <img src="images/menu/menu_data_company.png" class="img-fluid img_res" id="menu_data_company_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                     <li class="nav-item  menu_bar5"  >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:58%">
-                                <div class="m_left_txt">ข้อมูลธุรกิจ/<br>บริการ</div> 
-                            </div>
-                            <div class="icon_menu">
-                                 <img src="images/menu/menu_business.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_business">
+                                <div class="menu_right">
+                                    <div class="m_left_txt" id="menu_business_txt">ข้อมูลธุรกิจ/<br>บริการ</div> 
+                                </div>
+                                <div class="icon_menu">
+                                     <img src="images/menu/menu_business.png" class="img-fluid img_res" id="menu_business_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                     <li class="nav-item menu_bar"  >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:60%">
-                                <div class="m_left_txt">นักลงทุน<br>สัมพันธ์</div> 
-                            </div>
-                            <div class="icon_menu">
-                                <img src="images/menu/menu_investor.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_investor">
+                                <div class="menu_right menu_investor" >
+                                    <div class="m_left_txt" id="menu_investor_txt">นักลงทุน<br>สัมพันธ์</div> 
+                                </div>
+                                <div class="icon_menu">
+                                    <img src="images/menu/menu_investor.png" class="img-fluid img_res" id="menu_investor_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                     <li class="nav-item menu_bar2" >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:60%">
-                                <div class="m_left_txt">ข่าวสาร<br>กิจกรรม</div> 
-                            </div>
-                            <div class="icon_menu">
-                                <img src="images/menu/menu_new.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_new">
+                                <div class="menu_right menu_new">
+                                    <div class="m_left_txt" id="menu_new_txt">ข่าวสาร<br>กิจกรรม</div> 
+                                </div>
+                                <div class="icon_menu">
+                                    <img src="images/menu/menu_new.png" class="img-fluid img_res" id="menu_new_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                      <li class="nav-item menu_bar5" >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:60%">
-                                <div class="m_left_txt">การกำกับ<br>ดูแลกิจกรรม</div> 
-                            </div>
-                            <div class="icon_menu">
-                                 <img src="images/menu/menu_care.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_care">
+                                <div class="menu_right menu_care" >
+                                    <div class="m_left_txt" id="menu_care_txt">การกำกับ<br>ดูแลกิจกรรม</div> 
+                                </div>
+                                <div class="icon_menu">
+                                     <img src="images/menu/menu_care.png" class="img-fluid img_res" id="menu_care_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                      <li class="nav-item menu_bar4"  >
                         <div class="mx-auto">
-                            <div class="menu_right" style="width:65%">
-                                <div class="m_left_txt">ความรับผิดชอบ<br>ต่อสังคม</div> 
-                            </div>
-                            <div class="icon_menu">
-                                <img src="images/menu/menu_sr.png" class="img-fluid">
-                            </div>
+                            <a href="#" id="menu_sr">
+                                <div class="menu_right menu_sr"  >
+                                    <div class="m_left_txt" id="menu_sr_txt">ความรับผิดชอบ<br>ต่อสังคม</div> 
+                                </div>
+                                <div class="icon_menu">
+                                    <img src="images/menu/menu_sr.png" class="img-fluid img_res" id="menu_sr_img"/>
+                                </div>
+                            </a>
                         </div>
                     </li>
                      <li class="nav-item menu_bar6 ">
@@ -134,7 +153,6 @@ and open the template in the editor.
                         
                     </li>
                 </ul>  
-                
                 <!--
                     test
                 
@@ -159,7 +177,17 @@ and open the template in the editor.
                              <li class="menu_bar"><a href="#">home</a></li>
                        </ul>
                   -->
-               
+            </div>
+            
+            <div class="content-fluid">
+                <div class="col-md-12 col-lg-12">
+                    <div class="page">
+                      
+                        
+                    </div>    
+                    <div id="content_page"></div>
+                </div>
+                    
             </div>
                    
         </div>
