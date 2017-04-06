@@ -27,10 +27,10 @@ $(function(){
        
         $("#content_page").load("aira_network.html", function(responseTxt, statusTxt, jqXHR){
                 if(statusTxt == "success"){
-                    alert("success!");
+                    //alert("success!");
                 }
                 if(statusTxt == "error"){
-                    alert("Error: " + jqXHR.status + " " + jqXHR.statusText);
+                   // alert("Error: " + jqXHR.status + " " + jqXHR.statusText);
                 }
         });
     }
