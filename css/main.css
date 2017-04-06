@@ -46,9 +46,166 @@ and open the template in the editor.
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 996px) {
    
+     .bar-top{
+       top:2em; 
+    }
     
+    .img_res {
+       width: 80%;
+       height: 80%
+    }
     .logo{
         margin-left: 1.2em;
+    }
+    
+    .bar_full_80{
+        margin-left: 1em;
+        width: 100%;
+    }
+   
+    
+    .menu_right{
+        float: right;
+    }
+    .m_left_txt{
+        float: right;
+         margin-left: 0.05em;
+    }
+    
+    
+    .bar_full {
+        width: 100%;
+    }
+    
+    .icon_menu{
+        float: right;
+        margin-left: 0px;
+        width: 35%;
+        margin-top: 7px;
+    }
+     .menu_bar{
+       width:12.5%;
+    }
+     .menu_bar1{
+       width:11%;
+    }
+    .menu_bar2{
+       width:10.5%;
+    }
+    .w_35{
+        width:60%;
+    }
+    .menu_bar3{
+       width:13%;
+    }
+    
+    .menu_bar4{
+       width:15.47%;
+    }
+    
+    .menu_bar5{
+       width:14%;
+    }
+     .menu_bar6{
+       width:19.8%;
+    }
+    .f_helvethaica{
+        font-family: "db_helvethaica_x";
+       font-size:0.9em;
+       font-weight: normal;
+       color: #333333; 
+    }
+    .nav-item {
+       margin-right: 0.09em;
+        margin-left: 0.09em;
+    }
+    
+    .setting_bar{
+        margin-left: 0em;
+        margin-right: 0em;
+    }
+    
+    .bu_social{
+        margin-left: 2px;
+        margin-right: 2px;   
+    }
+    
+    
+    .icon_th{
+        background-image: url('../images/menu/bu_th.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_en{
+        background-image: url('../images/menu/bu_en.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_jp{
+        background-image: url('../images/menu/bu_jp.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 90% 90% !important;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_facebook{
+        background-image: url('../images/menu/bu_facebook.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_youtub{
+        background-image: url('../images/menu/bu_youtube.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.6em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_twitter{
+        background-image: url('../images/menu/bu_twitter.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_google{
+        background-image: url('../images/menu/bu_google.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+         background-repeat: no-repeat;
     }
 }
 
@@ -58,6 +215,10 @@ and open the template in the editor.
        top:2em; 
     }
     
+    .img_res {
+       width: 80%;
+       height: 80%
+    }
     .logo{
         margin-left: 1.2em;
     }
@@ -66,20 +227,151 @@ and open the template in the editor.
         margin-left: 1em;
         width: 100%;
     }
+   
     
     .menu_right{
         float: right;
     }
     .m_left_txt{
         float: right;
+         margin-left: 0.05em;
+    }
+    
+    
+    .bar_full {
+        width: 100%;
     }
     
     .icon_menu{
         float: right;
         margin-left: 0px;
-        padding-right: 1em;
+        width: 35%;
+        margin-top: 7px;
+    }
+     .menu_bar{
+       width:12.5%;
+    }
+     .menu_bar1{
+       width:11%;
+    }
+    .menu_bar2{
+       width:10.5%;
+    }
+    .w_35{
+        width:60%;
+    }
+    .menu_bar3{
+       width:13%;
     }
     
+    .menu_bar4{
+       width:15.47%;
+    }
+    
+    .menu_bar5{
+       width:14%;
+    }
+     .menu_bar6{
+       width:19.8%;
+    }
+    .f_helvethaica{
+        font-family: "db_helvethaica_x";
+       font-size:0.9em;
+       font-weight: normal;
+       color: #333333; 
+    }
+    .nav-item {
+       margin-right: 0.09em;
+        margin-left: 0.09em;
+    }
+    
+    .setting_bar{
+        margin-left: 0em;
+        margin-right: 0em;
+    }
+    
+    .bu_social{
+        margin-left: 2px;
+        margin-right: 2px;   
+    }
+    
+    
+    .icon_th{
+        background-image: url('../images/menu/bu_th.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_en{
+        background-image: url('../images/menu/bu_en.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_jp{
+        background-image: url('../images/menu/bu_jp.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 90% 90% !important;
+        width:2.4em;
+        height:1.9em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_facebook{
+        background-image: url('../images/menu/bu_facebook.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_youtub{
+        background-image: url('../images/menu/bu_youtube.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.6em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_twitter{
+        background-image: url('../images/menu/bu_twitter.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+        background-repeat: no-repeat;
+    }
+    
+    .icon_google{
+        background-image: url('../images/menu/bu_google.png');
+         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: 90% 90%;
+        width:1.5em;
+        height:1.5em;
+         background-repeat: no-repeat;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -89,6 +381,9 @@ and open the template in the editor.
        top: 1.01em; 
     }
     
+    .img_res {
+        max-width: 100%;
+    }
     .menu_bar{
        width:12.5%;
     }
@@ -153,11 +448,44 @@ and open the template in the editor.
     }
     
     
+    .menu_in_aira{
+        width: 50%
+    }
+    .menu_data_company{
+        width: 50%
+    }
+    
+    .menu_business{
+        width: 58%
+    }
+    
+    .menu_business{
+        width: 58%
+    }
+    
+    .menu_investor{
+        width: 60%
+    }
+    
+    .menu_new{
+        width: 60%
+    }
+    
+    .menu_care{
+         width: 60%
+    }
+    
+    .menu_sr{
+         width: 65%
+    }
+    
+    
+    
     .overflow_box {
         background: #FFF;
         padding: 4%;
         border: 1px solid #F00;
-   /* overflow: hidden;*/ /*ลบออกนะครับ*/
+ 
     }
     
     .setting_bar{
@@ -263,19 +591,53 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: 100% 100%;
-        background-size: 100% 100%;
         min-width: 100%;
         min-height: 100%;
         margin: 1em;
         float:left;
     }
     
-   
+   .f_helvethaica{
+       font-family: "db_helvethaica_x";
+       font-size:1.1em;
+       font-weight: normal;
+       color: #333333; 
+    }
     /* bar */
     
     
     /*background*/
    
+    /*page_ network*/
+    .pop_network{
+        background-image: url('../images/network/pop_network.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: 80% 80%s;
+        min-width: 100%;
+        min-height: 100%;
+        background-repeat: no-repeat;
+        
+    }
+    
+    .title_page{
+        margin-top: 4.5em;
+    }
+    .title_txt{
+        font-family: "db_helvethaica_x";
+        margin-top: 0.4em;
+        font-size: 3.2em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
+    
+    .body_txt{
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
     
     
 }
@@ -305,12 +667,7 @@ and open the template in the editor.
     min-height: 100%;
 }
 
-.f_helvethaica{
-     font-family: "db_helvethaica_x";
-    font-size:1.1em;
-    font-weight: normal;
-    color: #333333; 
-}
+
 
 ul .setting{
     /* margin: auto;
@@ -327,4 +684,38 @@ ul .setting li {
     width: 99%;
     border: 3px solid green;
     padding: 0px;
+}
+
+.page{
+  
+    position: fixed;
+    height: 81%;
+    width: 95%;
+    background-color: #203080;
+    margin-top: -1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
+    filter: alpha(opacity=60);  /* IE 5-7 */
+    -moz-opacity: 0.6;          /* Netscape */
+    -khtml-opacity: 0.6;        /* Safari 1.x */
+    opacity: 0.6;               /* Good browsers */
+}
+
+.menu_action{
+    color: #DB022B;
+}
+
+a .menu_right{
+    color: #333333 !important;
+}
+
+
+#content_page{
+    margin: 1em;
+}
+
+#title_page{
+    
 }
