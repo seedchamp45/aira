@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<script>
+  $( function() {
+     var idOld="";
+      if(idOld == ""){
+          idOld = "m_data_1";
+           $("#txt_"+ idOld).addClass("menu_title_action");
+      }
+        $( "#tabs" ).tabs();
+          $("a").click(function() {
+                 //remove class
+            $("#txt_"+ idOld ).removeClass('menu_title_action');
+            idOld = this.id;
+
+
+            $("#txt_"+ idOld).addClass("menu_title_action");
+          });
+  } );
+  </script>
+<div id="tabs">
+    <div class="content-fluid">
+        <div class="row title_page">
+            <div class="col-md-4 col-lg-3">
+                <ul class="data_page">
+                    <li> <img src="images/menu/logo_page_data.png" > </li>
+                    <li class="menu1"> 
+                        <div class="body_txt body_data" id="link_vision"><a href="#tabs-1" id="m_data_1"><h4  class="menu_data" id="txt_m_data_1">วิสัยทัศน์</h4></a></div>
+                    </li>
+                    <li class="menu1"> 
+                        <div class="body_txt body_data" id="link_history"><a href="#tabs-2" id="m_data_2"><h4 class="menu_data" id="txt_m_data_2">ประวัติบริษัท</h4></a></div>
+                    </li>
+                    <li class="menu1"> 
+                        <div class="body_txt body_data" id="link_str_organizational"><a href="#tabs-3" id="m_data_3"><h4 class="menu_data" id="txt_m_data_3">แผนผังองค์กร</h4></a></div>
+                    </li>
+                    <li class="menu1"> 
+                        <div class="body_txt body_data" id="link_str_Board"><a href="#tabs-4" id="m_data_4"><h4 class="menu_data" id="txt_m_data_4">โครงสร้างคณะกรรมการ</h4></a></div>
+                    </li>
+                     <li class="menu1"> 
+                        <div class="body_txt body_data" id="link_contact"><a href="#tabs-5" id="m_data_5"><h4 class="menu_data" id="txt_m_data_5">ติดต่อเรา</h4></a></div>
+                    </li>
+                </ul> 
+            </div>
+            <div class="col-md-7 col-lg-8">
+                 
+                        <div id="tabs-1">
+                            <div class="scrollbar" id="style-2">
+                                <div class="force-overflow">
+                                    <p class="text-center title_txt">วิสัยทัศน์ / พันธกิจ</p>
+                                    <div class="text-center body_txt body_data_title"><h2>วิสัยทัศน์</h2></div>
+                                    <div class="body_txt">
+                                        <h3  class="body_data_text">บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัท
+                                        ระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม 
+                                        และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงานบริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) 
+                                        มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน </h3>
+                                    </div>
+
+                                     <div class="body_txt">
+                                         <h3 class="body_data_text">จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น 
+                                        ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน</h3>
+                                    </div>
+                                 </div>
+                            </div>
+                        </div>
+                   
+                        <div id="tabs-2">
+                            <div class="scrollbar" id="style-2">
+                                <div class="force-overflow">
+                                    <p class="text-center title_txt">ประวัติบริษัท</p>
+                                    <div class="content">
+                                        <div class="body_txt">
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2015</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+
+                                                                <h4  class="body_text_2_2">ต.ค. ก่อตั้งบริษัท แอสไพเรชั่น วัน จำกัด และถือหุ้น 60% ทุนจดทะเบียน  1 พันล้านบาท</h4>
+
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ก.ค. ก่อตั้งบริษัท ไอร่า พร๊อพเพอร์ตี้ จำกัด ทุนจดทะเบียน 200 ล้านบาท </h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2014</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2014</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                             <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2013</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">มี.ค. เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) 
+                    เป็น 1,000 ล้านบาท</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                             <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2012</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ต.ค. จัดตั้ง AIRA International Advisory (Singapore) PTE.LTD. บริษัทที่ปรึกษาทางการเงิน แห่งใหม่ ณ ประเทศสิงคโปร์</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                             <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2011</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ก.ย. แปลงสภาพ บริษัท ไอร่า แคปปิตอล จำกัด เป็นบริษัทมหาชน</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">มี.ค. เข้าลงทุนใน บริษัทแฟคตอริ่งซึ่งจดทะเบียนในตลาด เอ็ม เอ ไอ 
+                    และเปลี่ยนชื่อ เป็น "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)"</h4>
+                                                            </div>
+                                                             <div class="line"></div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ม.ค. เพิ่มทุนจดทะเบียนชำระแล้ว บริษัท ไอร่า แคปปิตอล จำกัด เป็น 779.18 ล้านบาท</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2010</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ก.พ. ก่อตั้งบริษัท ไอร่า แคปปิตอล จำกัด ด้วยทุนจดทะเบียน 623.36 ล้านบาท และเข้าถือหุ้น บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) 100%</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2009</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">มี.ค. รวมบริษัทที่ปรึกษาทางการเงินในเครือ 3 แห่งเข้าด้วยกันและเพิ่มทุนจดทะเบียน 
+                    จาก 20 ล้านบาทเป็น 30 ล้านบาท โดยเปลี่ยนชื่อเป็น บริษัท ไอร่า แอดไวเซอรี่ จำกัด</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2008</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">มิ.ย. เพิ่มทุนจดทะเบียน บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 720 ล้านบาท</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">เม.ย. เพิ่มทุนที่ชำระแล้ว บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 600 ล้านบาท</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2007</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">ธ.ค. แปลงสภาพ บริษัทหลักทรัพย์ ไอร่า จำกัดเป็นบริษัทมหาชน</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">พ.ค. บริษัทหลักทรัพย์ ไอร่า จำกัด เพิ่มทุนจดทะเบียนเป็น 500 ล้านบาท</h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+
+                                             <div class="row">
+                                                <div class="col-md-2 col-lg-1 d-flex align-items-center "><h3  class="body_text_2_1">2007</h3></div>
+                                                    <div class="col-md-10 col-lg-11"> 
+                                                        <div class="row">
+                                                            <div class="col-md-12 col-lg-12"> 
+                                                                <h4  class="body_text_2_2">พ.ย. ซื้อกิจการบริษัทหลักทรัพย์ หมายเลข 48 ของตลาดหลักทรัพย์แห่งประเทศไทย โดยได้เปลี่ยนโครงสร้างการบริหารจัดการ และเปลี่ยนชื่อใหม่เป็น บริษัทหลักทรัพย์ ไอร่า จำกัด</h4>
+                                                            </div>
+                                                            <div class="line"></div>
+                                                        </div>
+                                                    </div>
+                                                 <div class="line"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            <!--<div class="body_txt">
+                                <h3  class="body_data_text"></h3>
+                            </div>
+
+                             <div class="body_txt">
+                                 <h3 class="body_data_text"></h3>
+                            </div>-->
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tabs-3">
+                            <div class="scrollbar" id="style-2">
+                                <div class="force-overflow">
+                                    <p class="text-center title_txt">แผนผังองค์กร</p>
+                                    <div class="text-center body_txt body_data_title"><h2></h2></div>
+                                    <div class="row">
+                                       <div class="col-md-12 col-lg-12"> 
+                                           <img src="images/data/data_3.png" width="100%">
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                         <div id="tabs-4">
+                            <div class="scrollbar" id="style-2">
+                                <div class="force-overflow">
+                                    <p class="text-center title_txt">4</p>
+                                    <div class="text-center body_txt body_data_title"><h2>วิสัยทัศน์</h2></div>
+                                    <div class="body_txt">
+                                        <h3  class="body_data_text"></h3>
+                                    </div>
+
+                                     <div class="body_txt">
+                                         <h3 class="body_data_text"></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tabs-5">
+                            <div class="scrollbar" id="style-2">
+                                <div class="force-overflow">
+                                    <p class="text-center title_txt">ติดต่อบริษัท</p>
+                                    <div class="text-center body_txt body_data_title"><h3></h3></div>
+                                    <div class="body_txt">
+                                        <div class="font-weight-bold"><h3  class="body_data_no_indent_text text-center">บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) </h3><br> <br></div>
+                    <h3  class="body_data_no_indent_text text-center">319 อาคารจัตุรัสจามจุรี ชั้น12 <br> 
+                    ถนนพญาไท  แขวงปทุมวัน เขตปทุมวัน กทม. 10330<br> 
+                    โทรศัพท์ 02-684-8981 โทรสาร 02-684-8980</h3>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12 col-lg-12"> <br>
+                                            <div class="row">
+                                                <div class="col-md-11 col-lg-11"> 
+                                                    <img src="images/data/map.png" width="100%">
+                                                </div>
+                                                <div class="col-md-1 col-lg-1 d-flex align-items-end"> 
+                                                   <img src="images/data/link_map.png" >
+                                               </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-1"></div>
+                    
+            </div>
+        </div>
+    </div>
+</div>
