@@ -1,8 +1,13 @@
  
 $(function(){
+    
+    
+
+  
+  
  var idOld="";
 // hide bg
- if(idOld == ""){
+ if(idOld == ""){ 
     $(".page").hide();
  }
     // chang menu bar
@@ -19,13 +24,14 @@ $(function(){
        
         $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
         $("#"+ idOld +'_txt').addClass('menu_action');
+        //alert("name1 "+idOld)
         load_page();
     });
     
     function load_page(){
         $(".page").show();
        
-        $("#content_page").load("aira_network.html", function(responseTxt, statusTxt, jqXHR){
+        $("#content_page").load(idOld+".html", function(responseTxt, statusTxt, jqXHR){
                 if(statusTxt == "success"){
                     //alert("success!");
                 }
@@ -34,6 +40,8 @@ $(function(){
                 }
         });
     }
+    
+    
 });
 
 
