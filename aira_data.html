@@ -4,24 +4,8 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<script>
-  $( function() {
-     var idOld="";
-      if(idOld == ""){
-          idOld = "m_data_1";
-           $("#txt_"+ idOld).addClass("menu_title_action");
-      }
-        $( "#tabs" ).tabs();
-          $("a").click(function() {
-                 //remove class
-            $("#txt_"+ idOld ).removeClass('menu_title_action');
-            idOld = this.id;
+ <script src="js/init_page.js"></script>
 
-
-            $("#txt_"+ idOld).addClass("menu_title_action");
-          });
-  } );
-  </script>
 <div id="tabs">
     <div class="content-fluid">
         <div class="row title_page">
@@ -46,21 +30,21 @@ and open the template in the editor.
                 </ul> 
             </div>
             <div class="col-md-7 col-lg-8">
-                 
+                
                         <div id="tabs-1">
                             <div class="scrollbar" id="style-2">
                                 <div class="force-overflow">
                                     <p class="text-center title_txt">วิสัยทัศน์ / พันธกิจ</p>
                                     <div class="text-center body_txt body_data_title"><h2>วิสัยทัศน์</h2></div>
                                     <div class="body_txt">
-                                        <h3  class="body_data_text">บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัท
+                                        <h3  class="body_data_text text-justify">บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัท
                                         ระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม 
                                         และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงานบริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) 
                                         มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน </h3>
                                     </div>
 
                                      <div class="body_txt">
-                                         <h3 class="body_data_text">จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น 
+                                         <h3 class="body_data_text text-justify">จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น 
                                         ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน</h3>
                                     </div>
                                  </div>
@@ -283,14 +267,40 @@ and open the template in the editor.
                          <div id="tabs-4">
                             <div class="scrollbar" id="style-2">
                                 <div class="force-overflow">
-                                    <p class="text-center title_txt">4</p>
-                                    <div class="text-center body_txt body_data_title"><h2>วิสัยทัศน์</h2></div>
-                                    <div class="body_txt">
-                                        <h3  class="body_data_text"></h3>
+                                    <p class="text-center title_txt">โครงสร้างคณะกรรมการ</p>
+                                    <div class="text-center body_txt body_data_title"><h2></h2></div>
+                                    <div class="row">
+                                        <div class="col-lg-4"></div>
+                                        <div class="col-lg-4">
+                                               <a href="#"  id="myBtn">
+                                                   <img src="images/data/d_1.png" class="img-fluid" >
+                                               </a> 
+                                        </div>
+                                        <div class="col-lg-4"></div>
                                     </div>
-
-                                     <div class="body_txt">
-                                         <h3 class="body_data_text"></h3>
+                                    <div class="clearfix"></div>
+                                     <div class="row h_1">
+                                        <div class="col-lg-4"><img src="images/data/d_2.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_3.png" class="img-fluid"> </div>
+                                        <div class="col-lg-4"><img src="images/data/d_4.png" class="img-fluid"></div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="row h_1">
+                                        <div class="col-lg-4"><img src="images/data/d_5.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_6.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_7.png" class="img-fluid"></div>
+                                    </div> 
+                                    <div class="clearfix"></div>
+                                     <div class="row h_1">
+                                        <div class="col-lg-4"><img src="images/data/d_8.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_9.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_10.png" class="img-fluid"></div>
+                                    </div> 
+                                    <div class="clearfix"></div>
+                                    <div class="row h_1">
+                                        <div class="col-lg-4"><img src="images/data/d_11.png" class="img-fluid"></div>
+                                        <div class="col-lg-4"></div>
+                                        <div class="col-lg-4"><img src="images/data/d_12.png" class="img-fluid"></div>
                                     </div>
                                 </div>
                             </div>
@@ -323,7 +333,7 @@ and open the template in the editor.
                             </div>
                         </div>
                         <div class="col-lg-1"></div>
-                    
+                     
             </div>
         </div>
     </div>
