@@ -4,7 +4,7 @@ $(function(){
     
 
   
-  
+     
  var idOld="";
 // hide bg
  if(idOld == ""){ 
@@ -33,10 +33,11 @@ $(function(){
        
         $("#content_page").load(idOld+".html", function(responseTxt, statusTxt, jqXHR){
                 if(statusTxt == "success"){
+                   
                     //alert("success!");
                 }
                 if(statusTxt == "error"){
-                   // alert("Error: " + jqXHR.status + " " + jqXHR.statusText);
+                  alert("Error: " + jqXHR.status + " " + jqXHR.statusText);
                 }
         });
     }
