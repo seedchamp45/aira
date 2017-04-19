@@ -507,12 +507,24 @@ and open the template in the editor.
     }
     
     h3 {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         letter-spacing:1px;
     }
     
     h4 {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
+    }
+    
+    
+    .line{
+        width: 100%;
+         border-bottom: 1px solid #ffffff;
+    }
+    
+    .line_corporate{
+        width: 100%;
+        margin-bottom: 10px;
+         border-bottom: 1px solid #ffffff;
     }
 }
 
@@ -853,7 +865,21 @@ and open the template in the editor.
         line-height: 2rem !important ;
         margin-top: 10px;
     }
+    .img_bott_0 {
+            margin-bottom: 0rem !important;
+    }
     
+    .h_1{
+        margin-top: 1.5em;
+    }
+    .a_body{
+        background-image: url('../images/data/a_body.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
     
     h3 {
        
@@ -940,7 +966,7 @@ and open the template in the editor.
     #style-2::-webkit-scrollbar
     {
             width: 12px;
-            background-color: #ffffff;
+            /*background-color: #ffffff;*/
     }
 
     #style-2::-webkit-scrollbar-thumb
@@ -969,7 +995,7 @@ and open the template in the editor.
     background-size: 100% 100%;
 
     background-position: right top;
-    position: fixed; 
+    position: absolute; 
     top: 0; 
     left: 0; 
     min-width: 100%;
