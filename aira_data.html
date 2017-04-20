@@ -5,6 +5,38 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
  <script src="js/init_page.js"></script>
+<!-- Modal -->
+<div class="content-fluid">
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content bg_popup">
+          <div class="left">
+              <img src="images/data/b_1.png">
+          </div>
+          <div>
+              story
+          </div>
+          <div>
+              <>
+          </div>
+              
+        <!--<div class="modal-header d-flex flex-row-reverse">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>-->
+        
+        
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
 
 <div id="tabs">
     <div class="content-fluid">
@@ -272,9 +304,9 @@ and open the template in the editor.
                                     <div class="row">
                                         <div class="col-lg-4"></div>
                                         <div class="col-lg-4">
-                                               <a href="#"  id="myBtn">
-                                                   <img src="images/data/d_1.png" class="img-fluid" >
-                                               </a> 
+                                               
+                                                  <button type="button" class="btn btn-info btn-lg" id="myBtn">Open Modal</button> <img src="images/data/d_1.png" class="img-fluid" >
+                                              
                                         </div>
                                         <div class="col-lg-4"></div>
                                     </div>
@@ -338,3 +370,10 @@ and open the template in the editor.
         </div>
     </div>
 </div>
+<script>
+$(document).ready(function(){
+    $("#myBtn").click(function(){
+        $("#myModal").modal();
+    });
+});
+</script>
