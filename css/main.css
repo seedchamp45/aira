@@ -772,7 +772,7 @@ and open the template in the editor.
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        
+        background-position: center center;
         /*min-width: 9.35em;
         min-height: 6.4em;
         max-height: 8em;*/
