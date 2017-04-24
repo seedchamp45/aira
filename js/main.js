@@ -30,10 +30,11 @@ $(function(){
     
     function load_page(){
         $(".page").show();
-       
+        //alert("xxxx");
+        $('.carousel').carousel('pause');
         $("#content_page").load(idOld+".html", function(responseTxt, statusTxt, jqXHR){
                 if(statusTxt == "success"){
-                   
+                   $('#carousel_bar').hide();
                     //alert("success!");
                 }
                 if(statusTxt == "error"){

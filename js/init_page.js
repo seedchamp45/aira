@@ -19,10 +19,10 @@ $( function() {
                 idOld = this.id;
                 $("#txt_"+ idOld).addClass("menu_title_action");
             }else{
-                $("#myBtn").click(function(){
+                /*$("#myBtn").click(function(){
                     $("#myModal").modal();
                 });
-                
+                */
             }
           });
   } );
