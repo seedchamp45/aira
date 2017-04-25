@@ -52,7 +52,8 @@ and open the template in the editor.
     
     .img_res {
        width: 80%;
-       height: 80%
+       height: 80%;
+       margin: 0.2rem auto;
     }
     .logo{
         margin-left: 1.2em;
@@ -112,7 +113,7 @@ and open the template in the editor.
     .f_helvethaica{
         font-family: "db_helvethaica_x";
        font-size:0.9em;
-       font-weight: normal;
+       font-weight: bold;
        color: #333333; 
     }
     .nav-item {
@@ -216,13 +217,18 @@ and open the template in the editor.
     }
     
     .img_res {
-       width: 80%;
-       height: 80%
+       width: 75%;
+       height: 75%;
+       margin: 0.1rem auto;
     }
     .logo{
-        margin-left: 1.2em;
+        margin-left: 0.2em;
     }
     
+    .navbar-brand {
+   
+        margin-right: 0.2rem; 
+    }
     .bar_full_80{
         margin-left: 1em;
         width: 100%;
@@ -245,9 +251,14 @@ and open the template in the editor.
     .icon_menu{
         float: right;
         margin-left: 0px;
-        width: 35%;
-        margin-top: 7px;
+       /* width: 50%;
+        //margin-top: 7px;*/
     }
+    
+    /*.icon_menu {
+        float: right;
+        margin-left: 0px;
+    }*/
      .menu_bar{
        width:12.5%;
     }
@@ -272,12 +283,12 @@ and open the template in the editor.
        width:14%;
     }
      .menu_bar6{
-       width:19.8%;
+       width:18.8%;
     }
     .f_helvethaica{
         font-family: "db_helvethaica_x";
        font-size:0.9em;
-       font-weight: normal;
+       font-weight: bold;
        color: #333333; 
     }
     .nav-item {
@@ -382,15 +393,20 @@ and open the template in the editor.
         -o-background-size: cover;
         
         /*min-width: 9.35em;
-        min-height: 6.4em;
-        max-height: 8em;*/
-        background-size: 200px 131px;
-        min-height: 131px;
+        min-height: 6.4em;*/
+        
+        background-size: 9.8em 7em;
+        max-width: 10em;
+        min-width: 9em;
+        max-height: 7em;
+        min-height: 7em;
         background-repeat: no-repeat;
-         position: relative;
+        position: relative;
     }
+    
+   
     .margin2{
-        margin: 0.2rem;
+        margin: 0rem;
     }
     
     .row_between{
@@ -417,6 +433,8 @@ and open the template in the editor.
         font-size: 3.2em;
         font-weight: normal;
         color: #FFF !important;
+        margin-right: 1.5em;
+        
     }
     
     
@@ -427,12 +445,12 @@ and open the template in the editor.
         color: #FFF !important;
     }
     
-    .body_network{
+   
+   .body_network{
           margin: auto;
-        width: 60%;
-        border: 3px solid #73AD21;
-        padding: 10px;
-        
+       /* width: 60%;
+        border: 3px solid #73AD21;*/
+        padding: 10px; 
     }
     
     p1{
@@ -460,7 +478,7 @@ and open the template in the editor.
     
     .page{
         position: absolute;
-        height: 120%;
+        height: 76vh;
         width: 95%;
         background-color: #203080;
         margin-top: -1em;
@@ -476,11 +494,11 @@ and open the template in the editor.
     
     /*data*/
     .body_data_title{
-        margin-top: 5rem;
+        margin-top: 2rem;
     }
     .body_data{
         margin: auto;
-        padding: 12;
+        /*padding: 12 %;*/
         line-height: 2rem !important ;
         
     }
@@ -500,7 +518,8 @@ and open the template in the editor.
     }
     
     #content_page{
-        margin: 4em;
+        margin-left: 2em;
+        margin-right: 2em;
     }
     
     P.blocktext {
@@ -529,6 +548,53 @@ and open the template in the editor.
         margin-bottom: 10px;
          border-bottom: 1px solid #ffffff;
     }
+    .img_icon{
+        height: 5em;
+    }
+    /*score bar */
+   .scrollbar
+    {
+        
+	/*margin-left: 30px;
+	float: left;*/
+	height: 50vh;
+	width: 100%;
+	overflow-y: auto;
+        overflow-x: hidden;
+        margin-top: 25px;
+	margin-bottom: 25px;
+    }
+     /*corporate*/
+   .force-overflow
+    {
+        min-height: 300px;
+         margin-right: 3em;
+    }
+    
+    .force-overflow1 {
+        min-height: 400px;
+   
+    }
+ 
+    #style-2::-webkit-scrollbar-track
+    {
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+            border-radius: 10px;
+            background-color: #a29696;
+    }
+
+    #style-2::-webkit-scrollbar
+    {
+            width: 12px;
+          
+    }
+
+    #style-2::-webkit-scrollbar-thumb
+    {
+            border-radius: 10px;
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+            background-color: #ffffff;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -539,7 +605,9 @@ and open the template in the editor.
     }
     
     .img_res {
-        max-width: 100%;
+        width: 80%;
+        height: 80%;
+        /*margin: 0.2rem auto;*/
     }
     .menu_bar{
        width:12.5%;
@@ -757,8 +825,10 @@ and open the template in the editor.
    .f_helvethaica{
        font-family: "db_helvethaica_x";
        font-size:1.1em;
-       font-weight: normal;
+       font-weight: bold;
        color: #333333; 
+       line-height: 1.3rem !important;
+
     }
     /* bar */
     
@@ -788,10 +858,10 @@ and open the template in the editor.
   
     
     .row_between{
-        margin-top: 1em;
+        margin-top: 2em;
     }
      .row_between_top{
-        margin-top: 4em;
+        margin-top: 3em;
     }
     .row_data{
         /*padding-left: 0.5em;
@@ -809,6 +879,7 @@ and open the template in the editor.
         font-size: 3.2em;
         font-weight: normal;
         color: #FFF !important;
+        margin-right: 1.5em;
     }
     
     
@@ -835,7 +906,6 @@ and open the template in the editor.
           margin: auto;
        /* width: 60%;
         border: 3px solid #73AD21;*/
-        padding: 12;
         line-height: 2rem !important ;
         
     }
@@ -933,35 +1003,25 @@ and open the template in the editor.
        
         width: 98%;
         background-color: #203080;
-        
-        
-        margin-top: -2.5em;
-        margin-bottom: 5em;
+        height: 76vh;
+        margin-top: -1em;
+        margin-bottom: 1em;
+    
+       /* margin-top: -2.5em;
+        margin-bottom: 5em;*/
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
         filter: alpha(opacity=60);  /* IE 5-7 */
         -moz-opacity: 0.6;          /* Netscape */
         -khtml-opacity: 0.6;        /* Safari 1.x */
         opacity: 0.6; 
-        min-height: 100%;
-        height: 100%;/* Good browsers */
+      
     }
     
     #content_page{
         margin: 0em;
     }
     
-   /*score bar */
-    .scrollbar
-    {
-	/*margin-left: 30px;
-	float: left;*/
-	height: 70vh;
-	width: 100%;
-	overflow-y: auto;
-        overflow-x: hidden;
-        margin-top: 25px;
-	margin-bottom: 25px;
-    }
+   
 
     /*corporate*/
     
@@ -972,13 +1032,29 @@ and open the template in the editor.
         padding-left: 0rem;
         line-height: 2rem !important ;
     }
-    
+    /*score bar */
+    .scrollbar
+    {
+	/*margin-left: 30px;
+	float: left;*/
+	height: 50vh;
+	width: 100%;
+	overflow-y: auto;
+        overflow-x: hidden;
+        margin-top: 25px;
+	margin-bottom: 25px;
+    }
      /*corporate*/
     .force-overflow
     {
-            min-height: 450px;
+        min-height: 1em;
+        margin-right: 3em;
     }
 
+    .force-overflow1 {
+        min-height: 1em;
+   
+    }
     #style-2::-webkit-scrollbar-track
     {
             -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -1016,6 +1092,9 @@ and open the template in the editor.
 	margin-bottom: 25px;
     }
 
+    .img_icon {
+        height: 5em;
+    }
     
 /*score bar */
 }
@@ -1028,6 +1107,84 @@ and open the template in the editor.
         margin: 25vh auto !important;
     }
 }
+
+@media (min-width: 1400px){
+
+    .f_helvethaica {
+        font-family: "db_helvethaica_x";
+        font-size: 1.43em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1.5rem !important;
+    }
+    
+    .img_res {
+        width: 82%;
+        height: 82%;
+        margin: 0.2rem auto;
+    }
+    
+    .title_txt {
+        font-family: "db_helvethaica_x";
+        margin-top: 0.4em;
+        font-size: 3.4em;
+        font-weight: normal;
+        color: #FFF !important;
+        margin-right: 1.5em;
+    }
+    
+    .h2, h2 {
+        font-size: 2.5rem;
+    }
+    
+    .h3, h3 {
+        font-size: 2rem;
+    }
+    
+    .body_data_text {
+        margin-top: 2.5rem;
+        padding-left: 0rem;
+        padding-right: 1.7rem;
+        text-indent: 2rem;
+        line-height: 2.5rem !important;
+    }
+    
+    .scrollbar {
+        height: 50vh;
+        width: 98%;
+        overflow-y: auto;
+        overflow-x: hidden;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+ }
+ 
+ 
+ 
+ @media (min-width: 1900px){
+
+    .f_helvethaica {
+        font-family: "db_helvethaica_x";
+        font-size: 1.6em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1.5rem !important;
+    }
+    
+     .img_res {
+        width: 84%;
+        height: 84%;
+        margin: 0.2rem auto;
+    }
+    
+     .h2, h2 {
+        font-size: 2.8rem;
+    }
+    
+    .h3, h3 {
+        font-size: 2.3rem;
+    }
+ }
 .bg-inverse {
     background-color: #ffffff!important;
     box-shadow: 0px 5px 5px #333333;
