@@ -115,7 +115,9 @@ and open the template in the editor.
        font-size:0.9em;
        font-weight: bold;
        color: #333333; 
+        text-transform: uppercase;
     }
+    
     .nav-item {
        margin-right: 0.09em;
         margin-left: 0.09em;
@@ -217,12 +219,17 @@ and open the template in the editor.
     }
     
     .img_res {
-       width: 75%;
-       height: 75%;
-       margin: 0.1rem auto;
+         width: 70%;
+        height: 70%;
+       
+        margin-top: 0.1rem;
+        margin-right: auto;
+        margin-bottom: 0.1rem;
+        margin-left: auto;
     }
     .logo{
-        margin-left: 0.2em;
+        width: 8em;
+       /* margin-left: 0.2em;*/
     }
     
     .navbar-brand {
@@ -280,19 +287,29 @@ and open the template in the editor.
     }
     
     .menu_bar5{
-       width:14%;
+       width:13.4%;
     }
      .menu_bar6{
-       width:18.8%;
+      width:11.3%;
     }
     .f_helvethaica{
         font-family: "db_helvethaica_x";
-       font-size:0.9em;
+       font-size:0.7em;
        font-weight: bold;
-       color: #333333; 
+       color: #333333;
+       text-transform: uppercase;
     }
+    
+    .txt_en{
+         font-size:0.7em;
+    }
+    .txt_jp{
+        margin-top: 0.5em;
+         font-size:0.7em;
+    }
+    
     .nav-item {
-       margin-right: 0.09em;
+      /* margin-right: 0.09em;*/
         margin-left: 0.09em;
     }
     
@@ -312,20 +329,21 @@ and open the template in the editor.
          -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-         background-size: 90% 90%;
-        width:2.4em;
-        height:1.9em;
+         background-size: 100% 100%;
+        width:2.3em;
+        height:1.77em;
         background-repeat: no-repeat;
     }
     
     .icon_en{
+        
         background-image: url('../images/menu/bu_en.png');
          -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-         background-size: 90% 90%;
-        width:2.4em;
-        height:1.9em;
+         background-size: 100% 100%;
+        width:2.3em;
+        height:1.78em;
         background-repeat: no-repeat;
     }
     
@@ -334,53 +352,57 @@ and open the template in the editor.
          -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        background-size: 90% 90% !important;
+        background-size: 100% 100% !important;
         width:2.4em;
-        height:1.9em;
+        height:1.8em;
         background-repeat: no-repeat;
     }
     
     .icon_facebook{
+        margin: 0.15em;
         background-image: url('../images/menu/bu_facebook.png');
          -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
+        width:1.75em;
+        height:1.75em;
         background-repeat: no-repeat;
     }
     
     .icon_youtub{
+        margin: 0.15em;
         background-image: url('../images/menu/bu_youtube.png');
-         -webkit-background-size: cover;
+        -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 90% 90%;
-        width:1.6em;
-        height:1.5em;
+        width:1.75em;
+        height:1.75em;
         background-repeat: no-repeat;
     }
     
     .icon_twitter{
+        margin: 0.15em;
         background-image: url('../images/menu/bu_twitter.png');
-         -webkit-background-size: cover;
+        -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
+        width:1.75em;
+        height:1.75em;
         background-repeat: no-repeat;
     }
     
     .icon_google{
+        margin: 0.15em;
         background-image: url('../images/menu/bu_google.png');
-         -webkit-background-size: cover;
+        -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
+        width:1.75em;
+        height:1.75em;
          background-repeat: no-repeat;
     }
     
@@ -828,7 +850,7 @@ and open the template in the editor.
        font-weight: bold;
        color: #333333; 
        line-height: 1.3rem !important;
-
+       text-transform: uppercase;
     }
     /* bar */
     
@@ -890,6 +912,11 @@ and open the template in the editor.
         color: #FFF !important;
     }
     
+    .txt_data{
+        font-size: 1.2em;
+    
+    }
+        
     .body_network{
           margin: auto;
        /* width: 60%;
@@ -1116,6 +1143,7 @@ and open the template in the editor.
         font-weight: bold;
         color: #333333;
         line-height: 1.5rem !important;
+        text-transform: uppercase;
     }
     
     .img_res {
@@ -1141,6 +1169,10 @@ and open the template in the editor.
         font-size: 2rem;
     }
     
+        
+    .h4, h4 {
+        font-size: 1.8rem;
+    }
     .body_data_text {
         margin-top: 2.5rem;
         padding-left: 0rem;
@@ -1148,7 +1180,10 @@ and open the template in the editor.
         text-indent: 2rem;
         line-height: 2.5rem !important;
     }
+    .txt_data{
+        font-size: 1.4em;
     
+    }
     .scrollbar {
         height: 50vh;
         width: 98%;
@@ -1156,6 +1191,22 @@ and open the template in the editor.
         overflow-x: hidden;
         margin-top: 25px;
         margin-bottom: 25px;
+    }
+    
+    .pop_network {
+        background-image: url(../images/network/pop_network.png);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-position: center center;
+        background-size: 15rem 9rem;
+        min-height: 9rem;
+        max-height: 10rem;
+        background-repeat: no-repeat;
+    }
+    
+    .row_between {
+        margin-top: 5em;
     }
  }
  
@@ -1165,15 +1216,16 @@ and open the template in the editor.
 
     .f_helvethaica {
         font-family: "db_helvethaica_x";
-        font-size: 1.6em;
+        font-size: 1.9em;
         font-weight: bold;
         color: #333333;
         line-height: 1.5rem !important;
+        text-transform: uppercase;
     }
     
      .img_res {
-        width: 84%;
-        height: 84%;
+        width: 90%;
+        height: 90%;
         margin: 0.2rem auto;
     }
     
@@ -1184,7 +1236,56 @@ and open the template in the editor.
     .h3, h3 {
         font-size: 2.3rem;
     }
+    
+    
+    .h4, h4 {
+        font-size: 1.9rem;
+    }
+    
+    .title_txt {
+        font-family: "db_helvethaica_x";
+        margin-top: 0.4em;
+        font-size: 3.4em;
+        font-weight: normal;
+        color: #FFF !important;
+        margin-right: 1.5em;
+    }
+    
+    .pop_network {
+        background-image: url(../images/network/pop_network.png);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-position: center center;
+        background-size: 19rem 11rem;
+        min-height: 11rem;
+        background-repeat: no-repeat;
+    }
+    
+    .txt_data{
+        font-size: 1.6em;
+    
+    }
+    
+    .page {
+        position: fixed;
+        width: 98%;
+        background-color: #203080;
+        height: 82vh;
+        margin-top: -1em;
+        margin-bottom: 1em;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+        filter: alpha(opacity=60);
+        -moz-opacity: 0.6;
+        -khtml-opacity: 0.6;
+        opacity: 0.6;
+    }
+    
+    .row_between {
+        margin-top: 6em;
+    }
  }
+ 
 .bg-inverse {
     background-color: #ffffff!important;
     box-shadow: 0px 5px 5px #333333;
@@ -1218,8 +1319,10 @@ and open the template in the editor.
 
 ul .setting{
     /* margin: auto;
-    width: 99%;*/
-    -webkit-padding-start: 1em;
+    width: 99%;
+    -webkit-padding-start: 1em;*/
+    padding-left: 0;
+    
     list-style-type: none;
 }
 ul .setting li {
@@ -1259,7 +1362,7 @@ a .menu_right{
  .menu_title_action{
     margin-top: 10px !important;
     color: #F00 !important;
-    text-decoration: underline  red !important;
+    text-decoration: underline !important;
 }
 
 .menu1 {
