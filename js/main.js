@@ -1,9 +1,9 @@
  
 $(function(){
-    var url_facebook = "https://www.facebook.com";
-    var url_youtube = "https://www.youtube.com";
-    var url_twitter = "https://www.twitter.com";
-    var url_google_plus = "https://www.plus.google.com";
+    var url_facebook = "https://www.facebook.com/airasec";
+    var url_youtube = "https://www.youtube.com/channel/UClcq7jhMDEQ7iDCb2g_F2Fw";
+    var url_twitter = "https://twitter.com/airaplc";
+    var url_google_plus = "https://plus.google.com/+AIRAPLCNo48";
     var img_map = "images/data/map";
     var url_map = "https://www.google.co.th/maps/"; 
     var img_board="images/data/board";
@@ -118,13 +118,13 @@ $(function(){
         
         },
         "en": {
-            "_m_b1": "<div class='txt_en'>Group<br>Companies</div>",
-            "_m_b2": "<div class='txt_en'>Company<br>Overview</div>",
-            "_m_b3": "<div class='txt_en'>Service<br>Information</div>",
-            "_m_b4": "<div class='txt_en'>Investor<br>Relations</div>",
-            "_m_b5": "<div class='txt_en'>News <br>and Event</div>",
-            "_m_b6": "<div class='txt_en'>Corporate <br>Governance</div>",
-            "_m_b7": "<div class='txt_en'>Corporate Social <br>Responsibility</div>",
+            "_m_b1": "Group<br>Companies",
+            "_m_b2": "Company<br>Overview",
+            "_m_b3": "Service<br>Information",
+            "_m_b4": "Investor<br>Relations",
+            "_m_b5": "News <br>and Event",
+            "_m_b6": "Corporate <br>Governance",
+            "_m_b7": "Corporate Social <br>Responsibility",
             
             "a_n_title": "บริษัทในเครือไอร่า en",
             "a_n_1": " ccc",
