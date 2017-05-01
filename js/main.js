@@ -88,34 +88,77 @@ $(function(){
             "a_d_m_5":"ติดต่อเรา",
             
             "a_d_tag1":"วิสัยทัศน์ / พันธกิจ",
+            "a_d_tag1_2":"พันธกิจ",
             "a_d_tag2":"ประวัติบริษัท",
             "a_d_tag3":"แผนผังองค์กร",
             "a_d_tag4":"โครงสร้างคณะกรรมการ",
             "a_d_tag5":"ติดต่อบริษัท",
             
-            "a_d_tag1_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงานบริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน",
-            "a_d_tag1_txt_2":"จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน",
-            "a_d_tag2_txt_1":"ต.ค. ก่อตั้งบริษัท แอสไพเรชั่น วัน จำกัด และถือหุ้น 60% ทุนจดทะเบียน  1 พันล้านบาท",
-            "a_d_tag2_txt_2":"ก.ค. ก่อตั้งบริษัท ไอร่า พร๊อพเพอร์ตี้ จำกัด ทุนจดทะเบียน 200 ล้านบาท",
-            "a_d_tag2_txt_3":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท",
-            "a_d_tag2_txt_4":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ",
-            "a_d_tag2_txt_5":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท",
-            "a_d_tag2_txt_6":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ",
-            "a_d_tag2_txt_7":"มี.ค. เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เป็น 1,000 ล้านบาท",
-            "a_d_tag2_txt_8":"ต.ค. จัดตั้ง AIRA International Advisory (Singapore) PTE.LTD. บริษัทที่ปรึกษาทางการเงิน แห่งใหม่ ณ ประเทศสิงคโปร์",
-            "a_d_tag2_txt_9":"ก.ย. แปลงสภาพ บริษัท ไอร่า แคปปิตอล จำกัด เป็นบริษัทมหาชน",
-            "a_d_tag2_txt_10":'มี.ค. เข้าลงทุนใน บริษัทแฟคตอริ่งซึ่งจดทะเบียนในตลาด เอ็ม เอ ไอ และเปลี่ยนชื่อ เป็น "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)"',
-            "a_d_tag2_txt_11":"ม.ค. เพิ่มทุนจดทะเบียนชำระแล้ว บริษัท ไอร่า แคปปิตอล จำกัด เป็น 779.18 ล้านบาท",
-            "a_d_tag2_txt_12":"ก.พ. ก่อตั้งบริษัท ไอร่า แคปปิตอล จำกัด ด้วยทุนจดทะเบียน 623.36 ล้านบาท และเข้าถือหุ้น บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) 100%",
-            "a_d_tag2_txt_13":"มี.ค. รวมบริษัทที่ปรึกษาทางการเงินในเครือ 3 แห่งเข้าด้วยกันและเพิ่มทุนจดทะเบียน จาก 20 ล้านบาทเป็น 30 ล้านบาท โดยเปลี่ยนชื่อเป็น บริษัท ไอร่า แอดไวเซอรี่ จำกัด",
-            "a_d_tag2_txt_14":"มิ.ย. เพิ่มทุนจดทะเบียน บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 720 ล้านบาท",
-            "a_d_tag2_txt_15":"เม.ย. เพิ่มทุนที่ชำระแล้ว บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 600 ล้านบาท",
-            "a_d_tag2_txt_16":"ธ.ค. แปลงสภาพ บริษัทหลักทรัพย์ ไอร่า จำกัดเป็นบริษัทมหาชน",
-            "a_d_tag2_txt_17":"พ.ค. บริษัทหลักทรัพย์ ไอร่า จำกัด เพิ่มทุนจดทะเบียนเป็น 500 ล้านบาท",
-            "a_d_tag2_txt_18":"พ.ย. ซื้อกิจการบริษัทหลักทรัพย์ หมายเลข 48 ของตลาดหลักทรัพย์แห่งประเทศไทย โดยได้เปลี่ยนโครงสร้างการบริหารจัดการ และเปลี่ยนชื่อใหม่เป็น บริษัทหลักทรัพย์ ไอร่า จำกัด",
-            "a_d_tag5_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
-            "a_d_tag5_txt_2":"319 อาคารจัตุรัสจามจุรี ชั้น12 <br> ถนนพญาไท  แขวงปทุมวัน เขตปทุมวัน กทม. 10330<br>โทรศัพท์ 02-684-8981 โทรสาร 02-684-8980"
-        
+            "a_d_tag1_txt_1":"มุ่งมั่นที่จะเป็นกลุ่มบริษัททางการเงินชั้นนำ ที่มีเครือข่ายพันธมิตรในระดับสากล ที่สามารถตอบสนองความต้องการของลูกค้า<br> ด้วยผลิตภัณฑ์และบริการทางการเงินที่หลากหลายและครบถ้วน",
+            "a_d_tag1_txt_2":"สร้างคุณค่าสูงสุดภายใต้หลักธรรมาภิบาลให้แก่ผู้มีส่วนได้เสีย ซึ่งได้แก่",
+            "a_d_tag2_txt_1":"จัดตั้งบริษัท ไอร่า เวนเจอร์ แคปปิตอล เพื่อประกอบกิจการเงินร่วมลงทุน ด้วยทุนจดทะเบียน 20 ล้านบาท",
+            "a_d_tag2_txt_2":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เซ็นต์สัญญา JVA กับ Kenedix Asia Pte. Ltd. และ Eugene Investment & Securities Co., Ltd. ในการร่วมลงทุนในบริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด (มหาชน)",
+            "a_d_tag2_txt_3":"ร่วมทุนกับ Travelex Limited จัดตั้งบริษัท “Travelex (Thailand) Limited” ดำเนินธุรกิจแลกเปลี่ยนสกุลเงิน ด้วยทุนจดทะเบียน 110 ล้านบาท",
+            "a_d_tag2_txt_4":'เข้าลงทุนใน บริษัท เร้นท์-อะ-วี จำกัด และแปรสภาพเป็นบริษัทมหาชนพร้อมเปลี่ยนชื่อเป็น "บริษัท ไอร่า ลีสซิ่ง จำกัด (มหาชน)"',
+            "a_d_tag2_txt_4_1":"บริษัท แอสไพเรชั่น วัน จำกัด ได้รับสิทธิ์ในการเช่าที่ดินหมายเลข1 บริเวณสี่แยกราชเทวีของสำนักงานทรัพย์สินส่วนพระมหากษัตริย์ เป็นเวลา 30 ปี เพื่อก่อสร้างอาคารสำนักงานให้เช่า",
+            "a_d_tag2_txt_4_2":"เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด เป็น 500 ล้านบาท และแปรสภาพเป็นบริษัทมหาชน",
+            "a_d_tag2_txt_5":"บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด ร่วมทุนกับบริษัท เสนา ดีเวลอปเม้นต์ จำกัด (มหาชน) และบริษัท แสงฟ้าก่อสร้าง จำกัด จัดตั้งบริษัท แอสไพเรชั่น วัน จำกัด ซึ่งเป็นบริษัทพัฒนาอสังหาริมทรัพย์ใน สัดส่วน 60%",
+            "a_d_tag2_txt_6":"ก่อตั้ง บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด ด้วยทุนจดทะเบียน 200 ล้านบาท",
+            "a_d_tag2_txt_7":"เข้าร่วมลงทุนกับ AIFUL CORPORATION จัดตั้ง “บริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน)”ใน สัดส่วน 30%",
+            "a_d_tag2_txt_7_1":"เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ",
+            "a_d_tag2_txt_8":"เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เป็น 1,000 ล้านบาท",
+            "a_d_tag2_txt_8_1":"จัดตั้ง AIRA International Advisory (Singapore) PTE.LTD. บริษัทที่ปรึกษาทางการเงิน แห่งใหม่ ณ ประเทศสิงคโปร์",
+            "a_d_tag2_txt_9":"แปรสภาพ บริษัท ไอร่า แคปปิตอล จำกัด เป็นบริษัทมหาชน",
+            "a_d_tag2_txt_10":'เข้าลงทุนใน บริษัท ธนมิตร แฟคตอริ่ง จำกัด (มหาชน) และเปลี่ยนชื่อ เป็น "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)"',
+            "a_d_tag2_txt_11":"เพิ่มทุนจดทะเบียนชำระแล้ว บริษัท ไอร่า แคปปิตอล จำกัด เป็น 779.18 ล้านบาท",
+            "a_d_tag2_txt_12":"ก่อตั้งบริษัท ไอร่า แคปปิตอล จำกัด ด้วยทุนจดทะเบียน 623.35 ล้านบาท และเข้าถือหุ้น บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) 99.99%",
+            "a_d_tag2_txt_13":"・เริ่มทำธุรกรรมบริการยืมและให้ยืมทรัพย์ (SBL) และได้รับใบอนุญาต Private Fund จากสำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (SEC)<br>・ให้บริการลงทุนในหลักทรัพย์ต่างประเทศ (Global Trading Business) ในไตรมาสที่ 2",
+            "a_d_tag2_txt_13_1":"รวมบริษัทที่ปรึกษาทางการเงินในเครือ 3 แห่งเข้าด้วยกันและเพิ่มทุนจดทะเบียน จาก 20 ล้านบาทเป็น 30 ล้านบาท โดยเปลี่ยนชื่อเป็น บริษัท ไอร่า แอดไวเซอรี่ จำกัด",
+            "a_d_tag2_txt_14":"บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) ได้รับอนุมัติใบอนุญาต TFEX และใบอนุญาตธุรกิจหลักทรัพย์ ประเภท ก.",
+            "a_d_tag2_txt_14_1":"เพิ่มทุนจดทะเบียน บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 720 ล้านบาท",
+            "a_d_tag2_txt_15":"เพิ่มทุนที่ชำระแล้ว บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 600 ล้านบาท",
+            "a_d_tag2_txt_16":"แปรสภาพ บริษัทหลักทรัพย์ ไอร่า จำกัดเป็นบริษัทมหาชน",
+            "a_d_tag2_txt_16_1":"บริษัทหลักทรัพย์ ไอร่า จำกัด เปิดสาขาแรก สำหรับบริการลูกค้ารายย่อย",
+            "a_d_tag2_txt_17":"บริษัทหลักทรัพย์ ไอร่า จำกัด เพิ่มทุนจดทะเบียนเป็น 500 ล้านบาท",
+            "a_d_tag2_txt_18":"เข้าซื้อกิจการบริษัทหลักทรัพย์ หมายเลข 48 ของตลาดหลักทรัพย์แห่งประเทศไทย โดยได้เปลี่ยนโครงสร้างการบริหารจัดการ และเปลี่ยนชื่อใหม่เป็น บริษัทหลักทรัพย์ ไอร่า จำกัด",
+            "a_d_tag5_txt_1":"<b>บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)</b>",
+            "a_d_tag5_txt_2":"319 อาคารจัตุรัสจามจุรี ชั้น12 ถนนพญาไท แขวงปทุมวัน เขตปทุมวัน กทม. 10330<br>โทร 02-684-8981 Fax:02-684-8980",
+            "b_s_m_1":"ไอร่า แคปปิตอล",
+            "b_s_m_2":"หลักทรัพย์ ไอร่า",
+            "b_s_m_3":"ไอร่า แฟคตอริ่ง",
+            "b_s_m_4":"AIRA International Advisory",
+            "b_s_m_5":"ไอร่า แอนด์ ไอฟุล",
+            "b_s_m_6":"ไอร่า พร็อพเพอร์ตี้",
+            "b_s_m_7":"ไอร่า ลีสซิ่ง",
+            "b_s_m_8":"ไอร่า เวนเจอร์ แคปปิตอล ทราเวลเล็กซ์",
+            "b_s_m_9":"แอสไพเรชั่น วัน",
+            "b_s_m_10":"ไอร่า แอดไวเซอรี่",
+            "b_s_title_1":"ข้อมูลธุรกิจ / บริการ",
+            
+           
+            "b_s_tag1_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+            "b_s_tag2_txt_1":"บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)",
+            "b_s_tag3_txt_1":"บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)",
+            "b_s_tag4_txt_1":"AIRA International Advisory (Singapore) Pte. Ltd.",
+            "b_s_tag5_txt_1":"บริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน)",
+            "b_s_tag6_txt_1":"บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด (มหาชน)",
+            "b_s_tag7_txt_1":"บริษัท ไอร่า ลีสซิ่ง จำกัด (มหาชน)",
+            "b_s_tag8_txt_1":"บริษัท ไอร่า เวนเจอร์ แคปปิตอล จำกัด",
+            "b_s_tag9_txt_1":"บริษัท ไอร่า แอดไวเซอรี่ จำกัด",
+            "b_s_tag10_txt_1":"บริษัท แอสไพเรชั่น วัน จำกัด",
+            
+             "b_s_tag1_txt_2":"จดทะเบียนเป็นบริษัทจำกัดเมื่อ วันที่ 21 มกราคม 2553 และแปรสภาพเป็นบริษัทมหาชน<br>ในวันที่ 9 กันยายน 2554 บริษัทก่อตั้งขึ้นโดยมีจุดประสงค์เพื่อดำเนินธุรกิจการลงทุนในบริษัทอื่น<br>(Holding Company) ที่ประกอบธุรกิจการเงิน โดยมุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน<br>มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน และจะให้ความสำคัญ<br>ในการบริหารอย่างมีคุณธรรมจริยธรรม ให้บริการที่มีคุณภาพและสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น<br>ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน",
+            "b_s_tag2_txt_2":"จำนวน 99.99% ซึ่งมีบริษัทไอร่า แอดไวเซอรี่ จำกัด เป็นบริษัทในเครือ<br>บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) ได้รับใบอนุญาตประกอบธุรกิจหลักทรัพย์หมายเลข 48<br>ของตลาดหลักทรัพย์แห่งประเทศไทย",
+            "b_s_tag3_txt_2":"จำนวน 71.55%<br>โดยบริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน) ประกอบธุรกิจผู้ให้บริการเงินทุนหมุนเวียนระยะสั้น<br>ประเภทแฟคตอริ่งแก่ผู้ประกอบการ เพื่อสร้างความมั่นใจให้กับลูกค้าของเราว่า จะสามารถดำเนินธุรกิจ<br>โดยมีเงินทุนหมุนเวียนในการดำเนินธุรกิจอย่างเพียงพอ",
+            "b_s_tag4_txt_2":"จำนวน 90.00%<br>ให้บริการที่ปรึกษาทางธุรกิจแบบครบวงจร รวมถึงการควบรวม และซื้อขายกิจการ<br>ในภาคพื้นเอเชียตะวันออกเฉียงใต้ สำนักงานตั้งอยู่ ณ ประเทศสิงคโปร์",
+            "b_s_tag5_txt_2":"จำนวน 30.00%<br>ประกอบธุรกิจให้บริการสินเชื่อส่วนบุคคลในประเทศไทย",
+            "b_s_tag6_txt_2":"จำนวน 60% ประกอบธุรกิจพัฒนาอสังหาริมทรัพย์",
+            "b_s_tag7_txt_2":"จำนวน 80%<br>ประกอบธุรกิจให้เช่า เช่าซื้อ และเช่าแบบลีสซิ่ง ทั้งบุคคลธรรมดา และนิติบุคคล",
+            "b_s_tag8_txt_2":"จำนวน 100%<br>ประกอบกิจการเงินร่วมลงทุน เพื่อสนับสนุนการเงินร่วมลงทุนของภาครัฐ",
+            "b_s_tag9_txt_2":"ให้บริการที่ปรึกษาทางธุรกิจแบบครบวงจร ทั้งในด้านการเงินและการบัญชี การปรับปรุงโครงสร้างหนี้<br>การซื้อขายและควบรวมกิจการ ภาษี และ การจัดฝึกอบรมภายในองค์กร บริการของเราครอบคลุมทุกภาคธุรกิจ<br>ทั้งภาครัฐและภาคเอกชน สถาบันการเงิน บริษัทจดทะเบียนในตลาดหลักทรัพย์ฯ<br>ธุรกิจSMEs รวมทั้งบุคคลธรรมดา",
+            "b_s_tag10_txt_2":"จำนวน 60.00%<br>ประกอบธุรกิจพัฒนาอสังหาริมทรัพย์ ด้านการก่อสร้างอาคารสูง สำหรับสำนักงานให้เช่า"
+            
+            
         },
         "en": {
             "_m_b1": "Group<br>Companies",
@@ -126,17 +169,17 @@ $(function(){
             "_m_b6": "Corporate <br>Governance",
             "_m_b7": "Corporate Social <br>Responsibility",
             
-            "a_n_title": "บริษัทในเครือไอร่า en",
-            "a_n_1": " ccc",
-            "a_n_2": "บริษัท หลักทรัพย์ ไอร่า จำกัด<br>( มหาชน ) en",
-            "a_n_3": "บริษัท ไอร่า แฟคเตอริ่ง จำกัด<br>( มหาชน ) en",
-            "a_n_4": "AIRA International Advisory<br>( Singapore ) Pte.Ltd. en",
-            "a_n_5": "บริษัท ไอร่า แอนด์ ไอฟุล จำกัด<br>( มหาชน ) en",
-            "a_n_6": "บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด<br>( มหาชน ) en",
-            "a_n_7": "บริษัท ไอร่า ลีสซิ่ง จำกัด<br>( มหาชน )en",
-            "a_n_8": "บริษัท ไอร่า เวนเจอร์ แคปปิตอล<br>ทราเวลเล็กซ์ (ไทยแลนด์) จำกัด en",
-            "a_n_9": "บริษัท ไอร่า แอดไวเซอรี่ จำกัด en",
-            "a_n_10": "บริษัท แอสไพเรชั่น วัน จำกัด en",
+            "a_n_title": "OVERVIEW",
+            "a_n_1": "AIRA Capital Public<br>Company Limited",
+            "a_n_2": "AIRA Securities Public<br>Company Limited",
+            "a_n_3": "AIRA Factoring Public<br>Company Limited",
+            "a_n_4": "AIRA International Advisory<br>( Singapore ) Pte.Ltd.",
+            "a_n_5": "AIRA & AIFUL Public<br>Company Limited.",
+            "a_n_6": "AIRA Property Public<br>Company Limited",
+            "a_n_7": "AIRA Leasing Public<br>Company Limited",
+            "a_n_8": "AIRA Venture Capital Limited",
+            "a_n_9": "AIRA Advisory Company Limited",
+            "a_n_10": "Aspiration One Company Limited",
             
             "c_g_m1": "นโยบายของบริษัท en",
             "c_g_m2": "รายงานการกำกับดูแลกิจการที่ดี en",
@@ -182,40 +225,81 @@ $(function(){
             "n_a_m_tag2_t_1":"ตัวแทนคณะผู้บริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) และบริษัทในเครือร่วมกันจัดโครงการช่วยเหลือสังคม เพื่อเป็นส่วนหนึ่งของการพัฒนาสังคม และสิ่งแวดล้อมสู่การพัฒนาอย่างยั่งยืน ตามแนวคิดด้าน CSR ของตลาดหลักทรัพย์ แห่งประเทศไทย โดยในปีนี้ บริษัทได้จัด “โครงการไอร่าเพื่อสังคม สู่การพัฒนาอย่างยั่งยืน” เป็นปีที่ 2 ขึ้นที่โรงเรียนปากคลองชวดใหญ่ อ.บางบ่อ จ.สมุทรปราการ โดยได้มอบทุนการศึกษาหนังสืออุปกรณ์การเรียนและอุปกรณ์กีฬาให้กับโรงเรียนที่ห่างไกล เมื่อวันที่ 15 กรกฎาคม 2559 en",
             "n_a_m_tag3_t_1":"333 en",
             
-            "a_d_m_1":"วิสัยทัศน์ en",
-            "a_d_m_2":"ประวัติบริษัท en",
-            "a_d_m_3":"แผนผังองค์กร en",
-            "a_d_m_4":"โครงสร้างคณะกรรมการ en",
-            "a_d_m_5":"ติดต่อเรา  en",
+            "a_d_m_1":"VISION/ MISSION",
+            "a_d_m_2":"MILESTONE",
+            "a_d_m_3":"ORGANIZATION",
+            "a_d_m_4":"MANAGEMENT",
+            "a_d_m_5":"CONTACT",
             
-            "a_d_tag1":"วิสัยทัศน์ / พันธกิจ en",
+            "a_d_tag1":"VISION ",
+            "a_d_tag1_2":"MISSION",
             "a_d_tag2":"ประวัติบริษัท en",
-            "a_d_tag3":"แผนผังองค์กร en",
-            "a_d_tag4":"โครงสร้างคณะกรรมการ en",
-            "a_d_tag5":"ติดต่อบริษัท en",
+            "a_d_tag3":"ORGANIZATION CHART",
+            "a_d_tag4":"MANAGEMENT",
+            "a_d_tag5":"CONTACT",
             
-            "a_d_tag1_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงานบริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน  en",
-            "a_d_tag1_txt_2":"จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน en",
-            "a_d_tag2_txt_1":"ต.ค. ก่อตั้งบริษัท แอสไพเรชั่น วัน จำกัด และถือหุ้น 60% ทุนจดทะเบียน  1 พันล้านบาท en",
-            "a_d_tag2_txt_2":"ก.ค. ก่อตั้งบริษัท ไอร่า พร๊อพเพอร์ตี้ จำกัด ทุนจดทะเบียน 200 ล้านบาท en",
-            "a_d_tag2_txt_3":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท en",
-            "a_d_tag2_txt_4":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ en",
-            "a_d_tag2_txt_5":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท en",
-            "a_d_tag2_txt_6":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ en",
-            "a_d_tag2_txt_7":"มี.ค. เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เป็น 1,000 ล้านบาท en",
-            "a_d_tag2_txt_8":"ต.ค. จัดตั้ง AIRA International Advisory (Singapore) PTE.LTD. บริษัทที่ปรึกษาทางการเงิน แห่งใหม่ ณ ประเทศสิงคโปร์ en",
-            "a_d_tag2_txt_9":"ก.ย. แปลงสภาพ บริษัท ไอร่า แคปปิตอล จำกัด เป็นบริษัทมหาชน en",
-            "a_d_tag2_txt_10":'มี.ค. เข้าลงทุนใน บริษัทแฟคตอริ่งซึ่งจดทะเบียนในตลาด เอ็ม เอ ไอ และเปลี่ยนชื่อ เป็น "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน) en"',
-            "a_d_tag2_txt_11":"ม.ค. เพิ่มทุนจดทะเบียนชำระแล้ว บริษัท ไอร่า แคปปิตอล จำกัด เป็น 779.18 ล้านบาท en",
-            "a_d_tag2_txt_12":"ก.พ. ก่อตั้งบริษัท ไอร่า แคปปิตอล จำกัด ด้วยทุนจดทะเบียน 623.36 ล้านบาท และเข้าถือหุ้น บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) 100% en",
-            "a_d_tag2_txt_13":"มี.ค. รวมบริษัทที่ปรึกษาทางการเงินในเครือ 3 แห่งเข้าด้วยกันและเพิ่มทุนจดทะเบียน จาก 20 ล้านบาทเป็น 30 ล้านบาท โดยเปลี่ยนชื่อเป็น บริษัท ไอร่า แอดไวเซอรี่ จำกัด en",
-            "a_d_tag2_txt_14":"มิ.ย. เพิ่มทุนจดทะเบียน บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 720 ล้านบาท en" ,
-            "a_d_tag2_txt_15":"เม.ย. เพิ่มทุนที่ชำระแล้ว บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 600 ล้านบาท en",
-            "a_d_tag2_txt_16":"ธ.ค. แปลงสภาพ บริษัทหลักทรัพย์ ไอร่า จำกัดเป็นบริษัทมหาชน en",
-            "a_d_tag2_txt_17":"พ.ค. บริษัทหลักทรัพย์ ไอร่า จำกัด เพิ่มทุนจดทะเบียนเป็น 500 ล้านบาท en",
-            "a_d_tag2_txt_18":"พ.ย. ซื้อกิจการบริษัทหลักทรัพย์ หมายเลข 48 ของตลาดหลักทรัพย์แห่งประเทศไทย โดยได้เปลี่ยนโครงสร้างการบริหารจัดการ และเปลี่ยนชื่อใหม่เป็น บริษัทหลักทรัพย์ ไอร่า จำกัด en",
-            "a_d_tag5_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) en",
-            "a_d_tag5_txt_2":"319 อาคารจัตุรัสจามจุรี ชั้น12 <br> ถนนพญาไท  แขวงปทุมวัน เขตปทุมวัน กทม. 10330<br>โทรศัพท์ 02-684-8981 โทรสาร 02-684-8980 en"
+            "a_d_tag1_txt_1":"We are determined to be a leading financial group company with an international network and alliance which can respond to our customer’s demands, providing a diverse and comprehensive range of financial products and services.",
+            "a_d_tag1_txt_2":"Create the highest value under the good governance principle for all stakeholder interest, therefore;",
+            "a_d_tag2_txt_1":'Established “AIRA Venture Capital Limited” with the registered capital of 20 MB."',
+            "a_d_tag2_txt_2":"AIRA Capital PCL has signed JVA with Kenedix Asia Pte. Ltd. And Eugene Investment & Securities Co., Ltd. to be the partnership in AIRA Property Plc.",
+            "a_d_tag2_txt_3":"Established “Travelex (Thailand) Limited” by joint venture with Travelex Limited with registered capital of 110 MB to operate currency exchange business.",
+            "a_d_tag2_txt_4":"Invested in RENT-A-V Co., Ltd. and renamed to AIRA Leasing Plc.",
+            "a_d_tag2_txt_4_1":"Aspiration One Co., Ltd. has received Ratchtewi area 30 years land leased concession from Crown Property Bureau to perform an Office Building Service",
+            "a_d_tag2_txt_4_2":"AIRA Property Co., Ltd. has increased registered capital to 500 MB and be transformed to Public Company Limited",
+            "a_d_tag2_txt_5":'AIRA Property Plc. established its new subsidiary company with its alliances, SENA Development Plc. and Sang Fah Construction and Engineering Co., Ltd. Under the name “Aspiration One Company Limited”',
+            "a_d_tag2_txt_6":"Established AIRA Property Co., Ltd. With a registered capital of Baht 200 million",
+            "a_d_tag2_txt_7":"Established “AIRA&AIFUL Plc.” as a joint venture company between AIRA Capital Plc. and AIFUL Corporation",
+            "a_d_tag2_txt_7_1":"Successfully listed in Market for Alternative Investments in Thailand",
+            "a_d_tag2_txt_8":"Increased the paid-up capital to 1,000 MB",
+            "a_d_tag2_txt_8_1":"Established AIRA International Advisory (Singapore) PTE. LTD. At Singapore",
+            "a_d_tag2_txt_9":"AIRA Capital Co., Ltd has transformed to a Public Company Limited",
+            "a_d_tag2_txt_10":'Invested in Dhanamitr Factoring and renamed to “AIRA Factoring Plc.”',
+            "a_d_tag2_txt_11":"Increased its paid-up capital to 779.18 MB",
+            "a_d_tag2_txt_12":"Established AIRA Capital Co., Ltd. with registered capital of Baht 623.35 million and acquire majority 99.99% share of AIRA Securities Plc.",
+            "a_d_tag2_txt_13":"・Start up Stock Borrower and Lender Service (SBL) and granted Private Fund License from the Securities and Exchange Commission<br>・Provide Global Trading business in 2nd quarter",
+            "a_d_tag2_txt_13_1":"Merged 3 financial advisory firms together and increased its registered capital from 20 MB onto 30 MB and renamed it to “AIRA Advisory Co., Ltd.",
+            "a_d_tag2_txt_14":"AIRA Securities Plc. has been granted TFEX and Securities Brokerage Licenses." ,
+            "a_d_tag2_txt_14_1":"AIRA Securities Plc. increased its registered capital to Baht 720 million",
+            "a_d_tag2_txt_15":"AIRA Securities Plc. increased its paid-up capital to Baht 600 million",
+            "a_d_tag2_txt_16":"AIRA Securities Co., Ltd. has been transformed to Public Company Limited",
+            "a_d_tag2_txt_16_1":"AIRA Securities Co., Ltd. Start up its first branch and provide retail securities trading",
+            "a_d_tag2_txt_17":'"Increased “AIRA Securities Co., Ltd.” Registered Capital to Baht 500 MB',
+            "a_d_tag2_txt_18":"Acquire a securities company with the full brokerage licenses, SET No.48 and renamed to “AIRA Securities Public Company Limited”",
+            "a_d_tag5_txt_1":"<b>AIRA Capitail Public Company Limited</b>",
+            "a_d_tag5_txt_2":"319 Chamchuri Square, 12th  Phayathai Rd., Pathumwan  <br> 12th  Phayathai Rd., Pathumwan Bangkok 10330<br>Tel: 02-684-8981  Fax: 02-684-8980",
+            
+            "b_s_m_1":"AIRA Capital",
+            "b_s_m_2":"AIRA Securities",
+            "b_s_m_3":"AIRA Factoring",
+            "b_s_m_4":"AIRA International Advisory",
+            "b_s_m_5":"AIRA & AIFUL",
+            "b_s_m_6":"AIRA Property",
+            "b_s_m_7":"AIRA Leasing",
+            "b_s_m_8":"AIRA Venture Capital",
+            "b_s_m_9":"AIRA Advisory",
+            "b_s_m_10":"Aspiration One",
+            "b_s_title_1":"OVERVIEW",
+            "b_s_tag1_txt_1":"AIRA Capital Public Company Limited",
+            "b_s_tag2_txt_1":"AIRA Securities Public Company Limited",
+            "b_s_tag3_txt_1":"AIRA Factoring Public Company Limited",
+            "b_s_tag4_txt_1":"AIRA International Advisory (Singapore) Pte. Ltd.",
+            "b_s_tag5_txt_1":"AIRA & AIFUL Public Company Limited. ",
+            "b_s_tag6_txt_1":"AIRA Property Public Company Limited",
+            "b_s_tag7_txt_1":"AIRA Leasing Public Company Limited",
+            "b_s_tag8_txt_1":"AIRA Venture Capital Co., Ltd.",
+            "b_s_tag9_txt_1":"AIRA Advisory Co., Ltd.",
+            "b_s_tag10_txt_1":"Aspiration One Co., Ltd.",
+            
+            "b_s_tag1_txt_2":"Established as a Company Limited on January 21, 2010<br>and transformed to Public Company on September 9, 2011 as a holding company<br>with the major target to invest in financial business.<br>The company aim to be a leading financial group of companies with an international network.<br>Emphasizing on corporate governance, with the qualified service and<br>creating an appropriate return to shareholders, at the same time,<br>taking well care of employees benefit.",
+            "b_s_tag2_txt_2":"The company hold 99% of share.<br>AIRA Securities  receives full securities trading license Number 48<br>from The Stock Exchange of Thailand",
+            "b_s_tag3_txt_2":"The company hold 71.55% of share.<br>AIRA Factoring provides account receivable factoring service",
+            "b_s_tag4_txt_2":"The company hold 90% of shares,<br>provides international advisory, Merger and Acquisition for South East Asia Area,<br> the head office located in Singapore.",
+            "b_s_tag5_txt_2":"The company hold 30% of shares.<br> AIRA & AIFUL Public Company Limited provides personal loan service in Thailand.",
+            "b_s_tag6_txt_2":"The company hold 60% of shares.<br> AIRA Property Public Company Limited provides property development business.",
+            "b_s_tag7_txt_2":"The company hold 80% of shares,<br>Providing leasing services for personal and corporation",
+            "b_s_tag8_txt_2":"Provides venture capital service in order to respond the government policy",
+            "b_s_tag9_txt_2":"Provides full advisory service for finance and accounting,<br>refinancing ,Merger and Acquisition, tax and training",
+            "b_s_tag10_txt_2":"As a subsidiary of AIRA Property as 60% of shares<br>to manage high office building business"
         },
         "jp": {
             "_m_b1": "<div class='txt_jp'>グループ会社</div>",
@@ -226,17 +310,17 @@ $(function(){
             "_m_b6": "<div class='txt_jp'>コーポレート<br>ガバナンス</div>",
             "_m_b7": "<div class='txt_jp'>企業の社会的責任<br>(CSR)</div>",
             
-            "a_n_title": "บริษัทในเครือไอร่า js",
-            "a_n_1": "บริษัท ไอร่า แคปปิตอล จำกัด<br>( มหาชน ) jp",
-            "a_n_2": "บริษัท หลักทรัพย์ ไอร่า จำกัด<br>( มหาชน ) jp",
-            "a_n_3": "บริษัท ไอร่า แฟคเตอริ่ง จำกัด<br>( มหาชน ) jp",
-            "a_n_4": "AIRA International Advisory<br>( Singapore ) Pte.Ltd. jp",
-            "a_n_5": "บริษัท ไอร่า แอนด์ ไอฟุล จำกัด<br>( มหาชน )jp",
-            "a_n_6": "บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด<br>( มหาชน ) jp",
-            "a_n_7": "บริษัท ไอร่า ลีสซิ่ง จำกัด<br>( มหาชน ) jp",
-            "a_n_8": "บริษัท ไอร่า เวนเจอร์ แคปปิตอล<br>ทราเวลเล็กซ์ (ไทยแลนด์) จำกัด jp",
-            "a_n_9": "บริษัท ไอร่า แอดไวเซอรี่ จำกัด jp",
-            "a_n_10": "บริษัท แอสไพเรชั่น วัน จำกัด jp",
+            "a_n_title": "概要",
+            "a_n_1": "AIRA Capital Public<br>Company Limited",
+            "a_n_2": "AIRA Securities Public<br>Company Limited",
+            "a_n_3": "AIRA Factoring Public<br>Company Limited",
+            "a_n_4": "AIRA International Advisory<br>( Singapore ) Pte.Ltd.",
+            "a_n_5": "AIRA & AIFUL Public<br>Company Limited.",
+            "a_n_6": "AIRA Property Public<br>Company Limited",
+            "a_n_7": "AIRA Leasing Public<br>Company Limited",
+            "a_n_8": "AIRA Venture Capital Limited",
+            "a_n_9": "AIRA Advisory Company Limited",
+            "a_n_10": "Aspiration One Company Limited",
             
             
              "c_g_m1": "นโยบายของบริษัท jp",
@@ -283,41 +367,81 @@ $(function(){
             "n_a_m_tag2_t_1":"ตัวแทนคณะผู้บริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) และบริษัทในเครือร่วมกันจัดโครงการช่วยเหลือสังคม เพื่อเป็นส่วนหนึ่งของการพัฒนาสังคม และสิ่งแวดล้อมสู่การพัฒนาอย่างยั่งยืน ตามแนวคิดด้าน CSR ของตลาดหลักทรัพย์ แห่งประเทศไทย โดยในปีนี้ บริษัทได้จัด “โครงการไอร่าเพื่อสังคม สู่การพัฒนาอย่างยั่งยืน” เป็นปีที่ 2 ขึ้นที่โรงเรียนปากคลองชวดใหญ่ อ.บางบ่อ จ.สมุทรปราการ โดยได้มอบทุนการศึกษาหนังสืออุปกรณ์การเรียนและอุปกรณ์กีฬาให้กับโรงเรียนที่ห่างไกล เมื่อวันที่ 15 กรกฎาคม 2559 jp",
             "n_a_m_tag3_t_1":"333 jp",
             
-            "a_d_m_1":"วิสัยทัศน์ jp" ,
-            "a_d_m_2":"ประวัติบริษัท jp",
-            "a_d_m_3":"แผนผังองค์กร jp",
+            "a_d_m_1":". --ビジョン—   / ミッション " ,
+            "a_d_m_2":"沿革",
+            "a_d_m_3":"組織図 ",
             "a_d_m_4":"โครงสร้างคณะกรรมการ jp",
-            "a_d_m_5":"ติดต่อเรา jp",
+            "a_d_m_5":"投資家情報",
             
-            "a_d_tag1":"วิสัยทัศน์ / พันธกิจ jp",
+            "a_d_tag1":"--ビジョン—",
+            "a_d_tag1_2":"ミッション",
             "a_d_tag2":"ประวัติบริษัท jp",
-            "a_d_tag3":"แผนผังองค์กร jp",
+            "a_d_tag3":"組織図",
             "a_d_tag4":"โครงสร้างคณะกรรมการ jp",
-            "a_d_tag5":"ติดต่อบริษัท jp",
+            "a_d_tag5":"投資家情報",
             
-            "a_d_tag1_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงานบริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) มุ่งมั่นที่จะเป็นบริษัทชั้นนำของกลุ่มบริษัทด้านการเงิน มีเครือข่ายกับบริษัทระหว่างประเทศที่ให้บริการเกี่ยวกับสินค้าด้านการเงิน jp",
-            "a_d_tag1_txt_2":"จุดแข็ง จะให้ความสำคัญในการให้บริการที่มีคุณภาพ มีคุณธรรมจริยธรรม และสร้างผลตอบแทนที่ดีให้แก่ผู้ถือหุ้น ตลอดจนการดูแลเอาใจใส่สวัสดิการของพนักงาน jp",
-            "a_d_tag2_txt_1":"ต.ค. ก่อตั้งบริษัท แอสไพเรชั่น วัน จำกัด และถือหุ้น 60% ทุนจดทะเบียน  1 พันล้านบาท jp",
-            "a_d_tag2_txt_2":"ก.ค. ก่อตั้งบริษัท ไอร่า พร๊อพเพอร์ตี้ จำกัด ทุนจดทะเบียน 200 ล้านบาท jp",
-            "a_d_tag2_txt_3":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท jp",
-            "a_d_tag2_txt_4":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ jp",
-            "a_d_tag2_txt_5":"ธ.ค. ก่อตั้งบริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) ด้วยการเข้าถือหุ้น 30%  ด้วยทุนจดทะเบียน 1 พันล้านบาท jp",
-            "a_d_tag2_txt_6":"ก.ค. บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เข้าจดทะเบียนในตลาดหลักทรัพย์ เอ็ม เอ ไอ jp",
-            "a_d_tag2_txt_7":"มี.ค. เพิ่มทุนจดทะเบียนที่ชำระแล้วของ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) เป็น 1,000 ล้านบาท jp",
-            "a_d_tag2_txt_8":"ต.ค. จัดตั้ง AIRA International Advisory (Singapore) PTE.LTD. บริษัทที่ปรึกษาทางการเงิน แห่งใหม่ ณ ประเทศสิงคโปร์ jp",
-            "a_d_tag2_txt_9":"ก.ย. แปลงสภาพ บริษัท ไอร่า แคปปิตอล จำกัด เป็นบริษัทมหาชน jp",
-            "a_d_tag2_txt_10":'มี.ค. เข้าลงทุนใน บริษัทแฟคตอริ่งซึ่งจดทะเบียนในตลาด เอ็ม เอ ไอ และเปลี่ยนชื่อ เป็น "บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน) jp"',
-            "a_d_tag2_txt_11":"ม.ค. เพิ่มทุนจดทะเบียนชำระแล้ว บริษัท ไอร่า แคปปิตอล จำกัด เป็น 779.18 ล้านบาท jp",
-            "a_d_tag2_txt_12":"ก.พ. ก่อตั้งบริษัท ไอร่า แคปปิตอล จำกัด ด้วยทุนจดทะเบียน 623.36 ล้านบาท และเข้าถือหุ้น บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) 100% jp",
-            "a_d_tag2_txt_13":"มี.ค. รวมบริษัทที่ปรึกษาทางการเงินในเครือ 3 แห่งเข้าด้วยกันและเพิ่มทุนจดทะเบียน จาก 20 ล้านบาทเป็น 30 ล้านบาท โดยเปลี่ยนชื่อเป็น บริษัท ไอร่า แอดไวเซอรี่ จำกัดjp",
-            "a_d_tag2_txt_14":"มิ.ย. เพิ่มทุนจดทะเบียน บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 720 ล้านบาท jp",
-            "a_d_tag2_txt_15":"เม.ย. เพิ่มทุนที่ชำระแล้ว บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) เป็น 600 ล้านบาท jp",
-            "a_d_tag2_txt_16":"ธ.ค. แปลงสภาพ บริษัทหลักทรัพย์ ไอร่า จำกัดเป็นบริษัทมหาชน jp",
-            "a_d_tag2_txt_17":"พ.ค. บริษัทหลักทรัพย์ ไอร่า จำกัด เพิ่มทุนจดทะเบียนเป็น 500 ล้านบาท jp",
-            "a_d_tag2_txt_18":"พ.ย. ซื้อกิจการบริษัทหลักทรัพย์ หมายเลข 48 ของตลาดหลักทรัพย์แห่งประเทศไทย โดยได้เปลี่ยนโครงสร้างการบริหารจัดการ และเปลี่ยนชื่อใหม่เป็น บริษัทหลักทรัพย์ ไอร่า จำกัด jp",
-            "a_d_tag5_txt_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) jp",
-            "a_d_tag5_txt_2":"319 อาคารจัตุรัสจามจุรี ชั้น12 <br> ถนนพญาไท  แขวงปทุมวัน เขตปทุมวัน กทม. 10330<br>โทรศัพท์ 02-684-8981 โทรสาร 02-684-8980 jp"
+            "a_d_tag1_txt_1":"AIRA Capital Public Company Limitedは様々な金融サービス・プロダクトを提供する包括的、国際的なネットワークのファイナンシャルグループを目指している。",
+            "a_d_tag1_txt_2":"企業倫理に基づいて、ステークホルダーに対し最大限の経営成果を還元すること。",
+            "a_d_tag2_txt_1":"AIRA Capital Plc.はAIRA Venture Capital Limitedを2千万バーツの登録資本金で設立",
+            "a_d_tag2_txt_2":"AIRA Capital Plc.はKenedix Asia Pte. Ltd.およびEugene Investment & Securities Co., Ltd.とAIRA Property Co., Ltd.に投資する合弁契約を締結",
+            "a_d_tag2_txt_3":"AIRA Capital Plc.はTravelex Limitedと合弁で外貨両替ビジネスを運営するTravelex (Thailand) Limitedを1.1億バーツの登録資本金で設立 ",
+            "a_d_tag2_txt_4":"AIRA Capital Plc.はRent-A-V Co., Ltd. を買収し、AIRA Leasing Plc.に変更",
+            "a_d_tag2_txt_4_1":"Aspiration One Co., Ltd.はレンタル・オフィスビルの建築のため、王室財産事務局から30年の契約でラーチャテーウィーエリアの借地権を取得",
+            "a_d_tag2_txt_4_2":"AIRA Property Co., Ltd.の払込資本金を5億バーツに増資し、Public Company Limitedに変更",
+            "a_d_tag2_txt_5":"AIRA Property Co., Ltd.はSENA Development Plc.およびSangfah Construction & Engineering Co., Ltd. と提携し、不動産開発を扱うAspiration One Co., Ltd.を設立し、同社の60％の株を保有",
+            "a_d_tag2_txt_6":"AIRA Property Co., Ltd.を２億バーツの資本金で設立",
+            "a_d_tag2_txt_7":"AIRA Capital Plc.は、日本のアイフル株式会社と合弁契約を締結し、AIRA & AIFUL Plc.の30％の株を保有",
+            "a_d_tag2_txt_7_1":"AIRA Capital Plc.をMAI市場に上場",
+            "a_d_tag2_txt_8":"AIRA Capital Plc.の払込資本金を10億バーツに増資",
+            "a_d_tag2_txt_8_1":"シンガポールで金融系アドバイザリーを扱うAIRA International Advisory (Singapore) Pte., Ltd.を設立",
+            "a_d_tag2_txt_9":"AIRA Capital Co., Ltd.をPublic Company Limitedに変更",
+            "a_d_tag2_txt_10":'Dhanamitr Factoring Plc.を買収し、AIRA Factoring Plc.に変更p"',
+            "a_d_tag2_txt_11":"AIRA Capital Co., Ltd.の払込資本金を7億7918万バーツに増資",
+            "a_d_tag2_txt_12":"6億2335万バーツの資本金でAIRA Capital Co., Ltd.を設立後、AIRA Securities Plc.の株をAIRA Capital Company Limited が99.99％保有",
+            "a_d_tag2_txt_13":"・Securities Borrowing & Lending（SBL）の事業開始<br> Securities and Exchange Commission（SEC）証券取引委員会のライセンスを取得し、プライベートファンドを組成・運用<br>・Global Trading Businessの事業を第二四半期に開始",
+            "a_d_tag2_txt_13_1":"3つの子会社を合併させ、資本金を２千万バーツから３千万バーツに増資し、AIRA Advisory Co., Ltd.を設立",
+            "a_d_tag2_txt_14":"AIRA Securities Plc.はTFEX licenseを取得し、Securities Business Licenseのtype Aを取得",
+            "a_d_tag2_txt_14_1":"AIRA Securities Plc.の登録資本金を7億2千万バーツに増資",
+            "a_d_tag2_txt_15":"AIRA Securities Plc.の払込資本金を6億バーツに増資",
+            "a_d_tag2_txt_16":"AIRA Securities Co., Ltd.をPublic Company Limitedに変更",
+            "a_d_tag2_txt_16_1":"AIRA Securities Co., Ltd.の第1支店を出店",
+            "a_d_tag2_txt_17":"AIRA Securities Co., Ltd.の資本金を５億バーツに増資",
+            "a_d_tag2_txt_18":"タイ証券取引所の48番号のブローカー許可証を持つ証券会社を買収し、経営構成を変更後、AIRA Securities Company Limitedに商号変更",
+            "a_d_tag5_txt_1":"<b>投資家情報</b>",
+            "a_d_tag5_txt_2":"当社の取締役会がInvestor Relations (IR)を選任しました。<br> IRは投資家、機関投資家、一般投資家、アナリスト、当該の国営機関の皆さまへの正確かつ有用な情報提供窓口としてご利用いただけます。<br>Tel: 02-684-8981  Fax: 02-684-8980",
             
+            "b_s_m_1":"AIRA Capital",
+            "b_s_m_2":"AIRA Securities",
+            "b_s_m_3":"AIRA Factoring",
+            "b_s_m_4":"AIRA International Advisory",
+            "b_s_m_5":"AIRA & AIFUL",
+            "b_s_m_6":"AIRA Property",
+            "b_s_m_7":"AIRA Leasing",
+            "b_s_m_8":"AIRA Venture Capital",
+            "b_s_m_9":"AIRA Advisory",
+            "b_s_m_10":"Aspiration One",
+            "b_s_title_1":"概要",
+            "b_s_tag1_txt_1":"AIRA Capital Public Company Limited",
+            "b_s_tag2_txt_1":"AIRA Securities Public Company Limited",
+            "b_s_tag3_txt_1":"AIRA Factoring Public Company Limited",
+            "b_s_tag4_txt_1":"AIRA International Advisory (Singapore) Pte. Ltd.",
+            "b_s_tag5_txt_1":"AIRA & AIFUL Public Company Limited.",
+            "b_s_tag6_txt_1":"AIRA Property Public Company Limited",
+            "b_s_tag7_txt_1":"AIRA Leasing Public Company Limited",
+            "b_s_tag8_txt_1":"AIRA Venture Capital Co., Ltd.",
+            "b_s_tag9_txt_1":"AIRA Advisory Co., Ltd.",
+            "b_s_tag10_txt_1":"Aspiration One Co., Ltd.",
+            
+            "b_s_tag1_txt_2":"2010年1月21日にCompany Limitedとして設立され、2011年9月9日にPublic Company Limited<br>に変更された、金融系企業の株式を保有するホールディングカンパニーである。その目的は様々な金融サービス<br>・プロダクトを提供する包括的、国際的なネットワークのファイナンシャルグループを目指すことと、<br>企業倫理のあるマネージメントに重点を置いて、株主や社員に対し経営成果を還元することである。",
+            "b_s_tag2_txt_2":"の株を99.99%保有している。<br>そこにAIRA Advisory Company Limitedという子会社がある。AIRA Securities Public Company Limited<br>はタイ証券取引所の48番号のブローカー許可証を保有している。",
+            "b_s_tag3_txt_2":"の株を71.55%保有している。AIRA Factoring Public Company Limited<br> はファクタリングを通じて短期運転資金を経営者に提供する事業を行っている。<br>事業運営に十分な運転資金を提供することにより、顧客に安心いただけるサービスを提供している。",
+            "b_s_tag4_txt_2":"の株を90%保有している。東南アジ<br>アにおけるM&Aなど幅広いビジネスのコンサルティングサービスを提供している。シンガポールにオフィスを構えている。",
+            "b_s_tag5_txt_2":"の株を30%保有している。タイにおける消費者金融サービスを行っている。",
+            "b_s_tag6_txt_2":"の株を60%保有している。不動産開発の事業を行っている。",
+            "b_s_tag7_txt_2":"の株を80%保有している。<br>個人・法人にハイヤー・パーチェスやリースの事業をしている。",
+            "b_s_tag8_txt_2":"の株を100%保有している。<br>公共との投資をサポートするための共同投資の事業をしている。",
+            "b_s_tag9_txt_2":"は財務・会計、債務再編、M&A、税関系、社内研修など幅広いビ<br>ジネスのコンサルティングサービスを提供している。当社のサービスは公共・民間を問わず、<br>金融機関、上場株式会社や中小企業および個人事業など包括的に実施している。",
+            "b_s_tag10_txt_2":"の株を60%保有している。<br>レンタル・オフィス向けの高層ビルを中心とした不動産開発の事業をしている"
         }
     };
     
@@ -337,37 +461,61 @@ $(function(){
         //remove class
         
         $("#"+ idOld +'_txt').removeClass('menu_action');
-         $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +".png");
+        $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +".png");
         
          //add class
         // alert("this.id"+this.id);
-         if(this.id && this.id !="th" && this.id !="en" && this.id !="jp" && this.id !="facebook"
-                 && this.id !="youtub" && this.id !="twitter" && this.id !="google"){
-            idOld = this.id;
-            
+        if(this.id && this.id !="th" && this.id !="en" && this.id !="jp" && this.id !="facebook"
+                && this.id !="youtub" && this.id !="twitter" && this.id !="google"){
+           idOld = this.id;
+
+           $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
+           $("#"+ idOld +'_txt').addClass('menu_action');
+
+          
+           load_page();
+
+           changeBg();
+
+        }else if(this.id !="th" || this.id !="en" || this.id !="jp"){
             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
             $("#"+ idOld +'_txt').addClass('menu_action');
-           
-            
-            load_page();
-            
-            
-            
-         }else if(this.id !="th" || this.id !="en" || this.id !="jp"){
-             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
-            $("#"+ idOld +'_txt').addClass('menu_action');
-            
-                set_lang(dictionary[this.id]);
-                  $("#"+lang+"_img").css('background-image', 'url(images/menu/bu_'+ lang +'.png)');
-                  
-                  $("#"+this.id+"_img").css('background-image', 'url(images/menu/bu_'+ this.id +'_action.png)');
-                lang = this.id;
-         }
+
+            set_lang(dictionary[this.id]);
+            $("#"+lang+"_img").css('background-image', 'url(images/menu/bu_'+ lang +'.png)');
+
+            $("#"+this.id+"_img").css('background-image', 'url(images/menu/bu_'+ this.id +'_action.png)');
+            lang = this.id;
+            aira_data();
+        }
     });
     
+    
+    function changeBg(){
+       // alert("changeBg  --- page " +idOld );
+        
+        if ( $( "#carousel_1" ).hasClass( "active" ) ) {
+            //alert("---1---");
+            $("#carousel_img_1").attr("src","images/index/bg_"+idOld+".jpg");
+        }else if($( "#carousel_2" ).hasClass( "active" ) ){
+           // alert("---2---");
+            $("#carousel_img_2").attr("src","images/index/bg_"+idOld+".jpg");
+        }else if($( "#carousel_3" ).hasClass( "active" ) ){
+            //alert("---3---");
+            $("#carousel_img_3").attr("src","images/index/bg_"+idOld+".jpg");
+        }else if($( "#carousel_4" ).hasClass( "active" ) ){
+            //alert("---4---");
+            $("#carousel_img_4").attr("src","images/index/bg_"+idOld+".jpg");
+        }
+           //bg_aira_network
+    }
+    
+    
     function aira_data(){
+       
         $("#url_map").attr("href",url_map);
-        $("#img_map").attr("src",url_map+"_"+lang+".png");
+        $("#img_flow").attr("src",img_flow+"_"+lang+".png");
+        $("#img_map").attr("src",img_map+"_"+lang+".png");
         $("#img_b_1").attr("src",img_board+"_1_"+lang+".png");
         $("#img_b_2").attr("src",img_board+"_2_"+lang+".png");
         $("#img_b_3").attr("src",img_board+"_3_"+lang+".png");
@@ -380,7 +528,7 @@ $(function(){
         $("#img_b_10").attr("src",img_board+"_10_"+lang+".png");
         $("#img_b_11").attr("src",img_board+"_11_"+lang+".png");
         $("#img_b_12").attr("src",img_board+"_12_"+lang+".png");
-        $("#img_flow").attr("src",img_flow+"_"+lang+".png");
+       
         
     }
     function lang1(st){
@@ -408,6 +556,7 @@ $(function(){
                   //alert("Error: " + jqXHR.status + " " + jqXHR.statusText);
                 }
                 if(idOld=="aira_data"){
+                    
                     aira_data();
                 }
         });
