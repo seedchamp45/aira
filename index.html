@@ -22,6 +22,28 @@ and open the template in the editor.
         <script src="js/bootstrap.min.js"></script>
         <script src="js/main.js"></script>
         
+    	<!-- The Boutique CSS: -->
+		<link rel="stylesheet" href="css/boutique.css">
+
+		<!-- The Boutique plugin: -->
+		<script src="js/jquery.boutique.min.js"></script>
+
+		<script>
+			// Calling Boutique on your HTML element when the document is ready:
+			$(document).ready(function(){
+                            $("#detail_1").show();
+                            $("#detail_2").hide();
+                            $("#detail_3").hide();
+				$('#boutique').boutique({
+					container_width: 'auto',
+					front_img_width: 500,
+                                        autoplay:false,
+                                        frames:3
+				});
+			});
+                        
+                   
+		</script>
     </head>
     <body>
         <!-- jQuery first, then Tether, then Bootstrap JS.
@@ -32,7 +54,7 @@ and open the template in the editor.
         --> 
       
         <!--carousel-->
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators" id="carousel_bar">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -181,30 +203,7 @@ and open the template in the editor.
                         
                     </li>
                 </ul>  
-                <!--
-                    test
-                
-                
-                -->
-                   <!-- <div class="navbar-brand"></div>-->
-                  <!--
-                    <button class="navbar-toggler" data-toggle="collapse" data-target=".navHeader">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                   <div class="collapse navbar-collapse navHeader">
-                       <ul class="nav navbar-nav navbar-toggler-right">
-                           <li class="menu_bar"></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                           <li class="menu_bar"><a href="#">home</a></li>
-                             <li class="menu_bar"><a href="#">home</a></li>
-                       </ul>
-                  -->
+             
             </div>
             
             <div class="content-fluid">
@@ -218,5 +217,7 @@ and open the template in the editor.
             </div>
                    
         </div>
+       
+    
     </body>
 </html>
