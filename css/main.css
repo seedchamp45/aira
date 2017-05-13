@@ -451,8 +451,8 @@ and open the template in the editor.
     
     .title_txt{
         font-family: "db_helvethaica_x";
-        margin-top: 0.4em;
-        font-size: 3.2em;
+        margin-top: 0.2em;
+        font-size: 2.8em;
         font-weight: normal;
         color: #FFF !important;
         margin-right: 1.5em;
@@ -529,8 +529,8 @@ and open the template in the editor.
        /* margin-top: 2.1rem;*/
         padding-left: 0rem;
         padding-right: 0rem;
-        text-indent: 2rem;
-        line-height: 2rem !important ;
+       /* text-indent: 2rem;*/
+        line-height: 1.5rem !important ;
     }
     
     .data_page{
@@ -617,6 +617,17 @@ and open the template in the editor.
             -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
             background-color: #ffffff;
     }
+    
+    .w_100_px{
+        width: 6rem;
+    }
+    .w_01_p{
+        width: 0.2rem;
+    }
+    .ta_data_2{
+         margin-left: 10px;
+    }
+   
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -938,10 +949,10 @@ and open the template in the editor.
     }
     
     .body_data_text{
-        margin-top: 2.5rem;
+       /* margin-top: 2.5rem;*/
         padding-left: 0rem;
         padding-right: 1.5rem;
-        text-indent: 2rem;
+       /* text-indent: 2rem;*/
         line-height: 2rem !important ;
     }
     
@@ -1122,7 +1133,15 @@ and open the template in the editor.
     .img_icon {
         height: 5em;
     }
-    
+    .w_100_px{
+        width: 10rem;
+    }
+    .w_01_p{
+        width: 0.2rem;
+    }
+    .ta_data_2{
+         margin-left: 10px;
+    }
 /*score bar */
 }
 
@@ -1174,10 +1193,10 @@ and open the template in the editor.
         font-size: 1.8rem;
     }
     .body_data_text {
-        margin-top: 2.5rem;
+       /* margin-top: 2.5rem;*/
         padding-left: 0rem;
         padding-right: 1.7rem;
-        text-indent: 2rem;
+       /* text-indent: 2rem;*/
         line-height: 2.5rem !important;
     }
     .txt_data{
@@ -1412,4 +1431,15 @@ a .menu_right{
     background-color: transparent;
     border:0 !important;
     
+}
+
+.table td, .table th {
+     padding: 0rem; 
+    vertical-align: top;
+    border-top: 0px solid #F00; 
+   text-indent: 0rem; 
+}
+
+.text-left {
+    text-align: left;
 }
