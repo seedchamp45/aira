@@ -218,15 +218,27 @@ and open the template in the editor.
        top:2em; 
     }
     
+    .img_width{
+        width:2em;
+    }
+    
     .img_res {
-         width: 70%;
-        height: 70%;
        
         margin-top: 0.1rem;
         margin-right: auto;
         margin-bottom: 0.1rem;
         margin-left: auto;
     }
+     .menu_right{
+        float: right;
+        margin-left: 0.2em;
+    }
+    
+    .img_height{
+        height: 1em;
+    }
+    
+   
     .logo{
         width: 8em;
        /* margin-left: 0.2em;*/
@@ -242,9 +254,7 @@ and open the template in the editor.
     }
    
     
-    .menu_right{
-        float: right;
-    }
+  
     .m_left_txt{
         float: right;
          margin-left: 0.05em;
@@ -292,6 +302,56 @@ and open the template in the editor.
      .menu_bar6{
       width:11.3%;
     }
+    
+    .menu_bar_corporate{
+        width: 11.4%;
+    }
+    
+    .menu_bar_social{
+        width: 14%;
+    }
+    
+    .menu_bar_investor{
+        width: 13%;
+    }
+    
+    .menu_bar_business{
+        width: 15%;
+    }
+    .menu_bar_news{
+        width: 12.5%
+    }
+    .menu_bar_social_setting{
+        width: 10.3%
+    }
+    
+    .menu_bar_company{
+         width: 10%;
+    }
+    
+    .ui_bar{
+        margin-left: 0.8em;
+    }
+     .font{
+        font-family: "db_helvethaica_x";
+       font-size:0.7em;
+       font-weight: bold;
+       color: #333333;
+       text-transform: uppercase;
+    }
+    
+     ul .setting{
+        /* margin: auto;
+        width: 99%;
+        -webkit-padding-start: 1em;*/
+        margin-top: 0.5em;
+        padding-left: 0;
+        float: right;
+        list-style-type: none;
+        font-size: 0.4em;
+        margin-right: 0.136vw;
+    }
+    
     .f_helvethaica{
         font-family: "db_helvethaica_x";
        font-size:0.7em;
@@ -314,8 +374,9 @@ and open the template in the editor.
     }
     
     .setting_bar{
+        float: right;
         margin-left: 0em;
-        margin-right: 0em;
+        margin-right: 0.2em;
     }
     
     .bu_social{
@@ -628,6 +689,7 @@ and open the template in the editor.
          margin-left: 10px;
     }
    
+   
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
@@ -638,10 +700,15 @@ and open the template in the editor.
     }
     
     .img_res {
-        width: 80%;
-        height: 80%;
+       /* width: 80%;
+        height: 80%;*/
         /*margin: 0.2rem auto;*/
     }
+    
+    .img_width{
+        width:2em;
+    }
+    
     .menu_bar{
        width:12.5%;
     }
@@ -668,6 +735,56 @@ and open the template in the editor.
      .menu_bar6{
        width:19.8%;
     }
+    
+    .menu_bar_corporate{
+        width: 11.4%;
+    }
+    
+    .menu_bar_social{
+        width: 14%;
+    }
+    
+    .menu_bar_investor{
+        width: 13%;
+    }
+    
+    .menu_bar_business{
+        width: 15%;
+    }
+    .menu_bar_news{
+        width: 14.5%
+    }
+    .menu_bar_social_setting{
+        width: 10.3%
+    }
+    
+    .menu_bar_company{
+         width: 10%;
+    }
+    
+    .ui_bar{
+        margin-left: 0.8em;
+    }
+     .font{
+        font-family: "db_helvethaica_x";
+       font-size:0.7em;
+       font-weight: bold;
+       color: #333333;
+       text-transform: uppercase;
+    }
+    
+     ul .setting{
+        /* margin: auto;
+        width: 99%;
+        -webkit-padding-start: 1em;*/
+        margin-top: 0.5em;
+        padding-left: 0;
+        /*float: right;*/
+        list-style-type: none;
+        font-size: 0.4em;
+        margin-right: 0.136vw;
+    }
+    
     .bg-inverse {
       /*  background-color: #ffffff!important;*/
     }
@@ -763,8 +880,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:45px;
-        height:31px;
+        width: 2.8em;
+        height: 2.2em;
     }
     
     .icon_en{
@@ -773,8 +890,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:44px;
-        height:31px;
+        width: 2.8em;
+        height: 2.2em;
     }
     
     .icon_jp{
@@ -784,8 +901,8 @@ and open the template in the editor.
         -o-background-size: cover;
          background-size: 100% 100% !important;
          background-repeat: no-repeat;
-        width:46px;
-        height:30px;
+        width: 2.8em;
+        height: 2.2em;
     }
     
     .icon_facebook{
@@ -794,8 +911,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:25px;
-        height:25px;
+        width: 1.9em;
+        height: 1.9em;
     }
     
     .icon_youtub{
@@ -804,8 +921,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:35px;
-        height:24px;
+        width: 1.9em;
+        height: 1.9em;
     }
     
     .icon_twitter{
@@ -814,8 +931,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:29px;
-        height:24px;
+        width: 1.9em;
+        height: 1.9em;
     }
     
     .icon_google{
@@ -824,8 +941,8 @@ and open the template in the editor.
         -moz-background-size: cover;
         -o-background-size: cover;
          background-size: 100% 100%;
-        width:27px;
-        height:25px;
+        width: 1.9em;
+        height: 1.9em;
     }
     /*
     .logo {
@@ -1059,10 +1176,8 @@ and open the template in the editor.
         margin: 0em;
     }
     
-   
 
     /*corporate*/
-    
     
     
     .body_corporate_text{
@@ -1142,6 +1257,7 @@ and open the template in the editor.
     .ta_data_2{
          margin-left: 10px;
     }
+    
 /*score bar */
 }
 
@@ -1166,11 +1282,14 @@ and open the template in the editor.
     }
     
     .img_res {
-        width: 82%;
-        height: 82%;
+       /* width: 82%;
+        height: 82%;*/
         margin: 0.2rem auto;
     }
     
+     .img_width{
+        width:2.5em;
+    }
     .title_txt {
         font-family: "db_helvethaica_x";
         margin-top: 0.4em;
@@ -1226,6 +1345,48 @@ and open the template in the editor.
     
     .row_between {
         margin-top: 5em;
+    }
+    
+    ul .setting{
+        /* margin: auto;
+        width: 99%;
+        -webkit-padding-start: 1em;*/
+        margin-top: 0.5em;
+        padding-left: 0;
+       /* float: right;*/
+        list-style-type: none;
+        font-size: 0.4em;
+        margin-right: 0.136vw;
+    }
+    
+      .menu_bar_corporate{
+        width: 11.4%;
+    }
+    
+    .menu_bar_social{
+        width: 14%;
+    }
+    
+    .menu_bar_investor{
+        width: 13%;
+    }
+    
+    .menu_bar_business{
+        width: 15%;
+    }
+    .menu_bar_news{
+        width: 14.5%
+    }
+    .menu_bar_social_setting{
+        width: 10.3%
+    }
+    
+    .menu_bar_company{
+         width: 10%;
+    }
+    
+    .ui_bar{
+        margin-left: 0.8em;
     }
  }
  
@@ -1303,6 +1464,17 @@ and open the template in the editor.
     .row_between {
         margin-top: 6em;
     }
+    
+    
+    ul .setting{
+        /* margin: auto;
+        width: 99%;
+        -webkit-padding-start: 1em;*/
+        padding-left: 0;
+        float: right;
+        list-style-type: none;
+        font-size: 1em;
+    }
  }
  
 .bg-inverse {
@@ -1336,14 +1508,6 @@ and open the template in the editor.
     position: initial;
 }
 
-ul .setting{
-    /* margin: auto;
-    width: 99%;
-    -webkit-padding-start: 1em;*/
-    padding-left: 0;
-    
-    list-style-type: none;
-}
 ul .setting li {
     float: left;
 }
