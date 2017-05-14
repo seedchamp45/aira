@@ -210,6 +210,9 @@ and open the template in the editor.
         height:1.5em;
          background-repeat: no-repeat;
     }
+     .new_txt_top{
+        margin-top: 22em;
+    }
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -334,11 +337,41 @@ and open the template in the editor.
     }
      .font{
         font-family: "db_helvethaica_x";
-       font-size:0.7em;
+       font-size:1em;
        font-weight: bold;
        color: #333333;
        text-transform: uppercase;
     }
+    
+     .font_th {
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.1em;
+        text-transform: uppercase;
+    }
+    
+    .font_en {
+        font-family: "db_helvethaica_x";
+        font-size: 0.7em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.4em;
+        text-transform: uppercase;
+    }
+    
+    .font_jp {
+        font-family: "db_helvethaica_x";
+        font-size: 0.3em;
+        font-weight: bold;
+        color: #333333;
+        margin-top: 0.1em;
+        text-transform: uppercase;
+    }
+    
     
      ul .setting{
         /* margin: auto;
@@ -688,7 +721,9 @@ and open the template in the editor.
     .ta_data_2{
          margin-left: 10px;
     }
-   
+    .new_txt_top{
+        margin-top: 22em;
+    }
    
 }
 
@@ -737,7 +772,7 @@ and open the template in the editor.
     }
     
     .menu_bar_corporate{
-        width: 11.4%;
+        width: 11.8%;
     }
     
     .menu_bar_social{
@@ -745,33 +780,62 @@ and open the template in the editor.
     }
     
     .menu_bar_investor{
-        width: 13%;
+        width: 12%;
     }
     
     .menu_bar_business{
-        width: 15%;
+        width: 13.5%;
     }
     .menu_bar_news{
-        width: 14.5%
+        width: 14%
     }
     .menu_bar_social_setting{
         width: 10.3%
     }
     
     .menu_bar_company{
-         width: 10%;
+         width: 11%;
     }
     
     .ui_bar{
         margin-left: 0.8em;
     }
-     .font{
+    
+    .font{
         font-family: "db_helvethaica_x";
        font-size:0.7em;
        font-weight: bold;
        color: #333333;
        text-transform: uppercase;
     }
+    
+    .font_th {
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_en {
+        font-family: "db_helvethaica_x";
+        font-size: 0.8em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.2em;
+        text-transform: uppercase;
+    }
+    
+    .font_jp {
+        font-family: "db_helvethaica_x";
+        font-size: 0.5em;
+        font-weight: bold;
+        color: #333333;
+        text-transform: uppercase;
+    }
+    
     
      ul .setting{
         /* margin: auto;
@@ -800,7 +864,7 @@ and open the template in the editor.
     
     .menu_right{
         float: right;
-      
+        margin-left: 0.2em;
     }
     
     .menu_right2{
@@ -1258,6 +1322,10 @@ and open the template in the editor.
          margin-left: 10px;
     }
     
+    .new_txt_top{
+        margin-top: 22em;
+    }
+    
 /*score bar */
 }
 
@@ -1281,10 +1349,47 @@ and open the template in the editor.
         text-transform: uppercase;
     }
     
+    .font{
+        font-family: "db_helvethaica_x";
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_th {
+        font-family: "db_helvethaica_x";
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_en {
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.2em;
+        text-transform: uppercase;
+    }
+    
+    .font_jp {
+        font-family: "db_helvethaica_x";
+        font-size: 0.8em;
+        font-weight: bold;
+        color: #333333;
+        margin-top: 0.5em;
+        text-transform: uppercase;
+    }
+    
     .img_res {
        /* width: 82%;
-        height: 82%;*/
-        margin: 0.2rem auto;
+        height: 82%;
+        margin: 0.2rem auto;*/
     }
     
      .img_width{
@@ -1359,8 +1464,8 @@ and open the template in the editor.
         margin-right: 0.136vw;
     }
     
-      .menu_bar_corporate{
-        width: 11.4%;
+     .menu_bar_corporate{
+        width: 11.8%;
     }
     
     .menu_bar_social{
@@ -1368,45 +1473,89 @@ and open the template in the editor.
     }
     
     .menu_bar_investor{
-        width: 13%;
+        width: 12%;
     }
     
     .menu_bar_business{
-        width: 15%;
+        width: 13.5%;
     }
     .menu_bar_news{
-        width: 14.5%
+        width: 14%
     }
     .menu_bar_social_setting{
         width: 10.3%
     }
     
     .menu_bar_company{
-         width: 10%;
+         width: 11%;
     }
     
     .ui_bar{
         margin-left: 0.8em;
+    }
+    .new_txt_top{
+        
+        margin-top: 22em;
+
     }
  }
  
  
  
  @media (min-width: 1900px){
-
-    .f_helvethaica {
+    .img_width {
+        width: 3.1em;
+    }
+   .f_helvethaica {
         font-family: "db_helvethaica_x";
-        font-size: 1.9em;
+        font-size: 1.8em;
         font-weight: bold;
         color: #333333;
         line-height: 1.5rem !important;
         text-transform: uppercase;
     }
     
+    .font{
+        font-family: "db_helvethaica_x";
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_th {
+        font-family: "db_helvethaica_x";
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_en {
+        font-family: "db_helvethaica_x";
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.2em;
+        text-transform: uppercase;
+    }
+    
+    .font_jp {
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: bold;
+        color: #333333;
+        margin-top: 0.5em;
+        text-transform: uppercase;
+    }
+    
      .img_res {
-        width: 90%;
+       /* width: 90%;
         height: 90%;
-        margin: 0.2rem auto;
+        margin: 0.2rem auto;*/
     }
     
      .h2, h2 {
@@ -1467,13 +1616,21 @@ and open the template in the editor.
     
     
     ul .setting{
-        /* margin: auto;
-        width: 99%;
-        -webkit-padding-start: 1em;*/
+        margin-top: 0.8em;
         padding-left: 0;
-        float: right;
+        /* float: right; */
         list-style-type: none;
-        font-size: 1em;
+        font-size: 0.8em;
+        margin-right: 0.136vw;
+    }
+     .ui_bar{
+        margin-left: 1em;
+    }
+    
+    .new_txt_top{
+        
+        margin-top: 22em;
+
     }
  }
  
