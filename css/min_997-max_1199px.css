@@ -1,0 +1,537 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2017, 5:32:33 PM
+    Author     : 000
+Large devices (desktops, 992px and up)
+*/
+
+.bar-top{
+    top:2em; 
+}
+
+.img_width{
+    width:2em;
+}
+
+.img_res {
+    margin-top: 0.1rem;
+    margin-right: auto;
+    margin-bottom: 0.1rem;
+    margin-left: auto;
+}
+
+.menu_right{
+    float: right;
+    margin-left: 0.2em;
+}
+
+.img_height{
+ height: 1em;
+}
+
+
+.logo{
+ width: 8em;
+/* margin-left: 0.2em;*/
+}
+
+.navbar-brand {
+    margin-right: 0.2rem; 
+}
+
+.bar_full_80{
+    margin-left: 1em;
+    width: 100%;
+}
+
+.m_left_txt{
+    float: right;
+    margin-left: 0.05em;
+}
+
+.bar_full {
+    width: 100%;
+}
+
+.icon_menu{
+    float: right;
+    margin-left: 0px;
+/* width: 50%;
+ //margin-top: 7px;*/
+}
+
+/*.icon_menu {
+ float: right;
+ margin-left: 0px;
+}*/
+.menu_bar{
+    width:12.5%;
+}
+
+.menu_bar1{
+    width:11%;
+}
+
+.menu_bar2{
+    width:10.5%;
+}
+.w_35{
+    width:60%;
+}
+
+.menu_bar3{
+    width:13%;
+}
+
+.menu_bar4{
+    width:15.47%;
+}
+
+.menu_bar5{
+    width:13.4%;
+}
+
+.menu_bar6{
+    width:11.3%;
+}
+
+.menu_bar_corporate{
+    width: 11.4%;
+}
+
+.menu_bar_social{
+    width: 14%;
+}
+
+.menu_bar_investor{
+    width: 13%;
+}
+
+.menu_bar_business{
+    width: 15%;
+}
+.menu_bar_news{
+    width: 12.5%
+}
+.menu_bar_social_setting{
+    width: 10.3%
+}
+
+.menu_bar_company{
+    width: 10%;
+}
+
+.ui_bar{
+    margin-left: 0.8em;
+}
+
+.font{
+   font-family: "db_helvethaica_x";
+   font-size:1em;
+   font-weight: bold;
+   color: #333333;
+   text-transform: uppercase;
+}
+
+.font_th {
+    font-family: "db_helvethaica_x";
+    font-size: 1em;
+    font-weight: bold;
+    color: #333333;
+    line-height: 1em;
+    margin-top: 0.1em;
+    text-transform: uppercase;
+}
+
+.font_en {
+    font-family: "db_helvethaica_x";
+    font-size: 0.7em;
+    font-weight: bold;
+    color: #333333;
+    line-height: 1em;
+    margin-top: 0.4em;
+    text-transform: uppercase;
+}
+
+.font_jp {
+    font-family: "db_helvethaica_x";
+    font-size: 0.3em;
+    font-weight: bold;
+    color: #333333;
+    margin-top: 0.1em;
+    text-transform: uppercase;
+}
+
+
+ul .setting{
+ /* margin: auto;
+ width: 99%;
+ -webkit-padding-start: 1em;*/
+    margin-top: 0.5em;
+    padding-left: 0;
+    float: right;
+    list-style-type: none;
+    font-size: 0.4em;
+    margin-right: 0.136vw;
+}
+
+.f_helvethaica{
+    font-family: "db_helvethaica_x";
+    font-size:0.7em;
+    font-weight: bold;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.txt_en{
+  font-size:0.7em;
+}
+.txt_jp{
+    margin-top: 0.5em;
+    font-size:0.7em;
+}
+
+.nav-item {
+/* margin-right: 0.09em;*/
+    margin-left: 0.09em;
+}
+
+.setting_bar{
+    float: right;
+    margin-left: 0em;
+    margin-right: 0.2em;
+}
+
+.bu_social{
+    margin-left: 2px;
+    margin-right: 2px;   
+}
+
+
+.icon_th{
+    background-image: url('../images/menu/bu_th.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 100% 100%;
+    width:2.3em;
+    height:1.77em;
+    background-repeat: no-repeat;
+}
+
+.icon_en{
+    background-image: url('../images/menu/bu_en.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 100% 100%;
+    width:2.3em;
+    height:1.78em;
+    background-repeat: no-repeat;
+}
+
+.icon_jp{
+    background-image: url('../images/menu/bu_jp.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100% !important;
+    width:2.4em;
+    height:1.8em;
+    background-repeat: no-repeat;
+}
+
+.icon_facebook{
+    margin: 0.15em;
+    background-image: url('../images/menu/bu_facebook.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 90% 90%;
+    width:1.75em;
+    height:1.75em;
+    background-repeat: no-repeat;
+}
+
+.icon_youtub{
+    margin: 0.15em;
+    background-image: url('../images/menu/bu_youtube.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:1.75em;
+    height:1.75em;
+    background-repeat: no-repeat;
+}
+
+.icon_twitter{
+    margin: 0.15em;
+    background-image: url('../images/menu/bu_twitter.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:1.75em;
+    height:1.75em;
+    background-repeat: no-repeat;
+}
+
+.icon_google{
+    margin: 0.15em;
+    background-image: url('../images/menu/bu_google.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 90% 90%;
+    width:1.75em;
+    height:1.75em;
+    background-repeat: no-repeat;
+}
+
+
+/*page_ network*/
+.pop_network{
+    background-image: url('../images/network/pop_network.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+ /*min-width: 9.35em;
+ min-height: 6.4em;*/
+
+    background-size: 9.8em 7em;
+    max-width: 10em;
+    min-width: 9em;
+    max-height: 7em;
+    min-height: 7em;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.margin2{
+    margin: 0rem;
+}
+
+.row_between{
+    margin-top: 2em;
+}
+
+.row_between_top{
+    margin-top: 2em;
+}
+
+.row_data{
+    padding-left: 0.5em;
+    padding-right: 0.5em;  
+}
+
+
+.title_page{
+    margin-top: 4.5em;
+}
+
+.title_txt{
+    font-family: "db_helvethaica_x";
+    margin-top: 0.2em;
+    font-size: 2.8em;
+    font-weight: normal;
+    color: #FFF !important;
+    margin-right: 1.5em;
+}
+
+
+.body_txt{
+    font-family: "db_helvethaica_x";
+    font-size: 1em;
+    font-weight: normal;
+    color: #FFF !important;
+}
+
+
+.body_network{
+    margin: auto;
+/* width: 60%;
+ border: 3px solid #73AD21;*/
+    padding: 10px; 
+}
+
+p1{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.body1{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container_h {
+    position: relative;
+    width: 100%;
+}
+
+.container_test {
+    position: absolute;
+    background-color: #b0e0e6;
+}
+
+.page{
+    position: absolute;
+    height: 76vh;
+    width: 95%;
+    background-color: #203080;
+    margin-top: -1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
+    filter: alpha(opacity=60);  /* IE 5-7 */
+    -moz-opacity: 0.6;          /* Netscape */
+    -khtml-opacity: 0.6;        /* Safari 1.x */
+    opacity: 0.6;               /* Good browsers */
+}
+
+/*data*/
+.body_data_title{
+    margin-top: 0rem;
+}
+.body_data{
+    margin: auto;
+ /*padding: 12 %;*/
+    line-height: 2rem !important ;
+
+}
+
+.body_data_text{
+/* margin-top: 2.1rem;*/
+    padding-left: 0rem;
+    padding-right: 0rem;
+/* text-indent: 2rem;*/
+    line-height: 1.5rem !important ;
+}
+
+.data_page{
+    margin-top: 2.5em;
+    padding-left: 1em; 
+    list-style-type: none;
+}
+
+#content_page{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+h3 {
+    font-size: 1.1rem;
+    letter-spacing:1px;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+
+.line{
+    width: 100%;
+    border-bottom: 1px solid #ffffff;
+}
+
+.line_corporate{
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffffff;
+}
+.img_icon{
+    height: 5em;
+}
+/*score bar */
+.scrollbar
+{
+
+ /*margin-left: 30px;
+ float: left;*/
+    height: 50vh;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+/*corporate*/
+.force-overflow
+{
+    min-height: 300px;
+     margin-right: 3em;
+}
+
+.force-overflow1 {
+    /*min-height: 400px;*/
+
+}
+
+#style-2::-webkit-scrollbar-track
+{
+     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+     border-radius: 10px;
+     background-color: #a29696;
+}
+
+#style-2::-webkit-scrollbar
+{
+     width: 12px;
+
+}
+
+#style-2::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #ffffff;
+}
+
+.w_100_px{
+    width: 6rem;
+}
+.w_01_p{
+    width: 0.2rem;
+}
+.ta_data_2{
+    margin-left: 10px;
+}
+.new_txt_top{
+    margin-top: 22em;
+}
+
+.text-center-top_1 {
+    padding-right: 1.9em;
+}
+
+.h4_la{
+   font-size: 1.2em; 
+}
+.h4_th{
+   font-size: 1.2em;
+   }
+
+.h4_en{
+    font-size: 1.2em;
+}
+
+.h4_jp{
+    font-size: 1em;
+}

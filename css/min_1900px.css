@@ -1,0 +1,168 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2017, 6:09:22 PM
+    Author     : 000
+*/
+
+.img_width {
+        width: 3.1em;
+}
+
+.f_helvethaica {
+     font-family: "db_helvethaica_x";
+     font-size: 1.8em;
+     font-weight: bold;
+     color: #333333;
+     line-height: 1.5rem !important;
+     text-transform: uppercase;
+ }
+
+ .font{
+     font-family: "db_helvethaica_x";
+     font-size: 1.5em;
+     font-weight: bold;
+     color: #333333;
+     line-height: 1em;
+     text-transform: uppercase;
+ }
+
+ .font_th {
+     font-family: "db_helvethaica_x";
+     font-size: 1.5em;
+     font-weight: bold;
+     color: #333333;
+     line-height: 1em;
+     text-transform: uppercase;
+ }
+
+ .font_en {
+     font-family: "db_helvethaica_x";
+     font-size: 1.2em;
+     font-weight: bold;
+     color: #333333;
+     line-height: 1em;
+     margin-top: 0.2em;
+     text-transform: uppercase;
+ }
+
+ .font_jp {
+     font-family: "db_helvethaica_x";
+     font-size: 1em;
+     font-weight: bold;
+     color: #333333;
+     margin-top: 0.5em;
+     text-transform: uppercase;
+ }
+
+  .img_res {
+    /* width: 90%;
+     height: 90%;
+     margin: 0.2rem auto;*/
+ }
+
+  .h2, h2 {
+     font-size: 2.8rem;
+ }
+
+ .h3, h3 {
+     font-size: 2.3rem;
+ }
+
+
+ .h4, h4 {
+     font-size: 1.9rem;
+ }
+
+ .title_txt {
+     font-family: "db_helvethaica_x";
+     margin-top: 0.4em;
+     font-size: 3.4em;
+     font-weight: normal;
+     color: #FFF !important;
+     margin-right: 1.5em;
+ }
+
+ .pop_network {
+     background-image: url(../images/network/pop_network.png);
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-position: center center;
+     background-size: 19rem 11rem;
+     min-height: 11rem;
+     background-repeat: no-repeat;
+ }
+
+ .txt_data{
+     font-size: 1.6em;
+
+ }
+
+ .page {
+     position: fixed;
+     width: 98%;
+     background-color: #203080;
+     height: 82vh;
+     margin-top: -1em;
+     margin-bottom: 1em;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+     filter: alpha(opacity=60);
+     -moz-opacity: 0.6;
+     -khtml-opacity: 0.6;
+     opacity: 0.6;
+ }
+
+ .scrollbar {
+    height: 60vh;
+    width: 98%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+ .row_between {
+     margin-top: 6em;
+ }
+
+
+ ul .setting{
+     margin-top: 0.8em;
+     padding-left: 0;
+     /* float: right; */
+     list-style-type: none;
+     font-size: 0.8em;
+     margin-right: 0.136vw;
+ }
+  .ui_bar{
+     margin-left: 1em;
+ }
+
+ .new_txt_top{
+
+     margin-top: 22em;
+
+ }
+
+  .text-center-top_1 {
+     padding-right: 4em;
+ }
+    
+.h4_la{
+      font-size: 1.2em; 
+ }
+    
+.h4_th{
+    font-size: 1.9em;
+}
+
+.h4_en{
+    font-size: 1.9em;
+}
+
+.h4_jp{
+    font-size: 1.5em;
+}

@@ -1,0 +1,187 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2017, 9:44:44 PM
+    Author     : 000
+*/
+  .f_helvethaica {
+        font-family: "db_helvethaica_x";
+        font-size: 1.43em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1.5rem !important;
+        text-transform: uppercase;
+    }
+    
+    .font{
+        font-family: "db_helvethaica_x";
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_th {
+        font-family: "db_helvethaica_x";
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        text-transform: uppercase;
+    }
+    
+    .font_en {
+        font-family: "db_helvethaica_x";
+        font-size: 1em;
+        font-weight: bold;
+        color: #333333;
+        line-height: 1em;
+        margin-top: 0.2em;
+        text-transform: uppercase;
+    }
+    
+    .font_jp {
+        font-family: "db_helvethaica_x";
+        font-size: 0.8em;
+        font-weight: bold;
+        color: #333333;
+        margin-top: 0.5em;
+        text-transform: uppercase;
+    }
+    
+    .img_res {
+       /* width: 82%;
+        height: 82%;
+        margin: 0.2rem auto;*/
+    }
+    
+     .img_width{
+        width:2.5em;
+    }
+    .title_txt {
+        font-family: "db_helvethaica_x";
+        margin-top: 0.4em;
+        font-size: 3.4em;
+        font-weight: normal;
+        color: #FFF !important;
+        margin-right: 1.5em;
+    }
+    
+    .h2, h2 {
+        font-size: 2.5rem;
+    }
+    
+    .h3, h3 {
+        font-size: 2rem;
+    }
+    
+        
+    .h4, h4 {
+        font-size: 1.8rem;
+    }
+    .body_data_text {
+       /* margin-top: 2.5rem;*/
+        padding-left: 0rem;
+        padding-right: 1.7rem;
+       /* text-indent: 2rem;*/
+        line-height: 2.5rem !important;
+    }
+    .txt_data{
+        font-size: 1.4em;
+    
+    }
+    .scrollbar {
+        height: 50vh;
+        width: 98%;
+        overflow-y: auto;
+        overflow-x: hidden;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .pop_network {
+        background-image: url(../images/network/pop_network.png);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-position: center center;
+        background-size: 15rem 9rem;
+        min-height: 9rem;
+        max-height: 10rem;
+        background-repeat: no-repeat;
+    }
+    
+    .row_between {
+        margin-top: 5em;
+    }
+    
+    ul .setting{
+        /* margin: auto;
+        width: 99%;
+        -webkit-padding-start: 1em;*/
+        margin-top: 0.5em;
+        padding-left: 0;
+       /* float: right;*/
+        list-style-type: none;
+        font-size: 0.4em;
+        margin-right: 0.136vw;
+    }
+    
+     .menu_bar_corporate{
+        width: 11.8%;
+    }
+    
+    .menu_bar_social{
+        width: 14%;
+    }
+    
+    .menu_bar_investor{
+        width: 12%;
+    }
+    
+    .menu_bar_business{
+        width: 13.5%;
+    }
+    .menu_bar_news{
+        width: 14%
+    }
+    .menu_bar_social_setting{
+        width: 10.3%
+    }
+    
+    .menu_bar_company{
+         width: 11%;
+    }
+    
+    .ui_bar{
+        margin-left: 0.8em;
+    }
+    .new_txt_top{
+        
+        margin-top: 22em;
+
+    }
+    
+    .text-center-top_1 {
+        padding-right: 1.9em;
+    }
+    
+    .h4_la{
+        font-size: 1.2em; 
+    }
+    
+    .h4_th{
+    font-size: 1.8em;
+    }
+
+    .h4_en{
+        font-size: 1.8em;
+    }
+
+    .h4_jp{
+        font-size: 1.4em;
+    }

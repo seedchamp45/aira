@@ -1,0 +1,618 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2017, 5:46:18 PM
+    Author     : 000
+*/
+
+.bar-top{
+top: 1.01em; 
+}
+
+.img_res {
+/* width: 80%;
+ height: 80%;*/
+ /*margin: 0.2rem auto;*/
+}
+
+.img_width{
+    width:2em;
+}
+
+.menu_bar{
+    width:12.5%;
+}
+
+.menu_bar1{
+    width:11%;
+}
+.menu_bar2{
+    width:10.5%;
+}
+
+.w_35{
+    width:60%;
+}
+
+.menu_bar3{
+    width:13%;
+}
+
+.menu_bar4{
+    width:15.47%;
+}
+
+.menu_bar5{
+    width:14%;
+}
+
+.menu_bar6{
+    width:19.8%;
+}
+
+.menu_bar_corporate{
+    width: 11.8%;
+}
+
+.menu_bar_social{
+    width: 14%;
+}
+
+.menu_bar_investor{
+    width: 12%;
+}
+
+.menu_bar_business{
+    width: 13.5%;
+}
+
+.menu_bar_news{
+    width: 14%
+}
+
+.menu_bar_social_setting{
+    width: 10.3%
+}
+
+.menu_bar_company{
+  width: 11%;
+}
+
+.ui_bar{
+    margin-left: 0.8em;
+}
+
+.font{
+   font-family: "db_helvethaica_x";
+   font-size:0.7em;
+   font-weight: bold;
+   color: #333333;
+   text-transform: uppercase;
+}
+
+.font_th {
+    font-family: "db_helvethaica_x";
+    font-size: 1em;
+    font-weight: bold;
+    color: #333333;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+
+.font_en {
+    font-family: "db_helvethaica_x";
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #333333;
+    line-height: 1em;
+    margin-top: 0.2em;
+    text-transform: uppercase;
+}
+
+.font_jp {
+    font-family: "db_helvethaica_x";
+    font-size: 0.5em;
+    font-weight: bold;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+
+ul .setting{
+ /* margin: auto;
+ width: 99%;
+ -webkit-padding-start: 1em;*/
+    margin-top: 0.5em;
+    padding-left: 0;
+    /*float: right;*/
+    list-style-type: none;
+    font-size: 0.4em;
+    margin-right: 0.136vw;
+}
+
+.bg-inverse {
+/*  background-color: #ffffff!important;*/
+}
+
+.logo{
+    margin-left: 1.2em;
+}
+
+.bar_full{
+    width: 100%;
+}
+
+.menu_right{
+    float: right;
+    margin-left: 0.2em;
+}
+
+.menu_right2{
+    float: right;
+    padding-right: 60px;
+}
+
+.m_left_txt{
+    float: left;
+    margin-left: 0.5em;
+}
+
+.icon_menu{
+    float: right;
+    margin-left: 0px;
+}
+
+.bow_w_80{
+    width: 90%;
+}
+
+.menu_in_aira{
+    width: 50%
+}
+.menu_data_company{
+    width: 50%
+}
+
+.menu_business{
+    width: 58%
+}
+
+.menu_business{
+    width: 58%
+}
+
+.menu_investor{
+    width: 60%
+}
+
+.menu_new{
+    width: 60%
+}
+
+.menu_care{
+    width: 60%
+}
+
+.menu_sr{
+    width: 65%
+}
+
+
+
+.overflow_box {
+    background: #FFF;
+    padding: 4%;
+    border: 1px solid #F00;
+}
+
+.setting_bar{
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+.bu_social{
+    margin-left: 2px;
+    margin-right: 2px;   
+}
+
+.icon_th{
+    background-image: url('../images/menu/bu_th.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 2.8em;
+    height: 2.2em;
+}
+
+.icon_en{
+    background-image: url('../images/menu/bu_en.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 2.8em;
+    height: 2.2em;
+}
+
+.icon_jp{
+    background-image: url('../images/menu/bu_jp.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100% !important;
+    background-repeat: no-repeat;
+    width: 2.8em;
+    height: 2.2em;
+}
+
+.icon_facebook{
+    background-image: url('../images/menu/bu_facebook.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 1.9em;
+    height: 1.9em;
+}
+
+.icon_youtub{
+    background-image: url('../images/menu/bu_youtube.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 1.9em;
+    height: 1.9em;
+}
+
+.icon_twitter{
+    background-image: url('../images/menu/bu_twitter.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 1.9em;
+    height: 1.9em;
+}
+
+.icon_google{
+    background-image: url('../images/menu/bu_google.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    width: 1.9em;
+    height: 1.9em;
+}
+/*
+.logo {
+ background-image: url('../images/logo.png');
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-image-size: 100% 100%;
+ background-size: 100% 100%;
+ min-width: 100%;
+ min-height: 100%;
+ width:162px;
+ height:77px;
+ margin: 1em;
+ float:left;
+}*/
+
+.bu_menu_in_aira {
+    background-image: url('../images/menu_in_aira.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+    min-width: 100%;
+    min-height: 100%;
+    margin: 1em;
+    float:left;
+}
+
+.f_helvethaica{
+    font-family: "db_helvethaica_x";
+    font-size:1.1em;
+    font-weight: bold;
+    color: #333333; 
+    line-height: 1.3rem !important;
+    text-transform: uppercase;
+}
+/* bar */
+
+
+/*background*/
+
+/*page_ network*/
+/*page_ network*/
+.pop_network{
+    background-image: url('../images/network/pop_network.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center center;
+    /*min-width: 9.35em;
+    min-height: 6.4em;
+    max-height: 8em;*/
+    background-size: 13rem 8rem;
+    min-height: 8rem;
+    max-height: 10rem;
+    background-repeat: no-repeat;
+}
+
+.margin2{
+    margin:0.2rem
+}
+
+
+.row_between{
+    margin-top: 2em;
+}
+.row_between_top{
+    margin-top: 3em;
+}
+.row_data{
+ /*padding-left: 0.5em;
+ padding-right: 0.5em;  */
+}
+
+
+.title_page{
+    margin-top: 4.5em;
+}
+
+.title_txt{
+    font-family: "db_helvethaica_x";
+    margin-top: 0.4em;
+    font-size: 3.2em;
+    font-weight: normal;
+    color: #FFF !important;
+    margin-right: 1.5em;
+}
+
+
+.body_txt{
+    font-family: "db_helvethaica_x";
+    font-size: 1em;
+    font-weight: normal;
+    color: #FFF !important;
+}
+
+.txt_data{
+    font-size: 1.2em;
+}
+
+.body_network{
+   margin: auto;
+/* width: 60%;
+ border: 3px solid #73AD21;*/
+    padding: 10px;
+}
+
+/**data**/
+.body_data_title{
+    margin-top: 0rem;
+}
+
+.body_data{
+   margin: auto;
+/* width: 60%;
+ border: 3px solid #73AD21;*/
+    line-height: 2rem !important;
+}
+
+.body_data_text{
+/* margin-top: 2.5rem;*/
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+   /* text-indent: 2rem;*/
+    line-height: 2rem !important;
+}
+
+.body_data_no_indent_text{
+    margin-top: 2.5rem;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    text-indent: 2rem;
+    line-height: 2rem !important;
+}
+
+.body_text{
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    text-indent: 2rem;
+    line-height: 2rem !important;
+}
+
+body_text_2_1{
+    padding-left: 0rem;
+    text-indent: 0.7rem;
+    line-height: 2rem !important ;
+}
+
+.body_text_2_2{
+    padding-left: 0rem;
+    text-indent: 0.2rem;
+    line-height: 2rem !important ;
+    margin-top: 10px;
+}
+
+.img_bott_0 {
+     margin-bottom: 0rem !important;
+}
+
+.h_1{
+    margin-top: 1.5em;
+}
+
+.h_title{
+    margin-top: 2rem;
+}
+
+.a_body{
+    background-image: url('../images/data/a_body.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    letter-spacing:1px;
+}
+
+.bg_popup{
+    background-image: url('../images/data/popup.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70vw 60vh;
+    height: 60vh;
+}
+
+.line{
+    width: 100%;
+    border-bottom: 1px solid #ffffff;
+}
+
+.line_corporate{
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffffff;
+}
+/*ul*/
+.data_page{
+    margin-top: 2.5em;
+    list-style-type: none;
+}
+
+.page{
+    position: fixed;
+
+    width: 98%;
+    background-color: #203080;
+    height: 76vh;
+    margin-top: -1em;
+    margin-bottom: 1em;
+
+   /* margin-top: -2.5em;
+    margin-bottom: 5em;*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
+    filter: alpha(opacity=60);  /* IE 5-7 */
+    -moz-opacity: 0.6;          /* Netscape */
+    -khtml-opacity: 0.6;        /* Safari 1.x */
+    opacity: 0.6; 
+}
+
+#content_page{
+    margin: 0em;
+}
+/*corporate*/
+
+.body_corporate_text{
+    padding-left: 0rem;
+    line-height: 2rem !important;
+}
+
+/*score bar */
+.scrollbar{
+ /*margin-left: 30px;
+ float: left;*/
+    height: 50vh;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/*corporate*/
+.force-overflow{
+    min-height: 1em;
+    margin-right: 3em;
+}
+
+.force-overflow1 {
+   /* min-height: 1em;*/
+}
+
+#style-2::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: #a29696;
+}
+
+#style-2::-webkit-scrollbar{
+     width: 12px;
+     /*background-color: #ffffff;*/
+}
+
+#style-2::-webkit-scrollbar-thumb{
+     border-radius: 10px;
+     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+     background-color: #ffffff;
+}
+
+.force-overflow2{
+  min-height: 450px;
+}
+
+.scrollbar2{
+ /*margin-left: 30px;
+ float: left;*/
+ height: 45vh;
+ width: 111%;
+ overflow-y: auto;
+ overflow-x: hidden;
+ margin-top: 25px;
+ margin-bottom: 25px;
+}
+
+.img_icon {
+ height: 5em;
+}
+
+.w_100_px{
+ width: 10rem;
+}
+
+.w_01_p{
+ width: 0.2rem;
+}
+
+.ta_data_2{
+  margin-left: 10px;
+}
+
+.new_txt_top{
+ margin-top: 22em;
+}
+
+.text-center-top_1 {
+ padding-right: 1em;
+}
+
+.h4_la{
+   font-size: 1.5em; 
+}
+
+.h4_th{
+    font-size: 1.5em;
+}
+
+.h4_en{
+    font-size: 1.5em;
+}
+
+.h4_jp{
+    font-size: 1.2em;
+}
