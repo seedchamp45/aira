@@ -237,7 +237,7 @@ $(function(){
            "i_r_tag4":"รายการข้อมูลประจำปี",
            "i_r_tag4_t_1":"รายการข้อมูลประจำปี",
            
-             "n_a_m_1":"NEWS",
+            "n_a_m_1":"NEWS",
             "n_a_m_2":"ACTIVITY",
             "n_a_m_3":"CAREERS",
             
@@ -404,23 +404,26 @@ $(function(){
            "i_r_tag4":"รายการข้อมูลประจำปี",
            "i_r_tag4_t_1":"รายการข้อมูลประจำปี",
            
-             "n_a_m_1":"ข่าวสารบริษัท",
-            "n_a_m_2":"กิจกรรม",
-            "n_a_m_3":"ร่วมงานกับเครือไอร่า",
+          
+
+           "n_a_m_1":"NEWS",
+            "n_a_m_2":"ACTIVITY",
+            "n_a_m_3":"CAREERS",
             
-            "n_a_m_tag1":"ข่าวสารบริษัท",
-            "n_a_m_tag2":"กิจกรรม",
-            "n_a_m_tag3":"ร่วมงานกับเครือไอร่า",
-            "n_a_m_tag1_t_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) ร่วมบริจาคในงานกาชาดคอนเสิร์ต ครั้งที่ 43 ประจำปี 2559  เนื่องในโอกาสมหามงคลเสด็จเถลิงถวัลยราชสมบัติครบ 70 ปี และเฉลิมพระเกียรติสมเด็จพระนางเจ้าฯ พระบรมราชินีนาถ เนื่องในโอกาส มหามงคลเฉลิมพระชนมพรรษา 7 รอบ รายได้โดยเสด็จพระราชกุศลบำรุงสภากาชาดไทย jp",
-            "n_a_m_tag2_t_1":"ตัวแทนคณะผู้บริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) และบริษัทในเครือร่วมกันจัดโครงการช่วยเหลือสังคม เพื่อเป็นส่วนหนึ่งของการพัฒนาสังคม และสิ่งแวดล้อมสู่การพัฒนาอย่างยั่งยืน ตามแนวคิดด้าน CSR ของตลาดหลักทรัพย์ แห่งประเทศไทย โดยในปีนี้ บริษัทได้จัด “โครงการไอร่าเพื่อสังคม สู่การพัฒนาอย่างยั่งยืน” เป็นปีที่ 2 ขึ้นที่โรงเรียนปากคลองชวดใหญ่ อ.บางบ่อ จ.สมุทรปราการ โดยได้มอบทุนการศึกษาหนังสืออุปกรณ์การเรียนและอุปกรณ์กีฬาให้กับโรงเรียนที่ห่างไกล เมื่อวันที่ 15 กรกฎาคม 2559 jp",
+            
+            "n_a_m_tag1":"NEWS",
+            "n_a_m_tag2":"ACTIVITY",
+            "n_a_m_tag3":"CAREERS",
+            "n_a_m_tag1_t_1":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) ร่วมบริจาคในงานกาชาดคอนเสิร์ต ครั้งที่ 43 ประจำปี 2559  เนื่องในโอกาสมหามงคลเสด็จเถลิงถวัลยราชสมบัติครบ 70 ปี และเฉลิมพระเกียรติสมเด็จพระนางเจ้าฯ พระบรมราชินีนาถ เนื่องในโอกาส มหามงคลเฉลิมพระชนมพรรษา 7 รอบ รายได้โดยเสด็จพระราชกุศลบำรุงสภากาชาดไทย",
+            "n_a_m_tag2_t_1":"ตัวแทนคณะผู้บริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) และบริษัทในเครือร่วมกันจัดโครงการช่วยเหลือสังคม เพื่อเป็นส่วนหนึ่งของการพัฒนาสังคม และสิ่งแวดล้อมสู่การพัฒนาอย่างยั่งยืน ตามแนวคิดด้าน CSR ของตลาดหลักทรัพย์ แห่งประเทศไทย โดยในปีนี้ บริษัทได้จัด “โครงการไอร่าเพื่อสังคม สู่การพัฒนาอย่างยั่งยืน” เป็นปีที่ 2 ขึ้นที่โรงเรียนปากคลองชวดใหญ่ อ.บางบ่อ จ.สมุทรปราการ โดยได้มอบทุนการศึกษาหนังสืออุปกรณ์การเรียนและอุปกรณ์กีฬาให้กับโรงเรียนที่ห่างไกล เมื่อวันที่ 15 กรกฎาคม 2559",
             "n_a_m_tag3_t_1":" ",
             
-              "n_a_m_tag1_i1":"คณะกรรมการบริษัท ร่วมแถลงผลการดำเนินงาน ในการประชุมสามัญผู้ถือหุ้น ประจำปี 2559  พร้อมเปิดตัวประธานกรรมการบริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) คุณปกรณ์ มาลากุล ณ อยุธยา เมื่อวันที่ 25 เมษายน 2559 ณ ห้องบุษบา โรงแรมแมนดาริน สามย่าน",
-            "n_a_m_tag1_i2":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) ผนึกกำลังเซ็นสัญญาความร่วมมือทางธุรกิจ กับบริษัท Kenedix Asia Private Limited บริษัทจัดการกองทุนและบริหารสินทรัพย์ชั้นนำจากประเทศญี่ปุ่น และ บริษัท Eugene Investment & Securities กลุ่มบริษัทการเงิน และวัสดุก่อสร้างชั้นนำจากประเทศเกาหลี และ เพื่อต่อยอด เสริมความแข็งแกร่งทางธุรกิจด้านอสังหาริมทรัพย์ให้กับกลุ่มบริษัทในอนาคต",
-            "n_a_m_tag1_i3":"บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) ร่วมบริจาคในงานกาชาดคอนเสิร์ต ครั้งที่ 43 ประจำปี 2559 เนื่องในโอกาสมหามงคลเสด็จเถลิงถวัลยราชสมบัติครบ 70 ปี และเฉลิมพระเกียรติสมเด็จพระนางเจ้าฯ พระบรมราชินีนาถ เนื่องในโอกาสมหามงคลเฉลิมพระชนมพรรษา 7 รอบ รายได้โดยเสด็จพระราชกุศลบำรุงสภากาชาดไทย",
-            "n_a_m_tag1_i4":"ผลการแข่งขันฟุตบอล สิงห์โบรกเกอร์คัพ ชิงถ้วยพระราชทาน สมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี  ซึ่งทีมไอร่า โดยบริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน) สามารถคว้าแชมป์ชนะเลิศอันดับ 1 มาได้เป็นผลสำเร็จ โดยการเอาชนะบริษัทหลักทรัพย์ กรุงศรี 3:0 ประตู เมื่อเร็วๆ นี้",
-            "n_a_m_tag1_i5":"ตัวแทนคณะผู้บริหาร บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน) และบริษัทในเครือร่วมกันจัดโครงการช่วยเหลือสังคม เพื่อเป็นส่วนหนึ่งของ การพัฒนาสังคมและสิ่งแวดล้อมสู่การพัฒนาอย่างยั่งยืน ตามแนวคิดด้าน CSR ของตลาดหลักทรัพย์แห่งประเทศไทย โดยในปีนี้ บริษัทได้จัด “โครงการไอร่าเพื่อสังคม สู่การพัฒนาอย่างยั่งยืน” เป็นปีที่ 2 ขึ้นที่โรงเรียนปากคลองชวดใหญ่ อ.บางบ่อ จ.สมุทรปราการ โดยได้มอบทุน การศึกษา หนังสือ อุปกรณ์การเรียน และอุปกรณ์กีฬาให้กับโรงเรียนที่ห่างไกล เมื่อวันที่ 15 กรกฎาคม 2559",
-            "n_a_m_tag1_i6":"ผลการแข่งขันแบดมินตันชิงถ้วยพระราชทานสมเด็จพระเทพฯ “Broker Badminton Championship” ปีที่ 6 เมื่อวันเสาร์ที่ 20 - 21 กุมภาพันธ์  2559 ที่ผ่านมา  บล.ทิสโก้ ได้รับรางวัลถ้วยพระราชทานฯ จากผลรวมคะแนนอันดับ 1 ส่วนทางไอร่า นั้นถือว่าเป็นปีแรกที่ได้เข้าร่วม รายการแข่งขัน  และสามารถผ่านเข้ารอบ 8 ทีม และ 16 ทีม ในหลายๆประเภท จากทั้งหมด 29 ทีม ซึ่งจะเป็นแรงผลักดันให้นักแบดมินตันไอร่า มุ่งมั่นฝึกซ้อมเพื่อคว้าเหรียญรางวัลมาให้ได้ในรายการแข่งขันต่อๆไป",
+            "n_a_m_tag1_i1":"Corporate Directors of AIRA groups announce its performance in the Annual General meeting 2016. Meanwhile, reveal the director chairman of AIRA Capital PCL on April 25, 2016 At Bussaba Room, Mandarin Bangkok Hotel ",
+            "n_a_m_tag1_i2":"AIRA Capital Public Company Limited signed joint venture agreement with Kenedix Asia Private Limited; The leading Asset Management from Japan and Eugene Investment & Securities; Financial and Construction Group of Companies in order to develop its capacity  in property aspect of AIRA Group",
+            "n_a_m_tag1_i3":"AIRA Capital Public Company Limited donates for The 43rd Red Cross Charity Concert 2016 which was organized by Thai Red Cross Society in collaborate with the Royal Thai Navy, to celebrate the 70th Anniversary of His Majesty the King ‘s accession to the throne and the 70th Birthday of Her Majesty the Queen. All Revenue from this concert will be donated to the Thai Red Cross Society",
+            "n_a_m_tag1_i4":"AIRA Securities Public Company Limited celebrates the success of AIRA Football team winning Royal Trophy of HRH Princess Maha Chakri Sirindhorn in Singha Broker Cup  by beating Krungsri Securities 3:0",
+            "n_a_m_tag1_i5":'“AIRA for Society to sustainability development” ,the social responsible project from AIRA group which is hold for the 2nd year of this project in 2016.  For this year, AIRA group management team representatives and staffs donate fund, books, school supplies and sport equipments to Pak Khlong chuat Yai School, Bang Bo District, Samut Prakarn Province on July  15th, 2016. AIRA Group management team’s representatives hold social responsibility activities to follow the ideas of sustainable development under CSR activities of SET',
+            "n_a_m_tag1_i6":"The Result of “Broker Badminton Championship” for the Royal Trophy of HRH Princess Maha Chakri Sirindhorn on February 20-21,2016 which AIRA could get through the last 8 team from several match",
 
 
             "a_d_m_1":". --ビジョン—   / ミッション " ,
@@ -559,6 +562,7 @@ $(function(){
             $("#"+ idOld +'_txt').addClass('menu_action');
 
             $(".font").removeClass("font_"+lang);
+             $(".h4_la").removeClass("h4_"+lang)
             $("#"+lang+"_img").css('background-image', 'url(images/menu/bu_'+ lang +'.png)');
              lang = this.id;
             set_lang(dictionary[this.id]);
@@ -645,7 +649,7 @@ $(function(){
     set_lang = function (dictionary) {
          
         $(".font").addClass("font_"+lang);
-        
+        $(".h4_la").addClass("h4_"+lang);
         $("[data-translate]").html(function () {
             var key = $(this).data("translate");
             if (dictionary.hasOwnProperty(key)) {
