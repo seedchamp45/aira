@@ -236,8 +236,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 2.8em;
-    height: 2.2em;
+    width: 2.3em;
+    height: 1.8em;
 }
 
 .icon_en{
@@ -246,8 +246,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 2.8em;
-    height: 2.2em;
+    width: 2.3em;
+    height: 1.8em;
 }
 
 .icon_jp{
@@ -257,8 +257,8 @@ ul .setting{
     -o-background-size: cover;
     background-size: 100% 100% !important;
     background-repeat: no-repeat;
-    width: 2.8em;
-    height: 2.2em;
+    width: 2.3em;
+    height: 1.8em;
 }
 
 .icon_facebook{
@@ -267,8 +267,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.9em;
-    height: 1.9em;
+    width: 1.6em;
+    height: 1.6em;
 }
 
 .icon_youtub{
@@ -277,8 +277,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.9em;
-    height: 1.9em;
+    width: 1.7em;
+    height: 1.6em;
 }
 
 .icon_twitter{
@@ -287,8 +287,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.9em;
-    height: 1.9em;
+    width: 1.6em;
+    height: 1.6em;
 }
 
 .icon_google{
@@ -297,8 +297,8 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.9em;
-    height: 1.9em;
+    width: 1.6em;
+    height: 1.6em;
 }
 /*
 .logo {
@@ -487,8 +487,7 @@ h3 {
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
-    background-size: 65vw 60vh;
-    height: 60vh;
+    background-size: 70vw 50vh;
 }
 
 .line{
@@ -576,19 +575,17 @@ h3 {
 
 .force-overflow2{
   min-height: 450px;
+  margin-right: 0.9em;
 }
 
-.scrollbar2{
- /*margin-left: 30px;
- float: left;*/
- height: 45vh;
- width: 111%;
- overflow-y: auto;
- overflow-x: hidden;
- margin-top: 25px;
- margin-bottom: 25px;
-}
 
+.close {
+    margin-top: 0.2em;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 1.5em;
+    float: right;
+}
 .img_icon {
  height: 5em;
 }
@@ -629,6 +626,9 @@ h3 {
     font-size: 1.2em;
 }
 
+.m_img_data {
+    margin: 0.3em;
+}
 
     .menu_bar{
         width: 13%;
@@ -668,4 +668,27 @@ h3 {
         width: 11%
     }
     
+    .data_management_font {
+        font-family: "db_helvethaica_x";
+        margin-top: 0.2em;
+        font-size: 2.8em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
     
+.scrollbar2 {
+    height: 35em;
+    width: 121%;
+    max-height: 30vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 0.7em;
+    margin-bottom: 1em;
+}
+
+.close {
+    margin-top: 0.2em;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 1.5em;
+}

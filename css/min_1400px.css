@@ -36,7 +36,7 @@ and open the template in the editor.
     
     .font_en {
         font-family: "db_helvethaica_x";
-        font-size: 1em;
+        font-size: 0.9em;
         font-weight: bold;
         color: #333333;
         line-height: 1em;
@@ -46,7 +46,7 @@ and open the template in the editor.
     
     .font_jp {
         font-family: "db_helvethaica_x";
-        font-size: 0.8em;
+        font-size: 0.7em;
         font-weight: bold;
         color: #333333;
         margin-top: 0.5em;
@@ -131,30 +131,43 @@ and open the template in the editor.
         margin-right: 0.136vw;
     }
     
-     .menu_bar_corporate{
-        width: 11.8%;
+    
+    .menu_bar{
+        width: 13%;
     }
     
-    .menu_bar_social{
-        width: 14%;
+    .menu_bar_company{
+         width: 11%;
+    }
+    
+    .menu_bar_business{
+        width: 13.5%;
     }
     
     .menu_bar_investor{
         width: 12%;
     }
     
-    .menu_bar_business{
-        width: 13.5%;
-    }
     .menu_bar_news{
-        width: 14%
-    }
-    .menu_bar_social_setting{
-        width: 10.3%
+        width: 12.7%
     }
     
-    .menu_bar_company{
-         width: 11%;
+    .menu_bar_corporate{
+        width: 13%;
+    }
+    
+    .menu_bar_social{
+        width: 13%;
+    }
+    
+    m_left_txt2{
+      margin-left: 0em;
+      float: left;
+    }
+    
+   
+    .menu_bar_social_setting{
+        width: 11%
     }
     
     .ui_bar{
@@ -185,3 +198,10 @@ and open the template in the editor.
     .h4_jp{
         font-size: 1.4em;
     }
+.data_management_font {
+    font-family: "db_helvethaica_x";
+    margin-top: 0.2em;
+    font-size: 2.8em;
+    font-weight: normal;
+    color: #FFF !important;
+}

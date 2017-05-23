@@ -10,180 +10,191 @@ and open the template in the editor.
 
 .bar-top{
        top:2em; 
-    }
-    
-    .img_res {
-       width: 80%;
-       height: 80%;
-       margin: 0.2rem auto;
-    }
-    .logo{
-        margin-left: 1.2em;
-    }
-    
-    .bar_full_80{
-        margin-left: 1em;
-        width: 100%;
-    }
-   
-    
-    .menu_right{
-        float: right;
-    }
-    .m_left_txt{
-        float: right;
-         margin-left: 0.05em;
-    }
-    
-    
-    .bar_full {
-        width: 100%;
-    }
-    
-    .icon_menu{
-        float: right;
-        margin-left: 0px;
-        width: 35%;
-        margin-top: 7px;
-    }
-     .menu_bar{
-       width:12.5%;
-    }
-     .menu_bar1{
-       width:11%;
-    }
-    .menu_bar2{
-       width:10.5%;
-    }
-    .w_35{
-        width:60%;
-    }
-    .menu_bar3{
-       width:13%;
-    }
-    
-    .menu_bar4{
-       width:15.47%;
-    }
-    
-    .menu_bar5{
-       width:14%;
-    }
-     .menu_bar6{
-       width:19.8%;
-    }
-    .f_helvethaica{
-        font-family: "db_helvethaica_x";
-       font-size:0.9em;
-       font-weight: bold;
-       color: #333333; 
-        text-transform: uppercase;
-    }
-    
-    .nav-item {
-       margin-right: 0.09em;
-        margin-left: 0.09em;
-    }
-    
-    .setting_bar{
-        margin-left: 0em;
-        margin-right: 0em;
-    }
-    
-    .bu_social{
-        margin-left: 2px;
-        margin-right: 2px;   
-    }
-    
-    
-    .icon_th{
-        background-image: url('../images/menu/bu_th.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-         background-size: 90% 90%;
-        width:2.4em;
-        height:1.9em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_en{
-        background-image: url('../images/menu/bu_en.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-         background-size: 90% 90%;
-        width:2.4em;
-        height:1.9em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_jp{
-        background-image: url('../images/menu/bu_jp.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: 90% 90% !important;
-        width:2.4em;
-        height:1.9em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_facebook{
-        background-image: url('../images/menu/bu_facebook.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_youtub{
-        background-image: url('../images/menu/bu_youtube.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-         background-size: 90% 90%;
-        width:1.6em;
-        height:1.5em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_twitter{
-        background-image: url('../images/menu/bu_twitter.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-         background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
-        background-repeat: no-repeat;
-    }
-    
-    .icon_google{
-        background-image: url('../images/menu/bu_google.png');
-         -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-         background-size: 90% 90%;
-        width:1.5em;
-        height:1.5em;
-         background-repeat: no-repeat;
-    }
-     .new_txt_top{
-        margin-top: 22em;
-    }
-    
-    .h4_th{
+}
+
+.img_res {
+   width: 80%;
+   height: 80%;
+   margin: 0.2rem auto;
+}
+.logo{
+    margin-left: 1.2em;
+}
+
+.bar_full_80{
+    margin-left: 1em;
+    width: 100%;
+}
+
+
+.menu_right{
+    float: right;
+}
+.m_left_txt{
+    float: right;
+     margin-left: 0.05em;
+}
+
+
+.bar_full {
+    width: 100%;
+}
+
+.icon_menu{
+    float: right;
+    margin-left: 0px;
+    width: 35%;
+    margin-top: 7px;
+}
+ .menu_bar{
+   width:12.5%;
+}
+ .menu_bar1{
+   width:11%;
+}
+.menu_bar2{
+   width:10.5%;
+}
+.w_35{
+    width:60%;
+}
+.menu_bar3{
+   width:13%;
+}
+
+.menu_bar4{
+   width:15.47%;
+}
+
+.menu_bar5{
+   width:14%;
+}
+ .menu_bar6{
+   width:19.8%;
+}
+.f_helvethaica{
+    font-family: "db_helvethaica_x";
+   font-size:0.9em;
+   font-weight: bold;
+   color: #333333; 
+    text-transform: uppercase;
+}
+
+.nav-item {
+   margin-right: 0.09em;
+    margin-left: 0.09em;
+}
+
+.setting_bar{
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+.bu_social{
+    margin-left: 2px;
+    margin-right: 2px;   
+}
+
+
+.icon_th{
+    background-image: url('../images/menu/bu_th.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:2.4em;
+    height:1.9em;
+    background-repeat: no-repeat;
+}
+
+.icon_en{
+    background-image: url('../images/menu/bu_en.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:2.4em;
+    height:1.9em;
+    background-repeat: no-repeat;
+}
+
+.icon_jp{
+    background-image: url('../images/menu/bu_jp.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 90% 90% !important;
+    width:2.4em;
+    height:1.9em;
+    background-repeat: no-repeat;
+}
+
+.icon_facebook{
+    background-image: url('../images/menu/bu_facebook.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 90% 90%;
+    width:1.5em;
+    height:1.5em;
+    background-repeat: no-repeat;
+}
+
+.icon_youtub{
+    background-image: url('../images/menu/bu_youtube.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:1.6em;
+    height:1.5em;
+    background-repeat: no-repeat;
+}
+
+.icon_twitter{
+    background-image: url('../images/menu/bu_twitter.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:1.5em;
+    height:1.5em;
+    background-repeat: no-repeat;
+}
+
+.icon_google{
+    background-image: url('../images/menu/bu_google.png');
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: 90% 90%;
+    width:1.5em;
+    height:1.5em;
+     background-repeat: no-repeat;
+}
+ .new_txt_top{
+    margin-top: 22em;
+}
+
+.h4_th{
+font-size: 1.2em;
+}
+
+.h4_en{
     font-size: 1.2em;
-    }
+}
 
-    .h4_en{
-        font-size: 1.2em;
-    }
+.h4_jp{
+    font-size: 1em;
+}
 
-    .h4_jp{
-        font-size: 1em;
-    }
+.bg_popup {
+    background-image: url(../images/data/popup.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 70vw 60vh;
+    height: 60vh;
+}

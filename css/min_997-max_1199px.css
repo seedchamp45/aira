@@ -535,3 +535,46 @@ h4 {
 .h4_jp{
     font-size: 1em;
 }
+
+
+
+.bg_popup {
+    background-image: url(../images/data/popup.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 66vw 40vh;
+}
+
+.m_img_data{
+    margin: 0.3em
+}
+
+.data_management_font {
+    font-family: "db_helvethaica_x";
+    margin-top: 0.2em;
+    font-size: 2.8em;
+    font-weight: normal;
+    color: #FFF !important;
+}
+
+.close {
+    margin-top: 0.2em;
+    width: 0.7em;
+    height: 0.7em;
+    margin-right: 1.5em;
+}
+
+
+
+.scrollbar2 {
+    height: 35em;
+    width: 121%;
+    max-height: 30vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 0.7em;
+    margin-bottom: 1em;
+}
