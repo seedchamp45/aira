@@ -1005,25 +1005,48 @@ and open the template in the editor.
                                        <div class="clearfix"></div>
                                         <div class="row h_1">
                                            <div class="col-lg-4">
-                                                <a href="#" onclick="myBtn(1)">
+                                                <a href="#" onclick="myBtn(2)">
                                                     <img src="images/data/board_2_th.png" id="img_b_2" class="img-fluid">
                                                 </a>
                                             </div>
-                                           <div class="col-lg-4">
-                                                <a href="#" onclick="myBtn(1)">
-                                               <img src="images/data/board_3_th.png" id="img_b_3" class="img-fluid"> </div>
-                                           <div class="col-lg-4"><img src="images/data/board_4_th.png" id="img_b_4" class="img-fluid"></div>
+                                            <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(3)">
+                                                    <img src="images/data/board_3_th.png" id="img_b_3" class="img-fluid"> 
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(4)">
+                                                    <img src="images/data/board_4_th.png" id="img_b_4" class="img-fluid">
+                                                </a>
+                                            </div>
                                        </div>
                                        <div class="clearfix"></div>
                                        <div class="row h_1">
-                                           <div class="col-lg-4"><img src="images/data/board_5_th.png" id="img_b_5" class="img-fluid"></div>
-                                           <div class="col-lg-4"><img src="images/data/board_6_th.png" id="img_b_6" class="img-fluid"></div>
-                                           <div class="col-lg-4"><img src="images/data/board_7_th.png" id="img_b_7" class="img-fluid"></div>
+                                            <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(5)">
+                                                    <img src="images/data/board_5_th.png" id="img_b_5" class="img-fluid">
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(6)">
+                                                    <img src="images/data/board_6_th.png" id="img_b_6" class="img-fluid">
+                                                </a>
+                                            </div>
+                                            <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(7)">
+                                                    <img src="images/data/board_7_th.png" id="img_b_7" class="img-fluid">
+                                                </a>
+                                            </div>
                                        </div> 
                                        <div class="clearfix"></div>
                                         <div class="row h_1">
-                                           <div class="col-lg-4"><img src="images/data/board_8_th.png" id="img_b_8" class="img-fluid"></div>
-                                           <div class="col-lg-4"><img src="images/data/board_9_th.png" id="img_b_9" class="img-fluid"></div>
+                                           <div class="col-lg-4">
+                                                <a href="#" onclick="myBtn(8)">
+                                                    <img src="images/data/board_8_th.png" id="img_b_8" class="img-fluid"></div>
+                                                </a>
+                                           <div class="col-lg-4">
+                                               <a href="#" onclick="myBtn(7)"><img src="images/data/board_9_th.png" id="img_b_9" class="img-fluid">
+                                           </div>
                                            <div class="col-lg-4"><img src="images/data/board_10_th.png" id="img_b_10" class="img-fluid"></div>
                                        </div> 
                                        <div class="clearfix"></div>
@@ -1071,25 +1094,33 @@ and open the template in the editor.
     </div>
 </div>
 <script>
-$(document).ready(function(){
-    for(var i=1 ;i<=5 ;i++)
-    {
-        $("#data_img_"+i).hide(); 
-    }
-  
+$(document).ready(function()
+{
+    
     
     $("#myBtn").click(function(){
         $("#flow").hide();
         $("#data_img_1").show();
     });
+    
     $(".close").click(function(){
         $("#flow").show();
          $("#data_img_1").hide();
     });
     
     $(".menu_data").click(function(){
+        close_pop_menagement();
         $("#flow").show();
          $("#data_img_1").hide();
     });
+    
+    close_pop_menagement();
+    
+    function close_pop_menagement(){
+        for(var i=1 ;i<=12 ;i++)
+        {
+            $("#data_img_"+i).hide(); 
+        }
+    }
 });
 </script>
