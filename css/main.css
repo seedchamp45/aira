@@ -54,11 +54,11 @@ and open the template in the editor.
 
 @media (min-width: 576px){
 
-    .modal-dialog {
+   /* .modal-dialog {
         max-width: 70vw !important;
         max-height: 50vh !important;
         margin: 25vh auto !important;
-    }
+    }*/
 }
 
 
@@ -102,11 +102,11 @@ ul .setting li {
     float: left;
 }
 
-/*data*/
+/*data
 .close{
     margin-top: 5px;
     margin-right: 5px;
- }
+ }*/
 /*data*/
 .center {
     margin: auto;
@@ -182,8 +182,8 @@ a .menu_right{
 /***/
 
 .modal-content {
-    background-color: transparent;
-    border:0 !important;
+   /* background-color: transparent;
+    border:0 !important;*/
     
 }
 
