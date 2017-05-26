@@ -5,28 +5,33 @@
 <script src="js/jquery.boutique.min.js"></script>
 <script src="js/init_page.js"></script>
 <script>
-    $('#boutique').boutique({
+ $('#boutique').boutique({
                     container_width: 'auto',
                     front_img_width: 500,
                     autoplay:false,
                     frames:3
-            });
+    });
 			// Calling Boutique on your HTML element when the document is ready:
     $('#boutique1').boutique({
                     container_width: 'auto',
                     front_img_width: 500,
                     autoplay:false,
                     frames:3
-            });
-    clickShow1(1);
-     clickShow2(4);
+    });
+    
+    $("#detail_2").hide();
+    $("#detail_3").hide();
+    $("#detail_4").hide();
+    $("#detail_5").hide();
+    
     function clickShow1(id){
+        
         for(var i=1;i<=3;i++){
              $("#detail_"+i).hide();
         }
 
         $("#detail_"+id).show();
-
+        
          event.preventDefault();
     }
     

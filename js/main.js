@@ -23,6 +23,7 @@ $(function(){
             "_m_b2": "ข้อมูล<br>บริษัท",
             "_m_b3": "ข้อมูลธุรกิจ/<br>บริการ",
             "_m_b4": "นักลงทุน<br>สัมพันธ์",
+            "_m_b4_1": "",
             "_m_b5": "ข่าวสาร<br>กิจกรรม",
             "_m_b6": "การกำกับ<br>ดูแลกิจกรรม",
             "_m_b7": "ความรับผิดชอบ<br>ต่อสังคม",
@@ -188,6 +189,7 @@ $(function(){
             "_m_b2": "Company<br>Overview",
             "_m_b3": "Service<br>Information",
             "_m_b4": "Investor<br>Relations",
+            "_m_b4_1": "",
             "_m_b5": "News <br>and Event",
             "_m_b6": "Corporate <br>Governance",
             "_m_b7": "Corporate Social <br>Responsibility",
@@ -299,7 +301,7 @@ $(function(){
             
             
              "a_d_tag1_l1_1_1":"SHAREHOLDERS",
-            "a_d_tag1_l1_1_2":"Supports society and environment",
+            "a_d_tag1_l1_1_2":"Creates the highest return to shareholders",
             "a_d_tag1_l1_2_1":"​EMPLOYEE",
             "a_d_tag1_l1_2_2":"Develop personnel potentiality and life quality of the employee",
             "a_d_tag1_l1_3_1":"​COMPETITORS",
@@ -354,6 +356,8 @@ $(function(){
             "_m_b2": "<div class='txt_jp'>会社概要</div>",
             "_m_b3": "<div class='txt_jp'>サービス<br>インフォメーション</div>",
             "_m_b4": "<div class='txt_jp'>投資家向け広報<br>(IR)</div>",
+            
+            "_m_b4_1": "<div class='font_jp_menu'>(IR)</div>",
             "_m_b5": "<div class='txt_jp'>ニュースとイベント</div>",
             "_m_b6": "<div class='txt_jp'>コーポレート<br>ガバナンス</div>",
             "_m_b7": "<div class='txt_jp'>企業の社会的責任<br>(CSR)</div>",
@@ -560,9 +564,10 @@ $(function(){
         }else if(this.id !="th" || this.id !="en" || this.id !="jp"){
             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
             $("#"+ idOld +'_txt').addClass('menu_action');
-
-            $(".font").removeClass("font_"+lang);
-             $(".h4_la").removeClass("h4_"+lang)
+            
+          
+            removeFont();
+            
             $("#"+lang+"_img").css('background-image', 'url(images/menu/bu_'+ lang +'.png)');
              lang = this.id;
             set_lang(dictionary[this.id]);
@@ -572,6 +577,21 @@ $(function(){
         }
     });
     
+    function removeFont(){
+        $('.font_title').removeClass("font_title_"+lang) ;       
+        $(".font").removeClass("font_"+lang);
+        $(".h4_la").removeClass("h4_"+lang);
+        $(".txt_story_la").removeClass("txt_story_"+lang);
+        $(".txt_head_story_la").removeClass("txt_head_story_"+lang);
+    }
+    
+     function addFont(){
+        $('.font_title').addClass("font_title_"+lang) ;       
+        $(".font").addClass("font_"+lang);
+        $(".h4_la").addClass("h4_"+lang);
+        $(".txt_story_la").addClass("txt_story_"+lang);
+        $(".txt_head_story_la").addClass("txt_head_story_"+lang);
+    }
     
     function changeBg(){
        // alert("changeBg  --- page " +idOld );
@@ -648,8 +668,7 @@ $(function(){
     
     set_lang = function (dictionary) {
          
-        $(".font").addClass("font_"+lang);
-        $(".h4_la").addClass("h4_"+lang);
+        addFont();
         $("[data-translate]").html(function () {
             var key = $(this).data("translate");
             if (dictionary.hasOwnProperty(key)) {
