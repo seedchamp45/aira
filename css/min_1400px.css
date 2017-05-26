@@ -80,9 +80,7 @@ and open the template in the editor.
     }
     
         
-    .h4, h4 {
-        font-size: 1.8rem;
-    }
+   
     .body_data_text {
        /* margin-top: 2.5rem;*/
         padding-left: 0rem;
@@ -184,19 +182,19 @@ and open the template in the editor.
     }
     
     .h4_la{
-        font-size: 1.2em; 
+        font-size: 1.5em; 
     }
     
     .h4_th{
-    font-size: 1.8em;
+    font-size: 1.5em;
     }
 
     .h4_en{
-        font-size: 1.8em;
+        font-size: 1.5em;
     }
 
     .h4_jp{
-        font-size: 1.4em;
+        font-size: 0.9em;
     }
     .data_management_font {
         font-family: "db_helvethaica_x";
@@ -245,5 +243,147 @@ and open the template in the editor.
     }
     
     .title_center{
-        margin-right: 1.8em;
+        margin-right: 3em;
     }
+    
+    .txt_story_la{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.7em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_th{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.7em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_en{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    display: inline;
+}
+
+
+.txt_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+
+
+
+.txt_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.row1{
+     padding-right: 0rem !important;
+}
+
+.row_width_5-5 {
+     width: 5.5em !important;
+}
+
+.row_width_5 {
+     width: 5.5em !important;
+}
+
+
+.text_justify {
+    padding-left: 0rem;
+    text-indent: 0.2rem;
+    line-height: 2rem !important;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+
+
+/*head */
+
+.txt_head_story_la{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_th{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_en{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.3em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+.title_center2{
+    margin-right:1.4em;
+}
+.title_center3{
+    margin-right:4.9em;
+}
+
+.title_center4{
+   margin-right: 8vw; 
+}
+
+.force-overflow {
+    min-height: 1em;
+    margin-right: 4em;
+}
