@@ -651,19 +651,19 @@ h3 {
 }
 
 .h4_la{
-   font-size: 1.5em; 
+   font-size: 1.4em; 
 }
 
 .h4_th{
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 .h4_en{
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 .h4_jp{
-    font-size: 1.2em;
+    font-size: 0.8em;
 }
 
 
@@ -770,6 +770,7 @@ h3 {
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.6em;
+    display: inline;
 }
 
 
@@ -781,6 +782,40 @@ h3 {
     padding-left: 0rem;
     padding-right: 1.5rem;
     line-height: 2rem !important;
+}
+
+
+
+
+.txt_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.row1{
+     padding-right: 0rem !important;
+}
+
+.row_width_5-5 {
+     width: 5.5em !important;
+}
+
+.row_width_5 {
+     width: 5.5em !important;
+}
+
+
+.text_justify {
+    padding-left: 0rem;
+    text-indent: 0.2rem;
+    line-height: 2rem !important;
+    margin-top: 10px;
+    text-align: justify;
 }
 
 
@@ -825,4 +860,10 @@ h3 {
     padding-left: 0rem;
     padding-right: 1.5rem;
     line-height: 2rem !important;
+}
+.title_center2{
+    margin-right:1.4em;
+}
+.title_center3{
+    margin-right:2.9em;
 }
