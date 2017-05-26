@@ -116,7 +116,7 @@ and open the template in the editor.
     }
     
     .row_between {
-        margin-top: 5em;
+        margin-top: 2em;
     }
     
     ul .setting{
@@ -198,10 +198,52 @@ and open the template in the editor.
     .h4_jp{
         font-size: 1.4em;
     }
-.data_management_font {
-    font-family: "db_helvethaica_x";
-    margin-top: 0.2em;
-    font-size: 2.8em;
-    font-weight: normal;
-    color: #FFF !important;
-}
+    .data_management_font {
+        font-family: "db_helvethaica_x";
+        margin-top: 0.2em;
+        font-size: 2.8em;
+        font-weight: normal;
+        color: #FFF !important;
+    }
+    
+    .row_between_top{
+         margin-top: 2em;
+    }
+    
+    .font_title{
+        font-family: "db_helvethaica_x";
+        margin-top: 0.5em;
+        font-size: 2.9em;
+        font-weight: bold;
+        color: #FFF !important;
+        
+    }
+
+
+    .font_title_th{
+        font-family: "db_helvethaica_x";
+        margin-top: 0.6em;
+        font-size: 2.9em;
+        font-weight: bold;
+        color: #FFF !important;
+    }
+
+    .font_title_en{
+       font-family: "db_helvethaica_x";
+        margin-top: 0.6em;
+        font-size: 2.9em;
+        font-weight: bold;
+        color: #FFF !important;
+    }
+
+    .font_title_jp{
+       font-family: "db_helvethaica_x";
+        margin-top: 1.4em;
+        font-size: 2.1em;
+        font-weight: bold;
+        color: #FFF !important;
+    }
+    
+    .title_center{
+        margin-right: 1.8em;
+    }

@@ -166,6 +166,40 @@ Large devices (desktops, 992px and up)
     text-transform: uppercase;
 }
 
+.font_title{
+    font-family: "db_helvethaica_x";
+    margin-top: 0.3em;
+    font-size: 2.8em;
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+
+.font_title_th{
+    font-family: "db_helvethaica_x";
+    margin-top: 0.3em;
+    font-size: 2.8em;
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+.font_title_en{
+   font-family: "db_helvethaica_x";
+    margin-top: 0.3em;
+    font-size: 2.8em;
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+.font_title_jp{
+   font-family: "db_helvethaica_x";
+    margin-top: 1em;
+    font-size: 2em;
+    font-weight: bold;
+    color: #FFF !important;
+}
+
+
 
 ul .setting{
  /* margin: auto;
@@ -219,7 +253,7 @@ ul .setting{
     -o-background-size: cover;
      background-size: 100% 100%;
     width:2.3em;
-    height:1.77em;
+    height:1.79em;
     background-repeat: no-repeat;
 }
 
@@ -578,3 +612,25 @@ h4 {
     margin-top: 0.7em;
     margin-bottom: 1em;
 }
+
+.txt_jp_en{
+    
+}
+
+.m_left_txt1{
+    
+    margin-left: 0.05em;
+}
+
+.font_jp_menu{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #333333;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+.title_center{
+    margin-right: 1.5em;
+}
+ 
