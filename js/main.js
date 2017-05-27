@@ -353,12 +353,12 @@ $(function(){
             "_m_b1": "<div class='txt_jp'>グループ会社</div>",
             "_m_b2": "<div class='txt_jp'>会社概要</div>",
             "_m_b3": "<div class='txt_jp'>サービス<br>インフォメーション</div>",
-            "_m_b4": "<div class='txt_jp'>投資家向け広報<br>(IR)</div>",
+            "_m_b4": "<div class='txt_jp'>投資家向け広報</div><div class='txt_head_en_jp'>(IR)</div>",
             
             "_m_b4_1": "<div class='font_jp_menu'>(IR)</div>",
             "_m_b5": "<div class='txt_jp'>ニュースとイベント</div>",
             "_m_b6": "<div class='txt_jp'>コーポレート<br>ガバナンス</div>",
-            "_m_b7": "<div class='txt_jp'>企業の社会的責任<br>(CSR)</div>",
+            "_m_b7": "<div class='txt_jp'>企業の社会的責任</div><div class='txt_head_en_jp'>(CSR)</div>",
             
             "a_n_title": "概要",
             "a_n_1": "AIRA Capital Public<br>Company Limited",
@@ -373,8 +373,8 @@ $(function(){
             "a_n_10": "Aspiration One Company Limited",
             
             
-             "c_g_m1": "นโยบายของบริษัท",
-            "c_g_m2": "รายงานการกำกับดูแลกิจการที่ดี",
+             "c_g_m1": '<div class="txt_menu_en_jp">นโยบายของบริษัท</div>',
+            "c_g_m2": '<div class="txt_menu_en_jp">รายงานการกำกับดูแลกิจการที่ดี</div>',
             "c_g_m1_t1": "จรรยาบรรณทางธุรกิจ (ฉบับทบทวน ปี 2559)",
             "c_g_m1_t2": "นโยบายการกำกับดูแลกิจการ (ฉบับทบทวน ปี 2559)",
             "c_g_m2_t3": "นโยบายการแจ้งเบาะแสหรือข้อร้องเรียน",
@@ -388,10 +388,10 @@ $(function(){
             "c_s_r_tag2_t_1":"รายงานการกำกับดูแลกิจการที่ดี",
             "c_s_r_tag2_t_2":"รายงานการกำกับดูแลกิจการที่ดี",
         
-            "i_r_m_1":"รายงานประจำปี",
-            "i_r_m_2":"งบการเงิน",
-            "i_r_m_3":"จรรยาบรรณนักลงทุนสัมพันธ์",
-            "i_r_m_4":"รายการข้อมูลประจำปี",
+            "i_r_m_1":'<div class="txt_menu_en_jp">รายงานประจำปี</div>',
+            "i_r_m_2":'<div class="txt_menu_en_jp">งบการเงิน</div>',
+            "i_r_m_3":'<div class="txt_menu_en_jp">จรรยาบรรณนักลงทุนสัมพันธ์</div>',
+            "i_r_m_4":'<div class="txt_menu_en_jp">รายการข้อมูลประจำปี</div>',
             
             
            "i_r_tag1":"รายงานประจำปี",
@@ -408,9 +408,9 @@ $(function(){
            
           
 
-           "n_a_m_1":"NEWS",
-            "n_a_m_2":"ACTIVITY",
-            "n_a_m_3":"CAREERS",
+           "n_a_m_1":'<div class="txt_menu_en_jp">NEWS</div>',
+            "n_a_m_2":'<div class="txt_menu_en_jp">ACTIVITY</div>',
+            "n_a_m_3":'<div class="txt_menu_en_jp">CAREERS</div>',
             
             
             "n_a_m_tag1":"NEWS",
@@ -491,38 +491,38 @@ $(function(){
             "a_d_tag1_l2_3_2":"社会と環境をサポートする",
             
             
-            "b_s_m_1":"AIRA Capital",
-            "b_s_m_2":"AIRA Securities",
-            "b_s_m_3":"AIRA Factoring",
-            "b_s_m_4":"AIRA International Advisory",
-            "b_s_m_5":"AIRA & AIFUL",
-            "b_s_m_6":"AIRA Property",
-            "b_s_m_7":"AIRA Leasing",
-            "b_s_m_8":"AIRA Venture Capital",
-            "b_s_m_9":"AIRA Advisory",
-            "b_s_m_10":"Aspiration One",
+            "b_s_m_1":'<div class="txt_menu_en_jp">AIRA Capital</div>',
+            "b_s_m_2":'<div class="txt_menu_en_jp">AIRA Securities</div>',
+            "b_s_m_3":'<div class="txt_menu_en_jp">AIRA Factoring</div>',
+            "b_s_m_4":'<div class="txt_menu_en_jp">AIRA International Advisory</div>',
+            "b_s_m_5":'<div class="txt_menu_en_jp">AIRA & AIFUL</div>',
+            "b_s_m_6":'<div class="txt_menu_en_jp">AIRA Property</div>',
+            "b_s_m_7":'<div class="txt_menu_en_jp">AIRA Leasing</div>',
+            "b_s_m_8":'<div class="txt_menu_en_jp">AIRA Venture Capital</div>',
+            "b_s_m_9":'<div class="txt_menu_en_jp">AIRA Advisory</div>',
+            "b_s_m_10":'<div class="txt_menu_en_jp">Aspiration One</div>',
             "b_s_title_1":"概要",
             "b_s_tag1_txt_1":"AIRA Capital Public Company Limited",
             "b_s_tag2_txt_1":"AIRA Securities Public Company Limited",
             "b_s_tag3_txt_1":"AIRA Factoring Public Company Limited",
             "b_s_tag4_txt_1":"AIRA International Advisory (Singapore) Pte. Ltd.",
             "b_s_tag5_txt_1":"AIRA & AIFUL Public Company Limited.",
-            "b_s_tag6_txt_1":"AIRA Property Public Company Limited",
+            "b_s_tag6_txt_1":"AIRA Property Public Company Limitedt",
             "b_s_tag7_txt_1":"AIRA Leasing Public Company Limited",
             "b_s_tag8_txt_1":"AIRA Venture Capital Co., Ltd.",
             "b_s_tag9_txt_1":"AIRA Advisory Co., Ltd.",
             "b_s_tag10_txt_1":"Aspiration One Co., Ltd.",
             
-            "b_s_tag1_txt_2":"2010年1月21日にCompany Limitedとして設立され、2011年9月9日にPublic Company Limited<br>に変更された、金融系企業の株式を保有するホールディングカンパニーである。その目的は様々な金融サービス<br>・プロダクトを提供する包括的、国際的なネットワークのファイナンシャルグループを目指すことと、<br>企業倫理のあるマネージメントに重点を置いて、株主や社員に対し経営成果を還元することである。",
-            "b_s_tag2_txt_2":"の株を99.99%保有している。<br>そこにAIRA Advisory Company Limitedという子会社がある。AIRA Securities Public Company Limited<br>はタイ証券取引所の48番号のブローカー許可証を保有している。",
-            "b_s_tag3_txt_2":"の株を71.55%保有している。AIRA Factoring Public Company Limited<br> はファクタリングを通じて短期運転資金を経営者に提供する事業を行っている。<br>事業運営に十分な運転資金を提供することにより、顧客に安心いただけるサービスを提供している。",
-            "b_s_tag4_txt_2":"の株を90%保有している。東南アジ<br>アにおけるM&Aなど幅広いビジネスのコンサルティングサービスを提供している。シンガポールにオフィスを構えている。",
-            "b_s_tag5_txt_2":"の株を30%保有している。タイにおける消費者金融サービスを行っている。",
-            "b_s_tag6_txt_2":"の株を60%保有している。不動産開発の事業を行っている。",
-            "b_s_tag7_txt_2":"の株を80%保有している。<br>個人・法人にハイヤー・パーチェスやリースの事業をしている。",
-            "b_s_tag8_txt_2":"の株を100%保有している。<br>公共との投資をサポートするための共同投資の事業をしている。",
-            "b_s_tag9_txt_2":"は財務・会計、債務再編、M&A、税関系、社内研修など幅広いビ<br>ジネスのコンサルティングサービスを提供している。当社のサービスは公共・民間を問わず、<br>金融機関、上場株式会社や中小企業および個人事業など包括的に実施している。",
-            "b_s_tag10_txt_2":"の株を60%保有している。<br>レンタル・オフィス向けの高層ビルを中心とした不動産開発の事業をしている"
+            "b_s_tag1_txt_2":'<div class="txt_story_en_jp">2010</div>年<div class="txt_story_en_jp">1</div>月<div class="txt_story_en_jp">21</div>日に<div class="txt_story_en_jp">Company Limited</div>として設立され、<div class="txt_story_en_jp">2011</div>年<div class="txt_story_en_jp">9</div>月<div class="txt_story_en_jp">9</div>日に<div class="txt_story_en_jp">Public Company Limited</div><br>に変更された、金融系企業の株式を保有するホールディングカンパニーである。その目的は様々な金融サービス<br>・プロダクトを提供する包括的、国際的なネットワークのファイナンシャルグループを目指すことと、<br>企業倫理のあるマネージメントに重点を置いて、株主や社員に対し経営成果を還元することである。',
+            "b_s_tag2_txt_2":'の株を<div class="txt_story_en_jp">99.99%</div>保有している。<br>そこに<div class="txt_story_en_jp">AIRA Advisory Company Limited</div>という子会社がある。<div class="txt_story_en_jp">AIRA Securities Public Company Limited</div><br>はタイ証券取引所の48番号のブローカー許可証を保有している。',
+            "b_s_tag3_txt_2":'の株を<div class="txt_story_en_jp">71.55%</div>保有している。<div class="txt_story_en_jp">AIRA Factoring Public Company Limited</div><br> はファクタリングを通じて短期運転資金を経営者に提供する事業を行っている。<br>事業運営に十分な運転資金を提供することにより、顧客に安心いただけるサービスを提供している。',
+            "b_s_tag4_txt_2":'の株を<div class="txt_story_en_jp">90%</div>保有している。東南アジ<br>アにおけるM&Aなど幅広いビジネスのコンサルティングサービスを提供している。シンガポールにオフィスを構えている。',
+            "b_s_tag5_txt_2":'の株を<div class="txt_story_en_jp">30%</div>保有している。タイにおける消費者金融サービスを行っている。',
+            "b_s_tag6_txt_2":'の株を<div class="txt_story_en_jp">60%</div>保有している。不動産開発の事業を行っている。',
+            "b_s_tag7_txt_2":'の株を<div class="txt_story_en_jp">80%</div>保有している。<br>個人・法人にハイヤー・パーチェスやリースの事業をしている。',
+            "b_s_tag8_txt_2":'の株を<div class="txt_story_en_jp">100%</div>保有している。<br>公共との投資をサポートするための共同投資の事業をしている。',
+            "b_s_tag9_txt_2":'は財務・会計、債務再編、<div class="txt_story_en_jp">M&A</div>、税関系、社内研修など幅広いビ<br>ジネスのコンサルティングサービスを提供している。当社のサービスは公共・民間を問わず、<br>金融機関、上場株式会社や中小企業および個人事業など包括的に実施している。',
+            "b_s_tag10_txt_2":"の株を60%保有している。<br>レンタル・オフィス向けの高層ビルを中心とした不動産開発の事業をしている。"
         }
     };
     
@@ -538,27 +538,28 @@ $(function(){
    $("a").click(function() {
         var name = this.name;
         var cls = this.className;
-         
+        
         //remove class
         
         $("#"+ idOld +'_txt').removeClass('menu_action');
         $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +".png");
         
-         //add class
+        //add class
         // alert("this.id"+this.id);
         if(this.id && this.id !="th" && this.id !="en" && this.id !="jp" && this.id !="facebook"
                 && this.id !="youtub" && this.id !="twitter" && this.id !="google"){
            idOld = this.id;
-
+         
            $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
            $("#"+ idOld +'_txt').addClass('menu_action');
-
+            
           
            load_page();
-
            changeBg();
 
         }else if(this.id !="th" || this.id !="en" || this.id !="jp"){
+           
+              
             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
             $("#"+ idOld +'_txt').addClass('menu_action');
             
@@ -641,7 +642,7 @@ $(function(){
         $("#content_page").load(idOld+".html", function(responseTxt, statusTxt, jqXHR){
                 if(statusTxt == "success"){
                     $(".page").show();
-                   $('#carousel_bar').hide();
+                    $('#carousel_bar').hide();
                    
                    if(lang == "th"){
                         set_lang(dictionary.th);
@@ -650,6 +651,8 @@ $(function(){
                    }else{
                         set_lang(dictionary.jp);
                    }
+                 
+                   //setPage();
                     //alert("success!");
                 }
                 if(statusTxt == "error"){
@@ -661,6 +664,10 @@ $(function(){
                 }
         });
     }
+    
+    
+    
+    
     
     
     set_lang = function (dictionary) {

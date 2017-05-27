@@ -12,17 +12,19 @@ $( function() {
           idOld = "m_data_1";
            $("#txt_"+ idOld).addClass("menu_title_action");
       }
-        $( "#tabs" ).tabs();
-          $("a").click(function() {
-             if(this.id != "myBtn"){    
-                $("#txt_"+ idOld ).removeClass('menu_title_action');
-                idOld = this.id;
-                $("#txt_"+ idOld).addClass("menu_title_action");
-            }else{
-                /*$("#myBtn").click(function(){
-                    $("#myModal").modal();
-                });
-                */
-            }
+    $( "#tabs" ).tabs();
+    $("a.link_tab_menu").click(function() {
+         
+       if(this.id != "myBtn"){
+          
+          $("#txt_"+ idOld ).removeClass('menu_title_action');
+          idOld = this.id;
+          $("#txt_"+ idOld).addClass("menu_title_action");
+      }else{
+          /*$("#myBtn").click(function(){
+              $("#myModal").modal();
           });
+          */
+      }
+    });
   } );

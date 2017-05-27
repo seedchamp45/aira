@@ -769,7 +769,7 @@ h3 {
     font-family: "db_helvethaica_x";
     font-weight: normal;
     color: #FFF !important;
-    font-size: 1.6em;
+    font-size: 1.5em;
     display: inline;
 }
 
@@ -882,4 +882,20 @@ h3 {
 
 .top_head_mar{
      margin-top: 0.7em; 
+}
+
+.txt_menu_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    font-size: 1.4em;
+    display: inline;
+}
+
+.txt_head_en_jp{
+      font-family: "db_helvethaica_x";
+    font-weight: bold;
+    font-size: 1.7em;
+    display: inline;
+    position: absolute;
+    margin-top: -0.35em;
 }

@@ -23,6 +23,11 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" media="(min-width: 1900px)" href="css/min_1900px.css" />
         <link href="css/main.css" rel="stylesheet">
         
+        <!--
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/tether.min.js"></script>-->
+        
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
         <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
@@ -30,27 +35,26 @@ and open the template in the editor.
         <script src="js/main.js"></script>
         
     	<!-- The Boutique CSS: -->
-		<link rel="stylesheet" href="css/boutique.css">
+        <link rel="stylesheet" href="css/boutique.css">
 
-		<!-- The Boutique plugin: -->
-		<script src="js/jquery.boutique.min.js"></script>
+        <!-- The Boutique plugin: -->
+        <script src="js/jquery.boutique.min.js"></script>
 
-		<script>
-			// Calling Boutique on your HTML element when the document is ready:
-			$(document).ready(function(){
-                            $("#detail_1").show();
-                            $("#detail_2").hide();
-                            $("#detail_3").hide();
-				$('#boutique').boutique({
-					container_width: 'auto',
-					front_img_width: 500,
-                                        autoplay:false,
-                                        frames:3
-				});
-			});
-                        
-                   
-		</script>
+        <script>
+            // Calling Boutique on your HTML element when the document is ready:
+            $(document).ready(function(){
+                $("#detail_1").show();
+                $("#detail_2").hide();
+                $("#detail_3").hide();
+                $('#boutique').boutique({
+                    container_width: 'auto',
+                    front_img_width: 500,
+                    autoplay:false,
+                    frames:3
+                });
+            });
+        </script>
+        <!--<script src="js/init_page.js"></script>-->
     </head>
     <body>
         <!-- jQuery first, then Tether, then Bootstrap JS.
@@ -61,7 +65,7 @@ and open the template in the editor.
         --> 
       
         <!--carousel-->
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators" id="carousel_bar">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -95,7 +99,7 @@ and open the template in the editor.
              <ul class="navbar-nav bar_full ui_bar ">
                     <li class="nav-item menu_bar d-flex align-items-center">
                        <!-- <div class="mx-auto">-->
-                            <a href="#" id="aira_network" >
+                            <a href="#" id="aira_network" class="menu_bar_top">
                                 <div class="menu_right">
                                     <div class="m_left_txt font"  id="aira_network_txt" data-translate="_m_b1">บริษัทใน<br>เครือไฮร่า</div> 
                                 </div>
@@ -108,7 +112,7 @@ and open the template in the editor.
                     <li class="nav-item menu_bar_company d-flex align-items-center" >
                        <!-- <div class="mx-auto">-->
                             <a href="#" id="aira_data">
-                                <div class="menu_right" >
+                                <div class="menu_right" class="menu_bar_top">
                                     <div class="m_left_txt font" id="aira_data_txt" data-translate="_m_b2">ข้อมูล<br>บริษัท</div> 
                                 </div>
                                  <div class="icon_menu img_width" >
@@ -119,7 +123,7 @@ and open the template in the editor.
                     </li>
                     <li class="nav-item  menu_bar_business d-flex align-items-center"  >
                        <!-- <div class="mx-auto">-->
-                            <a href="#" id="business_service">
+                            <a href="#" id="business_service" class="menu_bar_top">
                                 <div class="menu_right">
                                     <div class="m_left_txt font" id="business_service_txt" data-translate="_m_b3">ข้อมูลธุรกิจ/<br>บริการ</div> 
                                 </div>
@@ -131,7 +135,7 @@ and open the template in the editor.
                     </li>
                     <li class="nav-item menu_bar_investor d-flex align-items-center"  >
                         <!--<div class="mx-auto1">-->
-                            <a href="#" id="investor_relation">
+                            <a href="#" id="investor_relation" class="menu_bar_top">
                                 <div class="menu_right" >
                                     <div class="m_left_txt font" id="investor_relation_txt" data-translate="_m_b4">นักลงทุน<br>สัมพันธ์</div> 
                                      
@@ -144,7 +148,7 @@ and open the template in the editor.
                     </li>
                     <li class="nav-item menu_bar_news d-flex align-items-center" >
                        <!-- <div class="mx-auto">-->
-                            <a href="#" id="news_activity">
+                            <a href="#" id="news_activity" class="menu_bar_top">
                                 <div class="menu_right">
                                     <div class="m_left_txt2 font" id="news_activity_txt" data-translate="_m_b5">ข่าวสาร<br>กิจกรรม</div> 
                                 </div>
@@ -156,7 +160,7 @@ and open the template in the editor.
                     </li>
                      <li class="nav-item menu_bar_corporate d-flex align-items-center" >
                        <!-- <div class="mx-auto">-->
-                            <a href="#" id="corporate_governance">
+                            <a href="#" id="corporate_governance" class="menu_bar_top">
                                 <div class="menu_right" >
                                     <div class="m_left_txt font" id="corporate_governance_txt" data-translate="_m_b6">การกำกับ<br>ดูแลกิจกรรม</div> 
                                 </div>
@@ -168,7 +172,7 @@ and open the template in the editor.
                     </li>
                      <li class="nav-item menu_bar_social d-flex align-items-center"  >
                        <!-- <div class="mx-auto">-->
-                            <a href="#" id="corporate_social_responsibility">
+                            <a href="#" id="corporate_social_responsibility" class="menu_bar_top">
                                 <div class="menu_right"  >
                                     <div class="m_left_txt font" id="corporate_social_responsibility_txt" data-translate="_m_b7">ความรับผิดชอบ<br>ต่อสังคม</div> 
                                 </div>
@@ -183,13 +187,13 @@ and open the template in the editor.
                         <div class="setting_bar">
                             <ul class="setting" style="margin-top: 0px;">
                                 <li>
-                                    <a href="#"  id="th"><div class ="bu_social icon_th" id="th_img"></div> </a>
+                                    <a href="#"  id="th"><div class ="bu_social icon_th menu_bar_top" id="th_img"></div> </a>
                                     
                                 <li>
-                                    <a href="#"  id="en"><div class ="bu_social icon_en" id="en_img"></div></a>
+                                    <a href="#"  id="en"><div class ="bu_social icon_en menu_bar_top" id="en_img"></div></a>
                                 </li>
                                 <li>
-                                    <a href="#"  id="jp"><div class ="bu_social icon_jp" id="jp_img"></div></a>
+                                    <a href="#"  id="jp"><div class ="bu_social icon_jp menu_bar_top" id="jp_img"></div></a>
                                 </li>
                             </ul>
                             <div class="clearfix"></div>

@@ -54,8 +54,9 @@ and open the template in the editor.
      font-size: 1em;
      font-weight: bold;
      color: #333333;
-     margin-top: 0.5em;
+     margin-top: 0.3em;
      text-transform: uppercase;
+     line-height: 1.4em !important;
  }
 
   .img_res {
@@ -372,4 +373,19 @@ and open the template in the editor.
 
 .top_head_mar{
      margin-top: 0.7em; 
+}
+
+txt_menu_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    font-size: 1.4em;
+    display: inline;
+}
+
+.txt_head_en_jp{
+    font-family: "db_helvethaica_x";
+    font-size: 1.4em;
+    display: inline;
+    position: absolute;
+    margin-top: -0.11em;
 }
