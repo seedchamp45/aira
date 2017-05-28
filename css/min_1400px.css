@@ -236,11 +236,12 @@ and open the template in the editor.
     }
 
     .font_title_jp{
-       font-family: "db_helvethaica_x";
+        font-family: "db_helvethaica_x";
         margin-top: 1.4em;
         font-size: 2.1em;
         font-weight: bold;
         color: #FFF !important;
+        margin-bottom: 1.3em;
     }
     
     .title_center{
@@ -299,15 +300,6 @@ and open the template in the editor.
 
 
 
-.txt_story_jp{
-    font-family: "db_helvethaica_x";
-    font-weight: normal;
-    color: #FFF !important;
-    font-size: 0.9em;
-    padding-left: 0rem;
-    padding-right: 1.5rem;
-    line-height: 2rem !important;
-}
 
 .row1{
      padding-right: 0rem !important;
@@ -419,4 +411,43 @@ and open the template in the editor.
     display: inline;
     position: absolute;
     margin-top: -0.17em;
+}
+
+.txt_head_en2_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.5em;
+    padding-left: 0rem;
+    padding-right: 1.3rem;
+    line-height: 2rem !important;
+}
+ .txt_story_left_la {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    line-height: 2rem !important;
+}
+.txt_story_left_en {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    line-height: 2rem !important;
+}
+.txt_story_left_th {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    line-height: 2rem !important;
+}
+
+.txt_story_left_jp {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    line-height: 2rem !important;
 }

@@ -159,7 +159,7 @@ Large devices (desktops, 992px and up)
 
 .font_jp {
     font-family: "db_helvethaica_x";
-    font-size: 0.3em;
+    font-size: 0.5em;
     font-weight: bold;
     color: #333333;
     margin-top: 0.1em;
@@ -192,11 +192,12 @@ Large devices (desktops, 992px and up)
 }
 
 .font_title_jp{
-   font-family: "db_helvethaica_x";
-    margin-top: 1em;
+    font-family: "db_helvethaica_x";
+    margin-top: 1.3em!important;
     font-size: 2em;
     font-weight: bold;
     color: #FFF !important;
+    margin-bottom: 1.3em;
 }
 
 
@@ -225,7 +226,7 @@ ul .setting{
   font-size:0.7em;
 }
 .txt_jp{
-    margin-top: 0.5em;
+    margin-top: 0.3em;
     font-size:0.7em;
 }
 
@@ -491,7 +492,7 @@ h4 {
     border-bottom: 1px solid #ffffff;
 }
 .img_icon{
-    height: 5em;
+    height: 4em;
 }
 /*score bar */
 .scrollbar
@@ -633,4 +634,173 @@ h4 {
 .title_center{
     margin-right: 1.5em;
 }
+
+
+/*head */
+.txt_story_la{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_th{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_en{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_story_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.2em;
+    display: inline;
+}
+.txt_head_story_la{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.8em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+
+.txt_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_th{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.8em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_en{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.8em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+.txt_head_story_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;
+}
+
+
+.title_center2{
+    margin-right:1.4em;
+}
+.title_center3{
+    margin-right:2.9em;
+}
+
+.title_center4{
+   margin-right: 8vw; 
+}
+
+.top_business_1{
+   margin-top: 1em; 
+}
+
+.top_business_2{
+   margin-top: 0.8em; 
+}
+
+.top_head_mar{
+     margin-top: 0.7em; 
+}
+
+.txt_menu_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    font-size: 1.4em;
+    display: inline;
+}
+
+.txt_head_en_jp{
+      font-family: "db_helvethaica_x";
+    font-weight: bold;
+    font-size: 1.7em;
+    display: inline;
+    position: absolute;
+    margin-top: -0.35em;
+}
+
+.txt_head_en2_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 1.8em;
+    padding-left: 0rem;
+    padding-right: 1.3rem;
+    line-height: 2rem !important;
+}
  
+.txt_story_left_la {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    line-height: 2rem !important;
+}
+.txt_story_left_en {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    line-height: 2rem !important;
+}
+.txt_story_left_th {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    line-height: 2rem !important;
+}
+
+.txt_story_left_jp {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    line-height: 2rem !important;
+}
