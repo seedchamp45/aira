@@ -451,3 +451,213 @@ and open the template in the editor.
     font-size: 0.9em;
     line-height: 2rem !important;
 }
+
+
+
+
+/*popup*/
+.bg_popup{
+    background-image: url(../images/data/popup.png);
+    width: 800px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-height: 90vh;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.close{
+    background-color: #000;
+    width: 0.7m;
+    height: 0.7em;
+    float: right;
+    margin: 10px;
+}
+
+
+
+.data_right{
+    float: right;
+    display: inline;
+    width: 620px;
+}
+ .data_left{
+    float: left;
+    display: inline;
+    width: 180px;
+}
+
+.data_left_image{
+    float: left;
+    display: inline;
+    width: 50%;
+}
+
+.img_data_management{
+    width:250px;
+    height:auto;
+    width: 150px;
+    margin: 10px;
+}
+
+.bu_close{
+    width: 100%;
+    display: inline;
+}
+
+.text-description{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+
+#style-description::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: #a29696;
+}
+
+#style-description::-webkit-scrollbar{
+     width: 12px;
+     /*background-color: #ffffff;*/
+}
+
+#style-description::-webkit-scrollbar-thumb{
+     border-radius: 10px;
+     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+     background-color: #ffffff;
+}
+
+.force-overflow_description{
+  min-height: 450px;
+  margin-right: 0.9em;
+}
+
+.scrollbar_description {
+    height: 300px;
+    width: 597px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 0.7em;
+    margin-bottom: 1em;
+}
+
+.txt_story_pop_head{
+   font-family: "db_helvethaica_x";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 2rem !important;  
+}
+ .txt_story_pop_head_la{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_head_th{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_head_en{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+
+.txt_story_pop_head_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+    margin-top: 1.2em!important;
+}
+
+
+.txt_story_pop_head_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.5em;
+    display: inline;
+}
+
+
+ .txt_story_pop_text_la{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.1em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_text_th{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.1em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_text_en{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.1em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+
+.txt_story_pop_text_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.6em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+
+.txt_story_pop_text_en_jp{
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.7em;
+    display: inline;
+    line-height: 1em !important;
+    
+}
+
+.top_pop_tween{
+    margin-top: 0.6em;
+}

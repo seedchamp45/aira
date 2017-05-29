@@ -178,9 +178,116 @@ $(function(){
             "b_s_tag7_txt_2":"จำนวน 80%<br>ประกอบธุรกิจให้เช่า เช่าซื้อ และเช่าแบบลีสซิ่ง ทั้งบุคคลธรรมดา และนิติบุคคล",
             "b_s_tag8_txt_2":"จำนวน 100%<br>ประกอบกิจการเงินร่วมลงทุน เพื่อสนับสนุนการเงินร่วมลงทุนของภาครัฐ",
             "b_s_tag9_txt_2":"ให้บริการที่ปรึกษาทางธุรกิจแบบครบวงจร ทั้งในด้านการเงินและการบัญชี การปรับปรุงโครงสร้างหนี้<br>การซื้อขายและควบรวมกิจการ ภาษี และ การจัดฝึกอบรมภายในองค์กร บริการของเราครอบคลุมทุกภาคธุรกิจ<br>ทั้งภาครัฐและภาคเอกชน สถาบันการเงิน บริษัทจดทะเบียนในตลาดหลักทรัพย์ฯ<br>ธุรกิจSMEs รวมทั้งบุคคลธรรมดา",
-            "b_s_tag10_txt_2":"จำนวน 60.00%<br>ประกอบธุรกิจพัฒนาอสังหาริมทรัพย์ ด้านการก่อสร้างอาคารสูง สำหรับสำนักงานให้เช่า"
+            "b_s_tag10_txt_2":"จำนวน 60.00%<br>ประกอบธุรกิจพัฒนาอสังหาริมทรัพย์ ด้านการก่อสร้างอาคารสูง สำหรับสำนักงานให้เช่า",
             
+            "a_d_m_4_p_1":"นายปกรณ์  มาลากุล ณ อยุธยา",
+            "a_d_m_4_p_2":"กรรมการอิสระ และ ประธานกรรมการบริษัท",
+            "a_d_m_4_p_3":"คุณวุฒิการศึกษา/ประวัติการอบรม",
+            "a_d_m_4_p_4":"การอบรมหลักสูตรกรรมการจากสมาคมส่งเสริมสถาบันกรรมการบริษัทไทย (IOD)",
+            "a_d_m_4_p_5":"การดำรงตำแหน่งกรรมการ / ผู้บริหารในกิจการที่เป็นบริษัทจดทะเบียน<br>ในตลาดหลักทรัพย์แห่งประเทศไทย",
+            "a_d_m_4_p_6":"การดำรงตำแหน่งกรรมการ / ผู้บริหารในกิจการที่ไม่ใช่บริษัทจดทะเบียน<br>ในตลาดหลักทรัพย์แห่งประเทศไทย",
+            "a_d_m_4_p_7":"การดำรงตำแหน่งในองค์กรอื่น / กิจกรรมพิเศษสำคัญ",
+            "a_d_m_4_p_8":"ประสบการณ์ทำงาน (5 ปี ย้อนหลัง)",
             
+            "a_d_m_4_p1_1":"• B.Sc. Economics, The Queen’s University of Belfast, Northern Ireland<br> • หลักสูตรการป้องกันราชอาณาจักรภาครัฐร่วมเอกชน รุ่นที่ 8 วิทยาลัยป้องกันราชอาณาจักร",
+            "a_d_m_4_p1_2":"• หลักสูตร Financial Institutions Governance Program (FGP) รุ่น 3/2011<br>• หลักสูตร Role of The Chairman Program  (RCP) รุ่น 7/2002",
+            "a_d_m_4_p1_3":"• 2559 – ปัจจุบัน กรรมการอิสระ และประธานกรรมการ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2557 – ปัจจุบัน ประธานกรรมการ บริษัท อินเตอร์ลิ้งค์ เทเลคอม จำกัด (มหาชน)",
+            "a_d_m_4_p1_4":"• 2558 – ปัจจุบัน ประธานกรรมการ บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด<br>• 2552 – ปัจจุบัน ประธานกรรมการ บริษัทหลักทรัพย์ เพื่อธุรกิจหลักทรัพย์ จำกัด (มหาชน)<br>• 2550 – ปัจจุบัน รองประธานกรรมการ และกรรมการตรวจสอบ<br>ธนาคารแสตนดาร์ดชาร์เตอร์ด (ไทย) จำกัด (มหาชน)",
+            "a_d_m_4_p1_5":"• 2557 – ปัจจุบัน ผู้เชี่ยวชาญพิเศษด้านบรรษัทภิบาลและความรับผิดชอบต่อสังคม<br>ตลาดหลักทรัพย์แห่งประเทศไทย<br>• 2555 – ปัจจุบัน กรรมการ คณะกรรมการจัดทำบันทึกข้อตกลงและประเมินผลการดำเนินงาน<br>ทุนหมุนเวียน กรมบัญชีกลาง<br>•	2555 – ปัจจุบัน รองประธาน มูลนิธิสถาบันวิจัยและพัฒนาองค์กรภาครัฐ",
+            "a_d_m_4_p1_6":"• 2550 – 2552 ประธานกรรมการ ตลาดหลักทรัพย์แห่งประเทศไทย<br> • 2543 – 2545	 รองผู้ว่าการธนาคารแห่งประเทศไทย <br>• 2538 – 2542 เลขาธิการ สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์<br>",
+                                                                        
+              
+              
+            "a_d_m_4_p2_1":"นายนพพร พิชา",
+             "a_d_m_4_p2_2":"กรรมการอิสระ และประธานกรรมการตรวจสอบ",
+             "a_d_m_4_p2_3":"• ปริญญาตรี วิทยาศาสตร์การเกษตร, มหาวิทยาลัยเกษตรศาสตร์<br>• ปริญญาโท พัฒนบริหารศาสตร์ ด้านพัฒนาเศรษฐกิจ,สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+             "a_d_m_4_p2_4":"• หลักสูตร Corporate Governance for Capital Market Intermediaries (CGI) รุ่นที่ 3/2015<br>• หลักสูตร Advance Audit Committee Program (AACP) รุ่นที่ 14/2014<br>• หลักสูตร Director Certification Program (DCP) รุ่นที่ 100/2008<br>• หลักสูตร Director Accreditation Program (DAP) รุ่นที่ 2/2003 ",
+             "a_d_m_4_p2_5":"• 2553- ปัจจุบัน กรรมการอิสระและประธานกรรมการตรวจสอบ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p2_6":"• 2558– ปัจจุบัน กรรมการ บริษัท สยามสไมล์โบรกเกอร์ (ประเทศไทย) จำกัด<br>• 2554 – ปัจจุบัน กรรมการผู้ทรงคุณวุฒิจากภายนอก มหาวิทยาลัยเชียงใหม่ <br>• 2553 – ปัจจุบัน กรรมการบริษัท ราชบุรีเวอลด์ โคเจนเนอเรชั่น จำกัด<br>• 2550 – ปัจจุบัน ที่ปรึกษากิตติมศักดิ์กลุ่ม บมจ. Thai Agri Foods<br>• 2549 – ปัจจุบัน กรรมการอิสระ และประธานกรรมการตรวจสอบ บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)",
+             "a_d_m_4_p2_8":"• 2550 – 2558 ประธานกรรมการ Viet World Company Limited<br>•	2540 – 2549 กรรมการอิสระ และกรรมการตรวจสอบ บริษัท ไทยอกริฟู้ดส์ จำกัด (มหาชน)<br>• 2547 – 2549 ประธานกรรมการตรวจสอบ บริษัท โออิชิ กรุ๊ป จำกัด (มหาชน)",
+        
+            "a_d_m_4_p3_1":"นางจิราพร เชมนะสิริ",
+             "a_d_m_4_p3_2":"กรรมการอิสระ กรรมการตรวจสอบ และกรรมการบรรษัทภิบาล",
+             "a_d_m_4_p3_3":"• ปริญญาตรี สาขาการบัญชี จุฬาลงกรณ์มหาวิทยาลัย",
+             "a_d_m_4_p3_4":"• หลักสูตร  Director Certification Program (DCP) รุ่นที่ 172/2013<br>• หลักสูตร  Advanced Audit Committee Program (AACP) รุ่นที่ 14/2014<br>	• หลักสูตร Corporate Governance for Capital Market Intermediaries (CGI) รุ่นที่ 0/2014<br>• หลักสูตร Audit Committee Program (ACP) รุ่นที่ 25/2009<br>• หลักสูตร Director Accreditation Program (DAP) รุ่นที่ 71/2008",
+             "a_d_m_4_p3_5":"• 2553 – ปัจจุบัน กรรมการอิสระ กรรมการตรวจสอบ และกรรมการบรรษัทภิบาล<br>บริษัท ไอร่าแคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p3_6":"• 2551 – ปัจจุบัน กรรมการอิสระ และกรรมการตรวจสอบ บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)<br>• 2531 – ปัจจุบัน กรรมการ บริษัท ธราพร จำกัด<br>• 2532 – ปัจจุบัน	กรรมการ บริษัท แมนเนเจอเรียลเอ็กเซลเล้นซ์ จำกัด<br>• 2548 – ปัจจุบัน กรรมการ บริษัท เอสอาร์ไอ คอนซัลเตนท์ จำกัด<br>• 2537 – ปัจจุบัน กรรมการ บริษัท กริดบิสซิเนสโซลูชั่นส์ จำกัด",
+             "a_d_m_4_p3_8":"• 2529 – 2552 ผู้ช่วยกรรมการผู้อำนวยการใหญ่ (สายงานแผนงานและการเงิน)<br>บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)",
+  
+             "a_d_m_4_p4_1":"นางนลินี งามเศรษฐมาศ",
+             "a_d_m_4_p4_2":"กรรมการผู้มีอำนาจลงนาม ประธานกรรมการลงทุน และ ประธานเจ้าหน้าที่บริหาร",
+             "a_d_m_4_p4_3":'• ดุษฎีบัณฑิตกิตติมศักดิ์ศิลปศาสตร์ สาขาวิชาการเงิน ประเภททั่วไป มหาวิทยาลัยศรีปทุม<br>• Certificate Master in Marketing Management มหาวิทยาลัยธรรมศาสตร์<br>และ University of Gothenberg<br>• ปริญญาโทบริหารการเงิน สถาบันบัณฑิตพัฒนบริหารศาสตร์<br>• ปริญญาตรีวิทยาศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ<br>• หลักสูตร Leadership Succession Program รุ่นที่ 4 สถาบันวิจัยและพัฒนาองค์กรภาครัฐ<br>• หลักสูตรนักบริหารระดับสูง "ธรรมศาสตร์เพื่อสังคม" รุ่นที่ 3 (นมธ.3) มหาวิทยาลัยธรรมศาสตร์<br>• หลักสูตรการบริหารจัดการด้านความมั่นคงขั้นสูง รุ่นที่ 3 (วปอ. มส.3) วิทยาลัยป้องกันราชอาณาจักร<br>• หลักสูตรผู้บริหารระดับสูง รุ่นที่ 8 (วตท.8) สถาบันวิทยาการตลาดทุน<br>',
+             "a_d_m_4_p4_4":"• หลักสูตร Corporate Governance for  Capital Market Intermediaries (CGI) รุ่นที่ 15/2016<br>• หลักสูตร IOD Exclusive Event (M-IEE) รุ่นที่ 1/2015<br>• หลักสูตร Role of Chairman Program (RCP) รุ่นที่ 31/2013<br>• หลักสูตร Director Accreditation Program (DAP) รุ่นที่ 61/2007",
+             "a_d_m_4_p4_5":"• 2554 – ปัจจุบัน ​กรรมการผู้มีอำนาจลงนาม กรรมการสรรหาและพิจารณาค่าตอบแทน<br>และกรรมการบริหาร บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)<br>• 2553 –ปัจจุบัน​ กรรมการผู้มีอำนาจลงนาม ประธานกรรมการลงทุน และประธานเจ้าหน้าที่บริหาร<br>บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p4_6":"​• 2559 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ทราเวลเล็กซ์ (ไทยแลนด์) จำกัด <br>• 2559 – ปัจจุบัน​ กรรมการผู้มีอำนาจลงนาม และประธานกรรมการบริษัท<br>บริษัท ไอร่า ลีสซิ่ง จำกัด (มหาชน)<br>• 2558 – ปัจจุบัน​ กรรมการผู้มีอำนาจลงนาม ประธานกรรมการบริหาร และประธานเจ้าหน้าที่บริหาร<br>บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด<br>• 2558 – ปัจจุบัน​ กรรมการผู้มีอำนาจลงนาม และประธานกรรมการบริษัท บริษัท แอสไพเรชั่น วัน จำกัด<br>• 2557 – ปัจจุบัน ​กรรมการผู้มีอำนาจลงนาม ประธานกรรมการสรรหา และพิจารณาค่าตอบแทน<br>และประธานกรรมการบริหาร บริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน)<br>• 2556 – ปัจจุบัน ​กรรมการผู้มีอำนาจลงนาม และประธานกรรมการบริษัท AIRA International<br>Advisory (Singapore) Pte.Ltd.​<br>• 2550 – ปัจจุบัน ​กรรมการผู้มีอำนาจลงนาม บริษัทหลักทรัพย์ไอร่า จำกัด (มหาชน)<br>",
+             "a_d_m_4_p4_8":"• 2547-2555 กรรมการ บริษัท ธรรมนิติ จำกัด (มหาชน)",
+             
+             "a_d_m_4_p5_1":"ม.ร.ว. เกษมวิสุทธิ์  วิสุทธิ",
+             "a_d_m_4_p5_2":"กรรมการผู้มีอำนาจลงนาม และกรรมการสรรหาและกำหนดค่าตอบแทน",
+             "a_d_m_4_p5_3":'• ปริญญาตรี Machanical Engineering, มหาวิทยาลัยควีนออด เบลฟาส',
+             "a_d_m_4_p5_4":"• หลักสูตร  Directosr Accreditation Program (DAP) รุ่นที่ 61/2007",
+             "a_d_m_4_p5_5":"• 2553 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม และกรรมการสรรหาและกำหนดค่าตอบแทน<br>บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p5_6":"​• 2558 - ปัจจุบัน กรรมการ บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด (มหาชน)",
+             "a_d_m_4_p5_8":"• 2549 – 2553 กรรมการผู้มีอำนาจลงนาม บริษัทหลักทรัพย์ไอร่า จำกัด (มหาชน)<br>•	2538 – 2557 กรรมการ บริษัท เอสบี เรียลตี้ จำกัด",
+             
+             "a_d_m_4_p6_1":"นายวิสูตร กาญจนปัญญาพงศ์",
+             "a_d_m_4_p6_2":"กรรมการผู้มีอำนาจลงนาม กรรมการลงทุน และกรรมการบรรษัทภิบาล",
+             "a_d_m_4_p6_3":'• ปริญญาตรี นิติศาสตร์บัณฑิต จุฬาลงกรณ์มหาวิทยาลัย',
+             "a_d_m_4_p6_4":"• หลักสูตร Corporate Governance for Capital Market Intermediaries (CGI) รุ่นที่ 1/ 2014<br>• หลักสูตร Role of the Chairman Program (RCP) รุ่นที่ 30/2013<br>• หลักสูตร Directors Accreditation Program (DAP) รุ่นที่ 71/2008",
+             "a_d_m_4_p6_5":"• 2553 - ปัจจุบัน กรรมการผู้มีอำนาจลงนาม กรรมการลงทุน และกรรมการบรรษัทภิบาล<br>บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p6_6":"​• 2558 – ปัจจุบัน กรรมการบริษัท บริษัท เดอะ พี สาทร จำกัด<br>• 2558 – ปัจจุบัน กรรมการบริษัท บริษัท เดอะ พี ปากช่อง จำกัด<br>• 2558 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท วิสาหกิจไทยเพื่อสังคม จำกัด<br>• 2558 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ไทยธุรกิจเพื่อสังคม จำกัด<br>• 2549 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)<br>• 2546 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท เซ็นเตอร์ อินเตอร์แอคทีฟ จำกัด<br>• 2546 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท เอเชียฟิวเจอร์ อินเตอร์เนชั่นแนล จำกัด<br>• 2546 – ปัจจุบัน ประธานกรรมการบริษัท บริษัท ทีเอพี แวลูเอชั่นจำกัด<br>• 2539 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ธรรมนิติ จำกัด (มหาชน)<br>• 2536 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท เอ็ม.บี.บี.เอ จำกัด <br>• 2533 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท สำนักกฎหมายธรรมนิติ จำกัด<br>• 2533 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ธรรมนิติ อินเตอร์เนชั่นแนล จำกัด",
+             "a_d_m_4_p6_7":"• 2540 – ปัจจุบัน กรรมการบริหาร สมาคมที่ปรึกษาธุรกิจไทย",
+             
+             "a_d_m_4_p7_1":"รองศาสตราจารย์นิพัทธ์ จิตรประสงค์",
+             "a_d_m_4_p7_2":"กรรมการอิสระ ประธานกรรมการสรรหาและกำหนดค่าตอบแทน และกรรมการบริหารความเสี่ยง",
+             "a_d_m_4_p7_3":'• ปริญญาตรี สาขาพาณิชยศาสตร์ (เกียรตินิยมดีมาก) คณะพาณิชยศาสตร์และการบัญชี<br>มหาวิทยาลัยธรรมศาสตร์<br>•	M.B.A. in international Trade & Finance, Gothenburg School of Economics and<br>Business Administration, Sweden',
+             "a_d_m_4_p7_4":"• หลักสูตร Audit Committee Program (ACP) รุ่นที่ 25/2009<br>• หลักสูตร Monitoring the Quality of Financial Report (MFR) รุ่นที่ 9/2009<br>• หลักสูตร Monitoring the System of Internal Control and Risk Management (MIR) รุ่นที่ 5/2009<br>• หลักสูตร Monitoring the Internal Audit Function (MIA) รุ่นที่ 5/2009<br>• หลักสูตร Directors Certification Program (DCP) รุ่นที่ 85/2007",
+             "a_d_m_4_p7_5":"• 2553 – ปัจจุบัน กรรมการอิสระ ประธานกรรมการสรรหาและกำหนดค่าตอบแทน และ<br>	กรรมการบริหารความเสี่ยง บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2552 – ปัจจุบัน กรรมการ ประธานกรรมการตรวจสอบ และ ประธานกรรมการกำกับ<br>และดูแลกิจการที่ดี บริษัท จี เจ สตีล จำกัด (มหาชน)<br>• 2550 – ปัจจุบัน กรรมการ และกรรมการตรวจสอบ บริษัท ลลิล พรอพเพอร์ตี้ จำกัด (มหาชน)",
+             "a_d_m_4_p7_6":"• 2551 – ปัจจุบัน กรรมการบริษัท บริษัท ไอร่า แอดไวเซอรี่ จำกัด",
+             "a_d_m_4_p7_8":"• 2550 – 2554 กรรมการ และกรรมการตรวจสอบ ตลาดหลักทรัพย์แห่งประเทศไทย",
+        
+        
+             "a_d_m_4_p8_1":"นางกองแก้ว เปี่ยมด้วยธรรม",
+             "a_d_m_4_p8_2":"กรรมการผู้มีอำนาจลงนาม และประธานกรรมการบรรษัทภิบาล",
+             "a_d_m_4_p8_3":'• เศรษฐศาสตร์บัณฑิต (เกียรตินิยมอันดับหนึ่ง)  มหาวิทยาลัยเชียงใหม่<br>• นิติศาสตร์บัณฑิต มหาวิทยาลัยรามคำแหง<br>• Master of Business Administration (Finance), Washington State University, USA.<br>• Sasin Senior Executive Program<br>• หลักสูตรผู้บริหารระดับสูง รุ่นที่ 1 (วตท.1) สถาบันวิทยาการตลาดทุน',
+             "a_d_m_4_p8_4":"• หลักสูตร Role of the Nomination and Governance Committee (RNG) รุ่นที่ 7/2015<br>• หลักสูตร Advanced Audit Committee Programs (AACP) รุ่นที่ 13/2013<br>• หลักสูตร Director Certification Programs (DCP) รุ่นที่ 157/2012",
+             "a_d_m_4_p8_5":"• 2555 – ปัจจุบัน ประธานกรรมการตรวจสอบ บริษัท เมืองไทยลิสซิ่ง จำกัด (มหาชน)<br>• 2553 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม และประธานกรรมการบรรษัทภิบาล<br>บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)",
+             "a_d_m_4_p8_6":"• 2552 – ปัจจุบัน ที่ปรึกษา บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)<br>• 2554 – ปัจจุบัน ประธานกรรมการตรวจสอบ บริษัท ปภพ จำกัด",
+             
+             "a_d_m_4_p9_1":"นายปริญญา ไววัฒนา",
+             "a_d_m_4_p9_2":"กรรมการอิสระ ประธานกรรมการบริหารความเสี่ยง กรรมการลงทุน<br>และกรรมการสรรหาและกำหนดค่าตอบแทน",
+             "a_d_m_4_p9_3":'• ปริญญาตรี สาขาการบัญชี จุฬาลงกรณ์มหาวิทยาลัย',
+             "a_d_m_4_p9_4":"• หลักสูตร Role of the Compensation Committee (RCC) รุ่นที่ 10/2010 <br>	• หลักสูตร Monitoring the System of Internal Control and Risk Management (MIR) รุ่นที่ 2/2008<br>• หลักสูตร Director Certification Program (DCP) รุ่นที่ 72/2006 <br>• หลักสูตร Director Accreditation Program (DAP) รุ่นที่ 35/2005 <br>• หลักสูตร Audit Committee Program (ACP) รุ่นที่ 9/2005",
+             "a_d_m_4_p9_5":"• 2553 – ปัจจุบัน กรรมการอิสระ ประธานกรรมการบริหารความเสี่ยง กรรมการลงทุน<br>และกรรมการสรรหาและกำหนดค่าตอบแทน บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2553 – ปัจจุบัน กรรมการอิสระและกรรมการกำกับดูแลกิจการ<br>บริษัท สามารถคอร์ปอเรชั่น จำกัด (มหาชน)<br>• 2548 – ปัจจุบัน กรรมการอิสระ ประธานคณะกรรมการตรวจสอบ ประธานกรรมการ<br>กำกับดูแลกิจการและกรรมการกำหนดค่าตอบแทน บริษัท ไทยสตีลเคเบิ้ล จำกัด (มหาชน)",
+             
+                 
+             "a_d_m_4_p10_1":"รศ.อัญชลี  พิพัฒนเสริญ",
+             "a_d_m_4_p10_2":"กรรมการอิสระ และกรรมการตรวจสอบ",
+             "a_d_m_4_p10_3":'•	บัญชีบัณฑิต (เกียรตินิยมอันดับ 2) คณะพาณิชยศาสตร์และการบัญชี มหาวิทยาลัยธรรมศาสตร์<br>• ปริญญาโท สาขาการบัญชี  MS (Accounting) มหาวิทยาลัยธรรมศาสตร์<br>• หลักสูตร นักบริหารระดับสูง “ธรรมศาสตร์เพื่อสังคม” รุ่นที่ 2/2013',
+             "a_d_m_4_p10_4":"• หลักสูตร Corporate Governance for Capital Market Intermediaries (CGI) รุ่นที่ 1/2014<br>• หลักสูตร Role of the Chairman Program (RCP) รุ่นที่ 25/2011<br>• หลักสูตร Audit Committee Program (ACP) รุ่นที่ 30/2010<br>• หลักสูตร Monitoring of the Quality of Financial Reporting (MFR) รุ่นที่ 10/2010<br>• หลักสูตร Monitoring the system of Internal Control and Risk Management (MIR) รุ่นที่ 8/2010<br>• หลักสูตร Monitoring the Internal Audit Function (MIA) รุ่นที่ 7/2010 <br>• หลักสูตร Monitoring Fraud Risk Management (MFM) รุ่นที่ 2/2010<br>• หลักสูตร Director Certification Program (DCP) รุ่นที่ 124/2009",
+             "a_d_m_4_p10_5":"• 2553– ปัจจุบัน กรรมการอิสระ และกรรมการตรวจสอบ บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2552 – ปัจจุบัน กรรมการอิสระ และประธานกรรมการตรวจสอบ บริษัท ปริญสิริ จำกัด (มหาชน)",
+             "a_d_m_4_p10_6":"•	2552 – ปัจจุบัน กรรมการอิสระ และกรรมการตรวจสอบ บริษัทหลักทรัพย์ ไอร่า จำกัด (มหาชน)",
+             "a_d_m_4_p10_7":"•	2555 – ปัจจุบัน อาจารย์ประจำตามสัญญา มหาวิทยาลัยธรรมศาสตร์<br>• 2538 – ปัจจุบัน กรรมการ โครงการธุรกิจอสังหาริมทรัพย์ คณะพาณิชยศาสตร์และการบัญชี<br>มหาวิทยาลัยธรรมศาสตร์",
+             "a_d_m_4_p10_8":"•	2550 – 2553 หัวหน้าภาควิชาการบัญชี คณะพาณิชย์ศาสตร์และการบัญชี<br>มหาวิทยาลัยธรรมศาสตร์ <br>• 2547 – 2550 รองอธิการบดีฝ่ายการคลัง มหาวิทยาลัยธรรมศาสตร์",
+             
+             "a_d_m_4_p11_1":"นายอนันต์ สิริแสงทักษิณ",
+             "a_d_m_4_p11_2":"กรรมการอิสระและกรรมการบริหารความเสี่ยง",
+             "a_d_m_4_p11_3":'• ปริญญาตรี สาขาบัญชี จุฬาลงกรณ์มหาวิทยาลัย<br>• Master of Business Administration /Commerce, Eastern New Mexico University, USA.<br>• ประกาศนียบัตรเทียบเท่าปริญญาโท International Tax Program, Harvard University, USA.<br>• General Taxation ประเทศญี่ปุ่น<br>• หลักสูตร ผู้บริหารระดับสูง รุ่นที่ 13 (วตท.13) สถาบันวิทยาการตลาดทุน<br>• หลักสูตร การป้องกันราชอาณาจักร (วปอ.2546) วิทยาลัยป้องกันราชอาณาจักร',
+             "a_d_m_4_p11_4":"• หลักสูตร Director Certification Program (DCP) รุ่น 73/2006<br>• หลักสูตร Advance Audit  Committee (AACP) รุ่น 22/2016",
+             "a_d_m_4_p11_5":"• 2557 – ปัจจุบัน กรรมการ และกรรมการบริหารความเสี่ยง บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2555 – ปัจจุบัน กรรมการอิสระ และประธานกรรมการตรวจสอบ<br>บริษัท นิปปอนแพ็ค (ประเทศไทย) จำกัด (มหาชน)",
+             "a_d_m_4_p11_6":"• 2559– ปัจจุบัน กรรมการผู้มีอำนาจลงนาม และประธานกรรมการ บริษัท แอดไวเซอร์รี่ จำกัด <br>• 2558 – ปัจจุบัน กรรมการ บริษัท สำนักงานที่ปรึกษาภาษี เอส ซี แอล จำกัด จำกัด",
+             "a_d_m_4_p11_8":"•	2554 - 2557 ที่ปรึกษา การรถไฟฟ้าขนส่งแห่งประเทศไทย<br>• 2554 - 2557 กรรมการ และกรรมการตรวจสอบ องค์การตลาด กระทรวงมหาดไทย<br>• 2552 - 2557 กรรมการ และประธานกรรมการตรวจสอบ บริษัท บริหารสินทรัพย์<br>กรุงเทพพาณิชย์ จำกัด (มหาชน)<br>• 2553 - 2554 กรรมการบรรษัทตลาดรองสินเชื่อที่อยู่อาศัย<br>• 2552 - 2554 รองอธิบดี กรมสรรพากร",
+
+             "a_d_m_4_p12_1":"นายวุฒิภูมิ จุฬางกูร",
+             "a_d_m_4_p12_2":"กรรมการผู้มีอำนาจลงนาม",
+             "a_d_m_4_p12_3":'• ปริญญาตรี นิติศาสตร์บัณฑิต มหาวิทยาลัยรามคำแหง<br>• Executive MBA, สถาบันบัณฑิตบริหารธุรกิจศศินแห่งจุฬาลงกรณ์มหาวิทยาลัย',
+             "a_d_m_4_p12_4":"•	หลักสูตร Directors Certification Program (DCP) 148/2011<br>• หลักสูตร Financial Statement for Directors (FFD) 12/2011",
+             "a_d_m_4_p12_5":"• 2558 – ปัจจุบัน กรรมการ บริษัท ซีเอ็ดยูเคชั่น จำกัด (มหาชน)<br>• 2556 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน)<br>• 2555 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม และกรรมการบริหาร<br>บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน)",
+             "a_d_m_4_p12_6":"• 2558 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท แอสไพเรชั่น วัน จำกัด<br>• 2557 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท ไอร่า แอนด์ ไอฟุล จำกัด (มหาชน) <br>• 2557 – ปัจจุบัน กรรมการผู้มีอำนาจลงนาม บริษัท แฟคทอรี่ ดีโป ซัพพลาย จำกัด<br>• 2545 – ปัจจุบัน กรรมการและผู้อำนวยการสายงานจัดหา <br>	-  บริษัท ซัมมิท โอโต บอดี้ อินดัสตรี จำกัด<br>-  บริษัท ซัมมิท โอโต บอดี้ อินดัสตรี (อยุธยา) จำกัด<br>-  บริษัท ซัมมิท แหลมฉบัง โอโต บอดี้เวิร์ค จำกัด<br>-  บริษัท ซัมมิท แหลมฉบัง โอโต บอดี้เวิร์ค (ระยอง) จำกัด<br>-  บริษัท ซัมมิท โอโต เทค อินดัสตรี จำกัด<br>-  บริษัท ไทยออโต อินดัสตรี จำกัด<br>-  บริษัท ซัมมิท อาร์ แอนด์ ดี เซ็นเตอร์ จำกัด<br>-  บริษัท ซัมมิท แอดวานซ์ แมททีเรียล จำกัด",
+          
+
+        
+        
         },
         "en": {
             "_m_b1": "Group<br>Companies",
@@ -347,7 +454,118 @@ $(function(){
             "b_s_tag7_txt_2":"The company hold 80% of shares,<br>Providing leasing services for personal and corporation",
             "b_s_tag8_txt_2":"Provides venture capital service in order to respond the government policy",
             "b_s_tag9_txt_2":"Provides full advisory service for finance and accounting, Refinancing,<br>Merger and Acquisition, tax and training",
-            "b_s_tag10_txt_2":"As a subsidiary of AIRA Property as 60% of shares<br>to manage high office building business"
+            "b_s_tag10_txt_2":"As a subsidiary of AIRA Property as 60% of shares<br>to manage high office building business",
+            
+            "a_d_m_4_p_1":"Mr. Pakorn Malakul Na Ayudhya",
+            "a_d_m_4_p_2":"Independent Director and Chairman of the Board of Director",
+            "a_d_m_4_p_3":"Education / Training",
+            "a_d_m_4_p_4":"Director Training from Thai Institute of Directors Association (IOD)",
+            "a_d_m_4_p_5":"Board member / Management in Listed Company – The Stock Exchange of Thailand",
+            "a_d_m_4_p_6":"Board member / Management in Non - Listed Company – The Stock Exchange of Thailand",
+            "a_d_m_4_p_7":"Position in Other Organization/Institutions",
+            "a_d_m_4_p_8":"Work Experience (5 Years Past Experiences)",
+            
+            
+             "a_d_m_4_p2_1":"Mr. Nopporn  Phicha",
+             "a_d_m_4_p2_2":"Independent Director and Chairman of Audit Committee",
+             "a_d_m_4_p2_3":"• Bachelor of Agricultural Science, Kasetsart University<br>• Master of Economics program, National Institute of Development Administration (NIDA) ",
+             "a_d_m_4_p2_4":"• Corporate Governance for Capital Market Intermediaries (CGI)Class 3/2015<br>• Advance Audit Committee Program (AACP) Class 14/2014<br>• Directors Certification Program (DCP) Class 100/ 2009 <br>• Directors Accreditation Program (DAP) Class 2/2003",
+             "a_d_m_4_p2_5":"• 2010 – Present Chairman of Audit Committee and Independent Director,<br>AIRA Capital Public Company Limited",
+             "a_d_m_4_p2_6":"• 2015 – Present Director, Siam Smile Broker (Thailand) Company Limited<br>• 2011 – Present Qualified Outside Director, Chiang Mai University<br>• 2010 – Present Director, Ratchaburi World Cogeneration Co.,Ltd.<br>• 2007 – Present Honorary Advisor,  Thai Agri-Foods Group <br>• 2006 – Present Independent Director and Chairman of Audit Committee,<br>AIRA Securities Public Company Limited",
+             "a_d_m_4_p2_8":"• 2007 – 2015 Chairman, Viet World Company Limited<br>• 1997 – 2006 Independent Director and Audit Committee, Thai Agri-Foods<br>Public Company Limited<br>• 2004 – 2006 Chairman of Audit Committee, Oishi Group Public Company",
+
+            
+            
+             "a_d_m_4_p1_1":"• B.Sc. Economics, The Queen’s University of Belfast, Northern Ireland<br> • Diploma from the National Defense College",
+            "a_d_m_4_p1_2":"• Financial Institutions Governance Program (FGP) class 3/2011<br>• Role of The Chairman Program  (RCP) class 7/2002",
+            "a_d_m_4_p1_3":"• 2016 – Present Independent Director and Chairman of the Board<br>of Directors, AIRA Capital Public Company Limited<br>• 2014 – Present Chairman of the Board of Directors, Interlink Telecom<br>	Public Company Limited",
+            "a_d_m_4_p1_4":"• 2015 – Present Chairman of the Board of Directors, AIRA Property Company Limited<br>•2003 – Present Chairman of the Board of Directors, TSFC Securities<br>Public Company Limited<br>• 2002 – Present Deputy Chairman, Chairman of the Nomination and Compensation<br>Committee, and Audit Committee, Standard Charter Bank (Thai) Public Company Limited",
+            "a_d_m_4_p1_5":"• 2016 – Present Chairman Associate of Capital Market Academy <br>• 2014 – Present 	Expert on Corporate Governance and Social Responsibility,<br>Stock Exchange of Thailand <br>• 2012 – Present	Sub Performance Agreement Committee of the Comptroller<br>General’s Department <br>• 2012 – Present Vice Chairman of the Institute of Research and Development<br>for Public Enterprise ",
+            "a_d_m_4_p1_6":"• 2014 – 2015 Chairman of MPG Corporate Public Company Limited<br>• 2007 – 2009 Chairman of Stock Exchange of Thailand<br>• 2000 – 2002 Deputy Governor of Bank of Thailand<br>• 1995 – 1999 Secretary General, The Securities and Exchange Commission<br>",
+        
+        
+            "a_d_m_4_p3_1":"Mrs. Chiraporn  Chemnasiri",
+             "a_d_m_4_p3_2":"Independent Director, Director of Audit Committee and<br>Director of Good Governance Committee",
+             "a_d_m_4_p3_3":"•	Bachelor of Accounting, Chulalongkorm University",
+             "a_d_m_4_p3_4":"•	Advanced Audit Committee Program Class (AACP) Class 14/2014<br>• Corporate Governance for Capital Market Intermediaries (CGI)Class 0/2014<br>• Director Certification Program (DCP)Class172 / 2013 <br>• Audit Committee Program (ACP) Class 25/2009<br>• Director Accreditation Program (DAP) Class 71/2008",
+             "a_d_m_4_p3_5":"•2010 – Present Independent Director and Audit Committee,<br>AIRA Capital Public Company Limited",
+             "a_d_m_4_p3_6":"• 2008 – Present Independent Director and Audit Committee,<br>AIRA Securities Public Company Limited<br>• 1988 – Present Director, Taraporn Company Limited<br>• 1989 – Present Director , Managerial Excellent Limited<br>• 2005 – Present Director , SRI Consultant Limited<br>• 1994 – Present Director , Grid Business Solutions Limited",
+             "a_d_m_4_p3_8":"• 1986 – 2009 Executive Vice President (Planning and Finance),<br>Airports of Thailand Public Company Limited",
+  
+             "a_d_m_4_p4_1":"Mrs. Nalinee Ngamsettamas​",
+             "a_d_m_4_p4_2":"Authorized Director Chairman of the Investment Committee<br>and Chief Executive Officer",           
+             "a_d_m_4_p4_3":'• Ph.D. (Honorary Degree) in Finance, Sripatum University<br>• Certificate Master of Marketing Management, Thammasart University<br>& University of Gothenberg<br>• Master of Business Administration (Financial Management), National Institute<br>of Development Administration (NIDA)<br>• Bachelor of Science, Srinakharinwirot University<br>• Leadership Succession Program (LSP Batch#4), Institute of Research and<br>Development for Public Enterprises<br>• Thammasat Leadership Program (TLP Batch#3), Thammasat University Alumni Association<br>• Advance Security Management Program (Batch#3) ,Thailand  National Defense College<br>	• Capital Market Academy Leadership Program (CMA) Class 8, The Capital Market Academy<br>',
+             "a_d_m_4_p4_4":"• Corporate Governance for Capital Market Intermediaries (CGI) Class 15/2016<br>• IOD Exclusive Event (M-IEE) Class 1/2015<br>• Role of Chairman Program (RCP) Class31/2013<br>• Director Accreditation Program (DAP) Class 61/ 2007",
+             "a_d_m_4_p4_5":"• 2011 – Present ​Authorized Director, Director of the Executive Committee and Director<br>of the Nomination and Remuneration Committee, AIRA Factoring Public Company Limited<br>• 2010 – Present​	Authorized Director, Chairman of Investment Committee, and Chief<br>Executive Officer, AIRA Capital Public Company Limited",
+             "a_d_m_4_p4_6":"​​• 2016 – Present Authorized Director, Travelex (Thailand) Limited<br>• 2016 – Present​ Authorized Director and Chairman of the Board of Directors,<br>AIRA Leasing Public Company Limited<br>• 2015 – Present​ Authorized Director, Chairman of Executive Committee, and Chief<br>Executive Officer, AIRA Property Company Limited<br>• 2015 – Present​ Authorized Director and Chairman of the Board of Directors,<br>	Aspiration One Company Limited<br>• 2014 – Present​ Authorized Director, Chairman of Nomination and Remuneration Committee<br>and Chairman of  Executive Officer Meeting AIRA&AIFUL Public Company Limited<br>• 2012 –Present​ Authorized Director and Chairman of the Board of Directors,<br>AIRA International Advisory (Singapore) Pte., Ltd.<br>• 2007 – Present ​Authorized Director, AIRA Securities Public Company Limited<br>",
+             "a_d_m_4_p4_8":"• 2004 – 2012 Director, Dharmniti Public Company Limited",
+             
+             "a_d_m_4_p5_1":"M.R. Kasemvisuth  Visuthi",
+             "a_d_m_4_p5_2":"Authorized Director and Director of the Nomination and Remuneration Committee",
+             "a_d_m_4_p5_3":'• Bachelor of Science (Mechanical Engineering), Queens University of Belfast',
+             "a_d_m_4_p5_4":"• Director Accreditation Program (DAP) Class 61/2007",
+             "a_d_m_4_p5_5":"• 2010 – Present Authorized Director and Director of the Nomination and Remuneration<br>Committee, AIRA Capital Public Company Limited)",
+             "a_d_m_4_p5_6":"​• 2010 – Present Director, AIRA Property Company Limited",
+             "a_d_m_4_p5_8":"• 2006 – Present Authorized Director, AIRA Securities Public Company Limited<br>• 1995 – 2014 Director, S.B Realty Company Limited",
+        
+             
+             "a_d_m_4_p6_1":"Mr .Wisoot Karnchanapunyapong",
+             "a_d_m_4_p6_2":"Authorized Director, Investment Committee and<br>Corporate Good Governance Committee",
+             "a_d_m_4_p6_3":'• Bachelor of Laws,Chulalongkorm University',
+             "a_d_m_4_p6_4":"• Corporate Governance for Capital  Market Intermediaries (CGI) Class 1/ 2014<br>• Director Certification Program (DCP) Class 30/2013<br>• Director Accreditation Program (DAP) Class 71/2008",
+             "a_d_m_4_p6_5":"• 2010 – Present Authorized Director, Investment Committee and Good Governance<br>Committee, AIRA Capital Public Company Limited",
+             "a_d_m_4_p6_6":"​• 2015 – Present Director, The P Sathorn Company Limited<br>• 2015 – Present Director, The P Pak Chong Company Limited<br>• 2015 – Present Director, Thai Social Enterprise Company Limited <br>• 2015 – Present Authorized Director, Thai Business Consultants Association<br>• 2006 – Present Authorized Director, AIRA Securities Public Company Limited<br>• 2003 – Present Authorized Director, Center Interactive Company Limited<br>• 2003 – Present Authorized Director, Asia Future International Company Limited<br>• 2003 – Present Chairman, TAP Valuation Company Limited<br>• 1996 – Present Authorized Director of the Executive Board of Director,<br>The Dharmniti Public Company Limited<br>• 1993 – Present Authorized Director, M.B.B.A Co.,Ltd<br>• 1990 – Present Authorized Director, Dharmnitit Law Office Company Limited<br>• 1990 – Present Authorized Director, Dharmniti International Company Limited",
+             "a_d_m_4_p6_7":"• 1997 – Present Executive Director, Thai Business Consultants Association",
+             
+             "a_d_m_4_p7_1":"Associate Professor Niputh Jitprasonk",
+             "a_d_m_4_p7_2":"Director, Member of Risk Management Committee and Member<br>of Nomination and remuneration Committee",
+             "a_d_m_4_p7_3":'•	Bachelor of Accounting (Honors), Faculty of Commerce and Accountancy,<br>Thammasat University<br>• M.B.A. in international Trade & Finance, Gothenburg School of Economics<br>and Business Administration, Sweden',
+             "a_d_m_4_p7_4":"• Audit Committee Program (ACP) Class 25/2009  <br>• Monitoring the System of Internal Control and Risk Management (MIR) Class 5/2009 <br>• Monitoring the internal Audit FunctionClass 5/2009 <br>• Monitoring the Quality of Financial Report Class 9/2009<br>• Director Certification Program (DCP) Class 85/2007",
+             "a_d_m_4_p7_5":"• 2013 – Present Independent Director, Director of Risk Management Committee <br>and Director of Nomination and remuneration Committee<br>AIRA Capital Public Company Limited<br>• 2009– Present Independent Director, and Chairman of Audit Committee,<br>and Chairman of Corporate Good Governance GJ Steel Public Company Limited<br>• 2007 – Present	Independent Director and Audit Committee, Lalin Property<br>Public Company Limited",
+             "a_d_m_4_p7_6":"• 2008– Present Director, AIRA Advisory Co.,Ltd.",
+             "a_d_m_4_p7_8":"• 2007 – 2011 Director and Audit Committee, The Stock Exchange of Thailand",
+        
+        
+             "a_d_m_4_p8_1":"Mrs. Kongkeaw  Piamduaytham",
+             "a_d_m_4_p8_2":"Authorized Director and Chairman of Good governance Committee",
+             "a_d_m_4_p8_3":'• Bachelor of  Economic (first-class honors), Chiang Mai University <br>• Bachelor of Laws, Ramkhamhaeng University<br>• Master of Business Administration (Finance), Washington State University, USA.<br>• Sasin Senior Executive Program<br>• Certificate of the Capital Market Leadership Program Class 1, Capital Market Academy',
+             "a_d_m_4_p8_4":"• Role of the Nomination and Governance Committee (RNG) class 7/2015<br>• Advanced Audit Committee Programs (AACP) class 13/2013<br>• Director Certification Program (DCP) class 157/2012 ",
+             "a_d_m_4_p8_5":"• 2012 – Present Chairman of Audit Committee Muangthai Leasing Public Company Limited <br>	• 2010 – Present	Authorize Director and Chairman of Good Governance Committee,<br>AIRA Capital Public Company Limited",
+             "a_d_m_4_p8_6":" • 2009 – Present Advisor, AIRA Securities Public Company Limited <br>• 2011 – Present Chairman of Audit Committee, PAPOP Company Limited",
+             
+             "a_d_m_4_p9_1":"Mr. Prinya  Waiwatana",
+             "a_d_m_4_p9_2":"Independent Director, Chairman of the Risk Management Committee,<br>Investment Committee, and Nomination and Remuneration Committee",
+             "a_d_m_4_p9_3":'• Bachelor of Accounting, Chulalongkorn University',
+             "a_d_m_4_p9_4":"• Role of Compensation Committee (RCC) Class 10/2010 <br>• Monitoring the System of Internal Control and Risk Management (MIR) Class 2/2008<br>• Director Certification Program (DCP) Class 72/2006 <br>• Director Accreditation Program (DAP) Class 35/2005 <br>• Audit Committee Program (ACP) Class 9/2005",
+             "a_d_m_4_p9_5":"• 2010 – Present Independent Director, Chairman of the Risk Management Committee,<br>Investment Committee and Nomination and Remuneration Committee,<br>AIRA Capital Public Company Limited<br>• 2010 – Present Independent Director and Good Governance Committee,<br>Samart Corporation Public Company Limited<br>• 2005– Present Independent Director, Audit Committee and Remuneration Committee,<br>Thai Steel Cable Public Company Limited",
+             
+                 
+             "a_d_m_4_p10_1":"Associate Professor Anchalee Pipatanasern",
+             "a_d_m_4_p10_2":"Independent Director and Audit Committee  ",
+             "a_d_m_4_p10_3":'• Bachelor of Accounting (2nd Honors ), Faculty of Commerce and Accountancy, <br>Thammasat University<br>• MS (Accounting) , Thammasat University <br>• Certificate Thammasart Leadership Program class 2/2013',
+             "a_d_m_4_p10_4":"•	Corporate Governance for Capital Market Intermediaries (CGI) Class 1/2014<br>• Role of the Chairman Program (RCP) Class 25/2011 <br>• Audit Committee Program (ACP) Class 30/2010  <br>• Monitoring of the Quality of Financial Reporting (MFR) Class 10/2010 <br>• Monitoring the system of Internal Control and Risk Management (MIR) Class 8/2010 <br>• Monitoring the Internal Audit Function (MIA) Class 7/2010  <br>• Monitoring Fraud Risk Management (MFM) Class 2/2010  <br>• Director Certification Program (DCP) Class 124/2009",
+             "a_d_m_4_p10_5":"• 2010 – Present Independent Director and Chairman of the Audit Committee,<br>AIRA Capital Public Company Limited<br>• 2009 – Present Independent Director and Chairman of the Audit Committee,<br>PRINSIRI Public Company Limited",
+             "a_d_m_4_p10_6":"•	2009 – Present Independent Director and Audit Committee,<br>AIRA Securities Public Company Limited<br>",
+             "a_d_m_4_p10_7":"•	2012 – Present Contractual Teacher, Thammasat University<br>• 1995 – Present Committee of the Real Estate Business Program, Faculty of Commerce<br>and Accountancy, Thammasat University ",
+             "a_d_m_4_p10_8":"•	2007 – 2010 Head of Department of Accounting, Faculty of Commerce and<br>Accountancy, Thammasat University <br>	• 2004 – 2007 Vicerector for Finance, Thammasat University",
+             
+             "a_d_m_4_p11_1":"Mr. Anant Sirisaengtaksin",
+             "a_d_m_4_p11_2":"Independent Director and Member of Risk Management Committee",
+             "a_d_m_4_p11_3":'•	Bachelor Degree in Accounting, Chulalongkorn University<br>• Master of Business Administration /Commerce, Eastern New Mexico University, USA.<br>• International Tax Program, Harvard University, USA.<br>• General Taxation , Japan<br>• Certificate of the Capital Market Leadership Program Class (CMA 13) ,<br>Capital Market Academy<br>• National Defense (NDC 2546), The National Defense College',
+             "a_d_m_4_p11_4":"• Director Certification Program (DCP) Class 73/2006<br>• Advance Audit Committee (AACP) Class 22/2016",
+             "a_d_m_4_p11_5":"•	2014 – Present Independent Director and Risk Management Committee,<br>AIRA Capital Public Company Limited<br>• 2012 – Present	Independence Director and Chairman of Audit Committee,<br>Nippon pack (Thailand) Public Company Limited",
+             "a_d_m_4_p11_6":"• 2016 – Present Authorized Director and Chairman of the Board of Directors,<br>AIRA Advisory Company Limited<br>• 2015 – Present	Director, SCL Tax Consultant Company Limited",
+             "a_d_m_4_p11_8":"• 2011 - 2014 Advisor, Mass Rapid Transit Authority of Thailand<br>• 2011 - 2014 Director and Audit Committee, The Marketing Organization,<br>Ministry of Interior<br>• 2009 - 2014 Director and Chairman of Audit Committee, Bangkok Commercial<br>Asset Management Co.,Ltd.<br>• 2010 - 2011 Director, Secondary Mortgage Corporation<br>• 2009 - 2011 Deputy Director-General, The Revenue Department",
+
+             "a_d_m_4_p12_1":"Mr. Wutthiphum Jurangkool",
+             "a_d_m_4_p12_2":"Authorized Director",
+             "a_d_m_4_p12_3":'•	Bachelor of  Laws, Ramkhamhaeng University<br>•	Executive MBA, Sasin Graduate Institute of Business Administration<br>of Chulalongkorn University',
+             "a_d_m_4_p12_4":"•	Directors Certification Program (DCP) Class 148/2011<br>• Finance for Director (FFD) Class 12/2011",
+             "a_d_m_4_p12_5":"•	2015 – Present	Director, SE-EDUCATION Public Company Limited <br>• 2013 – Present Authorized Director, AIRA Capital Public Company Limited<br>	• 2012 – Present	Director and Executive Committee,AIRA Factoring Public Company Limited",
+             "a_d_m_4_p12_6":"• 2014 – Present	Authorized Director, AIRA & AIFUL Public Company Limited<br>• 2014 – Present Director of Factory  depot supply Co., Ltd.<br>• 2002 – Present Director and Director of Procurement Department of<br>-  SUMMIT Auto Body Industry Co., Ltd.<br>-  SUMMIT Auto Body Industry Co., Ltd. (Ayutthaya branch)<br>-  SUMMIT Laemchabang Auto Body Work Co., Ltd.<br>-  SUMMIT Laemchabang Auto Body Work Co., Ltd. (Rayong branch)<br>-  SUMMIT Auto Tech Industry Co., Ltd.<br>- Thai Auto Industry Co., Ltd.<br>-  SUMMIT R&D Center Co., Ltd.<br>-  SUMMIT Advanced Materials Co., Ltd.",
+          
+        
+        
         },
         "jp": {
             "_m_b1": "<div class='txt_jp'>グループ会社</div>",
@@ -502,16 +720,16 @@ $(function(){
             "b_s_m_9":'<div class="txt_menu_en_jp">AIRA Advisory</div>',
             "b_s_m_10":'<div class="txt_menu_en_jp">Aspiration One</div>',
             "b_s_title_1":"概要",
-            "b_s_tag1_txt_1":"AIRA Capital Public Company Limited",
-            "b_s_tag2_txt_1":"AIRA Securities Public Company Limited",
-            "b_s_tag3_txt_1":"AIRA Factoring Public Company Limited",
-            "b_s_tag4_txt_1":"AIRA International Advisory (Singapore) Pte. Ltd.",
-            "b_s_tag5_txt_1":"AIRA & AIFUL Public Company Limited.",
-            "b_s_tag6_txt_1":"AIRA Property Public Company Limitedt",
-            "b_s_tag7_txt_1":"AIRA Leasing Public Company Limited",
-            "b_s_tag8_txt_1":"AIRA Venture Capital Co., Ltd.",
-            "b_s_tag9_txt_1":"AIRA Advisory Co., Ltd.",
-            "b_s_tag10_txt_1":"Aspiration One Co., Ltd.",
+            "b_s_tag1_txt_1":'<div class="txt_head_en2_jp">AIRA Capital Public Company Limited</div>',
+            "b_s_tag2_txt_1":'<div class="txt_head_en2_jp">AIRA Securities Public Company Limited</div>',
+            "b_s_tag3_txt_1":'<div class="txt_head_en2_jp">AIRA Factoring Public Company Limited</div>',
+            "b_s_tag4_txt_1":'<div class="txt_head_en2_jp">AIRA International Advisory (Singapore) Pte. Ltd.</div>',
+            "b_s_tag5_txt_1":'<div class="txt_head_en2_jp">AIRA & AIFUL Public Company Limited.</div>',
+            "b_s_tag6_txt_1":'<div class="txt_head_en2_jp">AIRA Property Public Company Limitedt</div>',
+            "b_s_tag7_txt_1":'<div class="txt_head_en2_jp">AIRA Leasing Public Company Limited</div>',
+            "b_s_tag8_txt_1":'<div class="txt_head_en2_jp">AIRA Venture Capital Co., Ltd.</div>',
+            "b_s_tag9_txt_1":'<div class="txt_head_en2_jp">AIRA Advisory Co., Ltd.</div>',
+            "b_s_tag10_txt_1":'<div class="txt_head_en2_jp">Aspiration One Co., Ltd.</div>',
             
             "b_s_tag1_txt_2":'<div class="txt_story_en_jp">2010</div>年<div class="txt_story_en_jp">1</div>月<div class="txt_story_en_jp">21</div>日に<div class="txt_story_en_jp">Company Limited</div>として設立され、<div class="txt_story_en_jp">2011</div>年<div class="txt_story_en_jp">9</div>月<div class="txt_story_en_jp">9</div>日に<div class="txt_story_en_jp">Public Company Limited</div><br>に変更された、金融系企業の株式を保有するホールディングカンパニーである。その目的は様々な金融サービス<br>・プロダクトを提供する包括的、国際的なネットワークのファイナンシャルグループを目指すことと、<br>企業倫理のあるマネージメントに重点を置いて、株主や社員に対し経営成果を還元することである。',
             "b_s_tag2_txt_2":'の株を<div class="txt_story_en_jp">99.99%</div>保有している。<br>そこに<div class="txt_story_en_jp">AIRA Advisory Company Limited</div>という子会社がある。<div class="txt_story_en_jp">AIRA Securities Public Company Limited</div><br>はタイ証券取引所の48番号のブローカー許可証を保有している。',
@@ -522,7 +740,114 @@ $(function(){
             "b_s_tag7_txt_2":'の株を<div class="txt_story_en_jp">80%</div>保有している。<br>個人・法人にハイヤー・パーチェスやリースの事業をしている。',
             "b_s_tag8_txt_2":'の株を<div class="txt_story_en_jp">100%</div>保有している。<br>公共との投資をサポートするための共同投資の事業をしている。',
             "b_s_tag9_txt_2":'は財務・会計、債務再編、<div class="txt_story_en_jp">M&A</div>、税関系、社内研修など幅広いビ<br>ジネスのコンサルティングサービスを提供している。当社のサービスは公共・民間を問わず、<br>金融機関、上場株式会社や中小企業および個人事業など包括的に実施している。',
-            "b_s_tag10_txt_2":"の株を60%保有している。<br>レンタル・オフィス向けの高層ビルを中心とした不動産開発の事業をしている。"
+            "b_s_tag10_txt_2":"の株を60%保有している。<br>レンタル・オフィス向けの高層ビルを中心とした不動産開発の事業をしている。",
+            
+            "a_d_m_4_p_1":"Mr. Pakorn Malakul Na Ayudhya",
+            "a_d_m_4_p_2":"社外取締役 兼 取締役会会長",
+            "a_d_m_4_p_3":"学歴/研修",
+            "a_d_m_4_p_4":"タイ企業役員機構開発協会<div class='txt_story_pop_text_en_jp'>(IOD)</div> における取締役トレーニング",
+            "a_d_m_4_p_5":"タイ証券取引所の上場会社の取締役・役員経験",
+            "a_d_m_4_p_6":"タイ証券取引所の非上場会社の取締役・役員経験",
+            "a_d_m_4_p_7":"その他の機関・組織の役職",
+            "a_d_m_4_p_8":"職歴 (過去</div>現在 <div class='txt_story_pop_text_en_jp'>5</div>年間)",
+            
+            "a_d_m_4_p1_1":"<div class='txt_story_pop_text_en_jp'>• B.Sc. Economics, The Queen’s University of Belfast, Northern Ireland</div><br> <div class='txt_story_pop_text_en_jp'>• Diploma from the National Defense College</div>",
+            "a_d_m_4_p1_2":"<div class='txt_story_pop_text_en_jp'>• Financial Institutions Governance Program (FGP) class 3/2011</div><br><div class='txt_story_pop_text_en_jp'>• Role of The Chairman Program  (RCP) class 7/2002</div>",
+            "a_d_m_4_p1_3":"<div class='txt_story_pop_text_en_jp'>• 2016 – </div>現在  <div class='txt_story_pop_text_en_jp'>Independent Director and Chairman of the Board</div><br><div class='txt_story_pop_text_en_jp'>of Directors, AIRA Capital Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2014 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman of the Board of Directors, Interlink Telecom</div><br><div class='txt_story_pop_text_en_jp'>Public Company Limited</div>",
+            "a_d_m_4_p1_4":"<div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在  <div class='txt_story_pop_text_en_jp'>Chairman of the Board of Directors, AIRA Property Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2003 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman of the Board of Directors, TSFC Securities</div><br><div class='txt_story_pop_text_en_jp'>Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2002 – </div>現在 <div class='txt_story_pop_text_en_jp'>Deputy Chairman, Chairman of the Nomination and Compensation</div><br><div class='txt_story_pop_text_en_jp'>Committee, and Audit Committee, Standard Charter Bank (Thai) Public Company Limited</div>",
+            "a_d_m_4_p1_5":"<div class='txt_story_pop_text_en_jp'>• 2016 – </div>現在  <div class='txt_story_pop_text_en_jp'>Chairman Associate of Capital Market Academy </div><br><div class='txt_story_pop_text_en_jp'>•2014 – </div>現在 <div class='txt_story_pop_text_en_jp'>Expert on Corporate Governance and Social Responsibility</div>,<br><div class='txt_story_pop_text_en_jp'>Stock Exchange of Thailand</div><br><div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>Sub Performance Agreement Committee of the Comptroller</div><br><div class='txt_story_pop_text_en_jp'>General’s Department </div><br><div class='txt_story_pop_text_en_jp'>• 2012 –</div> 現在 <div class='txt_story_pop_text_en_jp'>Vice Chairman of the Institute of Research and Development</div><br><div class='txt_story_pop_text_en_jp'>for Public Enterprise </div><br>",
+            "a_d_m_4_p1_6":"<div class='txt_story_pop_text_en_jp'>• 2014 – 2015 Chairman of MPG Corporate Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2007 – 2009 Chairman of Stock Exchange of Thailand</div><br><div class='txt_story_pop_text_en_jp'>• 2000 – 2002 Deputy Governor of Bank of Thailand</div><br><div class='txt_story_pop_text_en_jp'>• 1995 – 1999 Secretary General, The Securities and Exchange Commission</div>",
+        
+             "a_d_m_4_p2_1":"Mr. Nopporn  Phicha",
+             "a_d_m_4_p2_2":"社外取締役 兼 監査委員会会長",
+             "a_d_m_4_p2_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Agricultural Science, Kasetsart University</div><br><div class='txt_story_pop_text_en_jp'>• Master of Economics program, National Institute of Development Administration (NIDA)</div>",
+             "a_d_m_4_p2_4":"<div class='txt_story_pop_text_en_jp'>• Corporate Governance for Capital Market Intermediaries (CGI)Class 3/2015 </div><br><div class='txt_story_pop_text_en_jp'>•	Advance Audit Committee Program (AACP) Class 14/2014</div><br><div class='txt_story_pop_text_en_jp'>• Directors Certification Program (DCP) Class 100/ 2009</div> <br><div class='txt_story_pop_text_en_jp'>• Directors Accreditation Program (DAP) Class 2/2003</div>",
+             "a_d_m_4_p2_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman of Audit Committee and Independent Director,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p2_6":"<div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director, Siam Smile Broker (Thailand) Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2011 –  </div>現在 <div class='txt_story_pop_text_en_jp'>Qualified Outside Director, Chiang Mai University</div><br><div class='txt_story_pop_text_en_jp'>•	2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director,  Ratchaburi World Cogeneration Co.,Ltd.</div><br><div class='txt_story_pop_text_en_jp'>• 2007 – </div>現在 <div class='txt_story_pop_text_en_jp'>Honorary Advisor, Thai Agri-Foods Group </div><br><div class='txt_story_pop_text_en_jp'>• 2006 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Chairman of Audit Committee,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Securities Public Company Limited</div>",
+             "a_d_m_4_p2_8":"<div class='txt_story_pop_text_en_jp'>• 2007 – 2015 Chairman, Viet World Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1997 – 2006 Independent Director and Audit Committee, Thai Agri-Foods</div><br><div class='txt_story_pop_text_en_jp'>Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2004 – 2006	Chairman of Audit Committee, Oishi Group Public Company</div>",
+        
+        
+             "a_d_m_4_p3_1":"Mrs. Chiraporn  Chemnasiri",
+             "a_d_m_4_p3_2":"社外取締役 兼 監査委員 兼 コーポレート・ガバナンス委員",
+             "a_d_m_4_p3_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Accounting, Chulalongkorm University</div>",
+             "a_d_m_4_p3_4":"<div class='txt_story_pop_text_en_jp'>• Advanced Audit Committee Program Class (AACP) Class 14/2014</div><br><div class='txt_story_pop_text_en_jp'>• Corporate Governance for Capital Market Intermediaries (CGI)Class 0/2014</div><br><div class='txt_story_pop_text_en_jp'>• Director Certification Program (DCP)Class172 / 2013 </div><br><div class='txt_story_pop_text_en_jp'>• Audit Committee Program (ACP) Class 25/2009</div><br><div class='txt_story_pop_text_en_jp'>• Director Accreditation Program (DAP) Class 71/2008</div>",
+             "a_d_m_4_p3_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Audit Committee,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p3_6":"<div class='txt_story_pop_text_en_jp'>• 2008 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Audit Committee,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Securities Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1988 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director, Taraporn Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1989 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director , Managerial Excellent Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2005 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director , SRI Consultant Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1994 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director , Grid Business Solutions Limited</div>",
+             "a_d_m_4_p3_8":"<div class='txt_story_pop_text_en_jp'>• 1986 – 2009 Executive Vice President (Planning and Finance),<br>Airports of Thailand Public Company Limited",
+  
+             "a_d_m_4_p4_1":"Mrs. Nalinee Ngamsettamas​",
+             "a_d_m_4_p4_2":"投資委員会会長（署名権限者） 兼 最高経営責任者",           
+             "a_d_m_4_p4_3":"<div class='txt_story_pop_text_en_jp'>• Ph.D. (Honorary Degree) in Finance, Sripatum University</div><br><div class='txt_story_pop_text_en_jp'>• Certificate Master of Marketing Management, Thammasart University</div><br><div class='txt_story_pop_text_en_jp'>& University of Gothenberg</div><br><div class='txt_story_pop_text_en_jp'>• Master of Business Administration (Financial Management), National Institute</div><br><div class='txt_story_pop_text_en_jp'>of Development Administration (NIDA)</div><br><div class='txt_story_pop_text_en_jp'>• Bachelor of Science, Srinakharinwirot University</div><br><div class='txt_story_pop_text_en_jp'>• Leadership Succession Program (LSP Batch#4), Institute of Research and</div><br><div class='txt_story_pop_text_en_jp'>Development for Public Enterprises</div><br><div class='txt_story_pop_text_en_jp'>• Thammasat Leadership Program (TLP Batch#3), Thammasat University Alumni Association</div><br><div class='txt_story_pop_text_en_jp'>• Advance Security Management Program (Batch#3) ,Thailand  National Defense College</div><br><div class='txt_story_pop_text_en_jp'>• Capital Market Academy Leadership Program (CMA) Class 8, The Capital Market Academy<br>",
+             "a_d_m_4_p4_4":"<div class='txt_story_pop_text_en_jp'>• Corporate Governance for Capital Market Intermediaries (CGI) Class 15/2016</div><br><div class='txt_story_pop_text_en_jp'>• IOD Exclusive Event (M-IEE) Class 1/2015</div><br><div class='txt_story_pop_text_en_jp'>• Role of Chairman Program (RCP) Class31/2013<br>• Director Accreditation Program (DAP) Class 61/ 2007</div>",
+             "a_d_m_4_p4_5":"<div class='txt_story_pop_text_en_jp'>• 2011 – Present ​Authorized Director, Director of the Executive Committee and Director</div><br><div class='txt_story_pop_text_en_jp'>of the Nomination and Remuneration Committee, AIRA Factoring Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2010 – Present​	Authorized Director, Chairman of Investment Committee, and Chief</div><br><div class='txt_story_pop_text_en_jp'>Executive Officer, AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p4_6":"​​<div class='txt_story_pop_text_en_jp'>• 2016 – </div>現在 <div class='txt_story_pop_text_en_jp'>​Authorized Director, Travelex (Thailand) Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2016 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director and Chairman of the Board of Directors,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Leasing Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Chairman of Executive Committee, and Chief</div><br><div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director and Chairman of the Board of Directors,</div><br><div class='txt_story_pop_text_en_jp'>Executive Officer, AIRA Property Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director and Chairman of the Board of Directors,</div><br><div class='txt_story_pop_text_en_jp'>Aspiration One Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2014 – </div>現在​ <div class='txt_story_pop_text_en_jp'>Authorized Director, Chairman of Nomination and Remuneration Committee</div><br><div class='txt_story_pop_text_en_jp'>and Chairman of  Executive Officer Meeting AIRA&AIFUL Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director and Chairman of the Board of Directors</div>,<br><div class='txt_story_pop_text_en_jp'>AIRA International Advisory (Singapore) Pte., Ltd.</div><br><div class='txt_story_pop_text_en_jp'>• 2007 – </div>現在 <div class='txt_story_pop_text_en_jp'>​Authorized Director, AIRA Securities Public Company Limited</div>",
+             "a_d_m_4_p4_8":"<div class='txt_story_pop_text_en_jp'>• 2004 – 2012 Director, Dharmniti Public Company Limited</div>",
+             
+             "a_d_m_4_p5_1":"M.R. Kasemvisuth  Visuthi",
+             "a_d_m_4_p5_2":"取締役（署名権限者）兼 指名・報酬委員 ",
+             "a_d_m_4_p5_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Science (Mechanical Engineering), Queens University of Belfast</div>",
+             "a_d_m_4_p5_4":"<div class='txt_story_pop_text_en_jp'>• Director Accreditation Program (DAP) Class 61/2007</div>",
+             "a_d_m_4_p5_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director and Director of the Nomination and Remuneration</div><br><div class='txt_story_pop_text_en_jp'>Committee, AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p5_6":"​<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director, AIRA Property Company Limited</div>",
+             "a_d_m_4_p5_8":"<div class='txt_story_pop_text_en_jp'>• 2006 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, AIRA Securities Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1995 – 2014 Director, S.B Realty Company Limited</div>",
+        
+             
+             "a_d_m_4_p6_1":"Mr .Wisoot Karnchanapunyapong",
+             "a_d_m_4_p6_2":"取締役（署名権限者）兼 投資委員 兼 コーポレート・ガバナンス委員",
+             "a_d_m_4_p6_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Laws,Chulalongkorm University</div>",
+             "a_d_m_4_p6_4":"<div class='txt_story_pop_text_en_jp'>• Corporate Governance for Capital  Market Intermediaries (CGI) Class 1/ 2014</div><br><div class='txt_story_pop_text_en_jp'>• Director Certification Program (DCP) Class 30/2013</div><br><div class='txt_story_pop_text_en_jp'>• Director Accreditation Program (DAP) Class 71/2008</div>",
+             "a_d_m_4_p6_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'> Authorized Director, Investment Committee and Good Governance Committee, AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p6_6":"​<div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'> Director, The P Sathorn Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在  <div class='txt_story_pop_text_en_jp'>Director, The P Pak Chong Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'>Director, Thai Social Enterprise Company Limited </div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Thai Business Consultants Association</div><br><div class='txt_story_pop_text_en_jp'>• 2006 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, AIRA Securities Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2003 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Center Interactive Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2003 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Asia Future International Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2003 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman, TAP Valuation Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1996 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director of the Executive Board of Director,<br>The Dharmniti Public Company Limited<br></div><div class='txt_story_pop_text_en_jp'>• 1993 – </div>現在<div class='txt_story_pop_text_en_jp'> Authorized Director, M.B.B.A Co.,Ltd</div><br><div class='txt_story_pop_text_en_jp'>• 1990 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Dharmnitit Law Office Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 1990 – </div>現在 <div class='txt_story_pop_text_en_jp'>Authorized Director, Dharmniti International Company Limited</div>",
+             "a_d_m_4_p6_7":"<div class='txt_story_pop_text_en_jp'>• 1997 – </div>現在 <div class='txt_story_pop_text_en_jp'> Executive Director, Thai Business Consultants Association</div>",
+             
+             "a_d_m_4_p7_1":"Associate Professor Niputh Jitprasonk",
+             "a_d_m_4_p7_2":"取締役 兼 リスク管理委員 兼 指名・報酬委員",
+             "a_d_m_4_p7_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Accounting (Honors), Faculty of Commerce and Accountancy,<br>Thammasat University</div><br><div class='txt_story_pop_text_en_jp'>• M.B.A. in international Trade & Finance, Gothenburg School of Economics<br>and Business Administration, Sweden</div>",
+             "a_d_m_4_p7_4":"<div class='txt_story_pop_text_en_jp'>• Audit Committee Program (ACP) Class 25/2009  </div><br><div class='txt_story_pop_text_en_jp'>• Monitoring the System of Internal Control and Risk Management (MIR) Class 5/2009 </div><br><div class='txt_story_pop_text_en_jp'>• Monitoring the internal Audit FunctionClass 5/2009</div> <br><div class='txt_story_pop_text_en_jp'>• Monitoring the Quality of Financial Report Class 9/2009</div><br><div class='txt_story_pop_text_en_jp'>• Director Certification Program (DCP) Class 85/2007</div>",
+             "a_d_m_4_p7_5":"<div class='txt_story_pop_text_en_jp'>• 2013 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director, Director of Risk Management Committee <br>and Director of Nomination and remuneration Committee<br>AIRA Capital Public Company Limited<br></div><div class='txt_story_pop_text_en_jp'>• 2009 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director, and Chairman of Audit Committee,<br>and Chairman of Corporate Good Governance GJ Steel Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2007 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Audit Committee, Lalin Property<br>Public Company Limited<div>",
+             "a_d_m_4_p7_6":"<div class='txt_story_pop_text_en_jp'>• 2008– </div>現在<div class='txt_story_pop_text_en_jp'> Director, AIRA Advisory Co.,Ltd.</div>",
+             "a_d_m_4_p7_8":"<div class='txt_story_pop_text_en_jp'>• 2007 – 2011 Director and Audit Committee, The Stock Exchange of Thailand</div>",
+        
+        
+             "a_d_m_4_p8_1":"Mrs. Kongkeaw  Piamduaytham",
+             "a_d_m_4_p8_2":"取締役（署名権限者）兼 グッドガバナンス委員会会長",
+             "a_d_m_4_p8_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of  Economic (first-class honors), Chiang Mai University <br>• Bachelor of Laws, Ramkhamhaeng University<br>• Master of Business Administration (Finance), Washington State University, USA.<br>• Sasin Senior Executive Program<br>• Certificate of the Capital Market Leadership Program Class 1, Capital Market Academy</div>",
+             "a_d_m_4_p8_4":"<div class='txt_story_pop_text_en_jp'>• Role of the Nomination and Governance Committee (RNG) class 7/2015<br>• Advanced Audit Committee Programs (AACP) class 13/2013<br>• Director Certification Program (DCP) class 157/2012 </div>",
+             "a_d_m_4_p8_5":"<div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman of Audit Committee Muangthai Leasing Public Company Limited</div> <br><div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在<div class='txt_story_pop_text_en_jp'> Authorize Director and Chairman of Good Governance Committee,<br>AIRA Capital Public Company Limited</div>",
+             "a_d_m_4_p8_6":"<div class='txt_story_pop_text_en_jp'>• 2009 – </div>現在 <div class='txt_story_pop_text_en_jp'>Advisor, AIRA Securities Public Company Limited</div> <br><div class='txt_story_pop_text_en_jp'>• 2011 – </div>現在 <div class='txt_story_pop_text_en_jp'>Chairman of Audit Committee, PAPOP Company Limited</div>",
+             
+             "a_d_m_4_p9_1":"Mr. Prinya  Waiwatana",
+             "a_d_m_4_p9_2":"社外取締役 兼 リスク管理委員会会長 兼 投資委員 兼 指名・報酬委員",
+             "a_d_m_4_p9_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Accounting, Chulalongkorn University</div>",
+             "a_d_m_4_p9_4":"<div class='txt_story_pop_text_en_jp'>• Role of Compensation Committee (RCC) Class 10/2010</div> <br><div class='txt_story_pop_text_en_jp'>• Monitoring the System of Internal Control and Risk Management (MIR) Class 2/2008<br>• Director Certification Program (DCP) Class 72/2006 <br>• Director Accreditation Program (DAP) Class 35/2005 <br>• Audit Committee Program (ACP) Class 9/2005</div>",
+             "a_d_m_4_p9_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director, Chairman of the Risk Management Committee,</div><br><div class='txt_story_pop_text_en_jp'>Investment Committee and Nomination and Remuneration Committee,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Capital Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在<div class='txt_story_pop_text_en_jp'> Independent Director and Good Governance Committee,<br>Samart Corporation Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2005– </div>現在<div class='txt_story_pop_text_en_jp'> Independent Director, Audit Committee and Remuneration Committee,<br>Thai Steel Cable Public Company Limited</div>",
+             
+                 
+             "a_d_m_4_p10_1":"Associate Professor Anchalee Pipatanasern",
+             "a_d_m_4_p10_2":"社外取締役 兼 監査委員",
+             "a_d_m_4_p10_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of Accounting (2nd Honors ), Faculty of Commerce and Accountancy, <br>Thammasat University<br>• MS (Accounting) , Thammasat University <br>• Certificate Thammasart Leadership Program class 2/2013</div>",
+             "a_d_m_4_p10_4":"<div class='txt_story_pop_text_en_jp'>• Corporate Governance for Capital Market Intermediaries (CGI) Class 1/2014<br>• Role of the Chairman Program (RCP) Class 25/2011 <br>• Audit Committee Program (ACP) Class 30/2010  <br>• Monitoring of the Quality of Financial Reporting (MFR) Class 10/2010 <br>• Monitoring the system of Internal Control and Risk Management (MIR) Class 8/2010 <br>• Monitoring the Internal Audit Function (MIA) Class 7/2010  <br>• Monitoring Fraud Risk Management (MFM) Class 2/2010  <br>• Director Certification Program (DCP) Class 124/2009</div>",
+             "a_d_m_4_p10_5":"<div class='txt_story_pop_text_en_jp'>• 2010 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Chairman of the Audit Committee,<br>AIRA Capital Public Company Limited<br></div><div class='txt_story_pop_text_en_jp'>• 2009 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Chairman of the Audit Committee,</div><br><div class='txt_story_pop_text_en_jp'>PRINSIRI Public Company Limited</div>",
+             "a_d_m_4_p10_6":"<div class='txt_story_pop_text_en_jp'>• 2009 – </div>現在 <div class='txt_story_pop_text_en_jp'>Independent Director and Audit Committee,</div><br><div class='txt_story_pop_text_en_jp'>AIRA Securities Public Company Limited</div><br>",
+             "a_d_m_4_p10_7":"<div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>Contractual Teacher, Thammasat University</div><br><div class='txt_story_pop_text_en_jp'>• 1995 – </div>現在 <div class='txt_story_pop_text_en_jp'> Committee of the Real Estate Business Program, Faculty of Commerce<br>and Accountancy, Thammasat University</div>",
+             "a_d_m_4_p10_8":"<div class='txt_story_pop_text_en_jp'>• 2007 – 2010 Head of Department of Accounting, Faculty of Commerce and<br>Accountancy, Thammasat University </div><br><div class='txt_story_pop_text_en_jp'>• 2004 – 2007 Vicerector for Finance, Thammasat University</div>",
+             
+             "a_d_m_4_p11_1":"Mr. Anant Sirisaengtaksin",
+             "a_d_m_4_p11_2":"Independent Director and Member of Risk Management Committee",
+             "a_d_m_4_p11_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor Degree in Accounting, Chulalongkorn University<br>• Master of Business Administration /Commerce, Eastern New Mexico University, USA.<br>• International Tax Program, Harvard University, USA.<br>• General Taxation , Japan<br>• Certificate of the Capital Market Leadership Program Class (CMA 13) ,<br>Capital Market Academy<br>• National Defense (NDC 2546), The National Defense College</div>",
+             "a_d_m_4_p11_4":"<div class='txt_story_pop_text_en_jp'>• Director Certification Program (DCP) Class 73/2006<br>• Advance Audit Committee (AACP) Class 22/2016</div>",
+             "a_d_m_4_p11_5":"<div class='txt_story_pop_text_en_jp'>• 2014 – </div>現在 <div class='txt_story_pop_text_en_jp'> Independent Director and Risk Management Committee,<br>AIRA Capital Public Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'> Independence Director and Chairman of Audit Committee,<br>Nippon pack (Thailand) Public Company Limited</div>",
+             "a_d_m_4_p11_6":"<div class='txt_story_pop_text_en_jp'>• 2016 – </div>現在 <div class='txt_story_pop_text_en_jp'> Authorized Director and Chairman of the Board of Directors,<br>AIRA Advisory Company Limited</div><br><div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'> Director, SCL Tax Consultant Company Limited</div>",
+             "a_d_m_4_p11_8":"<div class='txt_story_pop_text_en_jp'>• 2011 - 2014 Advisor, Mass Rapid Transit Authority of Thailand<br>• 2011 - 2014 Director and Audit Committee, The Marketing Organization,<br>Ministry of Interior<br>• 2009 - 2014 Director and Chairman of Audit Committee, Bangkok Commercial<br>Asset Management Co.,Ltd.<br>• 2010 - 2011 Director, Secondary Mortgage Corporation<br>• 2009 - 2011 Deputy Director-General, The Revenue Department</div>",
+
+             "a_d_m_4_p12_1":"Mr. Wutthiphum Jurangkool",
+             "a_d_m_4_p12_2":"取締役（署名権限者）",
+             "a_d_m_4_p12_3":"<div class='txt_story_pop_text_en_jp'>• Bachelor of  Laws, Ramkhamhaeng University<br>•	Executive MBA, Sasin Graduate Institute of Business Administration<br>of Chulalongkorn University</div>",
+             "a_d_m_4_p12_4":"<div class='txt_story_pop_text_en_jp'>• Directors Certification Program (DCP) Class 148/2011<br>• Finance for Director (FFD) Class 12/2011</div>",
+             "a_d_m_4_p12_5":"<div class='txt_story_pop_text_en_jp'>• 2015 – </div>現在 <div class='txt_story_pop_text_en_jp'> Director, SE-EDUCATION Public Company Limited <br></div><div class='txt_story_pop_text_en_jp'>• 2013 – </div>現在 <div class='txt_story_pop_text_en_jp'> Authorized Director, AIRA Capital Public Company Limited<br></div><div class='txt_story_pop_text_en_jp'>• 2012 – </div>現在 <div class='txt_story_pop_text_en_jp'>	Director and Executive Committee,AIRA Factoring Public Company Limited</div>",
+             "a_d_m_4_p12_6":"<div class='txt_story_pop_text_en_jp'>• 2014 – </div>現在 <div class='txt_story_pop_text_en_jp'> Authorized Director, AIRA & AIFUL Public Company Limited<br></div><div class='txt_story_pop_text_en_jp'>• 2014 – </div>現在 <div class='txt_story_pop_text_en_jp'> Director of Factory  depot supply Co., Ltd.<br></div><div class='txt_story_pop_text_en_jp'>• 2002 – </div>現在 <div class='txt_story_pop_text_en_jp'> Director and Director of Procurement Department of<br>-  SUMMIT Auto Body Industry Co., Ltd.<br>-  SUMMIT Auto Body Industry Co., Ltd. (Ayutthaya branch)<br>-  SUMMIT Laemchabang Auto Body Work Co., Ltd.<br>-  SUMMIT Laemchabang Auto Body Work Co., Ltd. (Rayong branch)<br>-  SUMMIT Auto Tech Industry Co., Ltd.<br>- Thai Auto Industry Co., Ltd.<br>-  SUMMIT R&D Center Co., Ltd.<br>-  SUMMIT Advanced Materials Co., Ltd.</div>",
+          
+        
         }
     };
     
@@ -581,6 +906,9 @@ $(function(){
         $(".h4_la").removeClass("h4_"+lang);
         $(".txt_story_la").removeClass("txt_story_"+lang);
         $(".txt_head_story_la").removeClass("txt_head_story_"+lang);
+        $(".txt_story_pop_head_la").removeClass("txt_story_pop_head_"+lang);
+        $(".txt_story_pop_text_la").removeClass("txt_story_pop_text_"+lang);
+        
     }
     
      function addFont(){
@@ -589,6 +917,8 @@ $(function(){
         $(".h4_la").addClass("h4_"+lang);
         $(".txt_story_la").addClass("txt_story_"+lang);
         $(".txt_head_story_la").addClass("txt_head_story_"+lang);
+        $(".txt_story_pop_head_la").addClass("txt_story_pop_head_"+lang);
+        $(".txt_story_pop_text_la").addClass("txt_story_pop_text_"+lang);
     }
     
     function changeBg(){
