@@ -399,6 +399,24 @@ ul .setting{
     background-repeat: no-repeat;
 }
 
+
+.pop_network:hover{
+    background-image: url(../images/network/bright.png);
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center center;
+    /*min-width: 9.35em;
+    min-height: 6.4em;
+    max-height: 8em;*/
+    background-size: 13rem 8rem;
+    min-height: 8rem;
+    max-height: 10rem;
+    background-repeat: no-repeat;
+    color: #F00 !important;
+}
+
+
 .margin2{
     margin:0.2rem
 }
@@ -410,10 +428,7 @@ ul .setting{
 .row_between_top{
     margin-top: 3em;
 }
-.row_data{
- /*padding-left: 0.5em;
- padding-right: 0.5em;  */
-}
+
 
 
 .title_page{
@@ -434,7 +449,10 @@ ul .setting{
     font-family: "db_helvethaica_x";
     font-size: 1em;
     font-weight: normal;
-    color: #FFF !important;
+}
+
+.row_data{
+    color: #FFF ;
 }
 
 .txt_data{
@@ -656,7 +674,7 @@ h3 {
 }
 
 .h4_th{
-    font-size: 1.4em;
+    font-size: 1.35em;
 }
 
 .h4_en{
@@ -1137,6 +1155,18 @@ h3 {
     
 }
 
+.menu_data{
+  color: #FFF ;
+  text-decoration: none;
+}
+
 .top_pop_tween{
     margin-top: 0.6em;
+}
+
+ .menu_title_action{
+     font-size: 1.38em;
+    margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
 }

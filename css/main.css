@@ -126,17 +126,13 @@ a .menu_right{
 }
 
 .menu_data{
-  color: #FFF !important;
+  color: #FFF;
   text-decoration: none;
 }
 
 
 
- .menu_title_action{
-    margin-top: 10px !important;
-    color: #F00 !important;
-    text-decoration: underline !important;
-}
+
 
 .menu1 {
     margin-top: 2em;
@@ -198,3 +194,12 @@ a .menu_right{
     text-align: left;
 }
 
+.menu_data:hover{
+    margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
+}
+
+.pop_network {
+    cursor:pointer
+}

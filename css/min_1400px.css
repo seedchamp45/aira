@@ -114,6 +114,22 @@ and open the template in the editor.
         background-repeat: no-repeat;
     }
     
+    
+    
+    .pop_network:hover{
+        background-image: url(../images/network/bright.png);
+      -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-position: center center;
+        background-size: 15rem 9rem;
+        min-height: 9rem;
+        max-height: 10rem;
+        background-repeat: no-repeat;
+        color: #F00 !important;
+    }
+    
+    
     .row_between {
         margin-top: 2em;
     }
@@ -660,4 +676,21 @@ and open the template in the editor.
 
 .top_pop_tween{
     margin-top: 0.6em;
+}
+
+
+.row_data{
+    color: #FFF ;
+}
+.menu_data{
+  color: #FFF ;
+  text-decoration: none;
+}
+
+
+ .menu_title_action{
+     font-size: 1.7em;
+    margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
 }

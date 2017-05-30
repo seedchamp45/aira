@@ -97,6 +97,21 @@ and open the template in the editor.
      min-height: 11rem;
      background-repeat: no-repeat;
  }
+ 
+   .pop_network:hover{
+        background-image: url(../images/network/bright.png);
+      -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-position: center center;
+        /*min-width: 9.35em;
+        min-height: 6.4em;
+        max-height: 8em;*/
+        background-size: 19rem 11rem;
+        min-height: 11rem;
+        background-repeat: no-repeat;
+        color: #F00 !important;
+    }
 
  .txt_data{
      font-size: 1.6em;
@@ -418,4 +433,20 @@ txt_menu_en_jp{
     color: #FFF !important;
     font-size: 1.3em;
     line-height: 2rem !important;
+}
+
+.menu_data{
+  color: #FFF ;
+  text-decoration: none;
+}
+
+.row_data{
+    color: #FFF ;
+}
+
+ .menu_title_action{
+     font-size: 2.1em;
+    margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
 }

@@ -13,27 +13,28 @@
                <div class="force-overflow1">
                     <div class="row row_between_top margin2">
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
-                                <div class="text-center body_txt body_network txt_data" data-translate="a_n_1">บริษัท ไอร่า แคปปิตอล จำกัด<br>( มหาชน )</div>
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(1)">
+                                <div class="text-center body_txt body_network txt_data" data-translate="a_n_1" >บริษัท ไอร่า แคปปิตอล จำกัด<br>( มหาชน )</div>
                             </div>
+                           
                         </div>
                          <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network  d-flex justify-content-center">
+                            <div class="pop_network  d-flex justify-content-center" onclick="click_network(2)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_2">บริษัท หลักทรัพย์ ไอร่า จำกัด<br>( มหาชน )</div>
                             </div>
                         </div>
                          <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(3)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_3">บริษัท ไอร่า แฟคเตอริ่ง จำกัด<br>( มหาชน )</div>
                             </div>
                         </div>
                          <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(4)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_4">AIRA International Advisory<br>( Singapore ) Pte.Ltd.</div>
                             </div>
                         </div>
                          <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(5)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_5">บริษัท ไอร่า แอนด์ ไอฟุล จำกัด<br>( มหาชน )</div>
                             </div>
                         </div>
@@ -42,27 +43,27 @@
 
                     <div class="row row_between margin2">
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(6)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_6" >บริษัท ไอร่า พร็อพเพอร์ตี้ จำกัด<br>( มหาชน )</div>
                             </div>
                         </div>
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(7)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_7">บริษัท ไอร่า ลีสซิ่ง จำกัด<br>( มหาชน )</div>
                             </div>
                         </div>
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(8)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_8">บริษัท ไอร่า เวนเจอร์ แคปปิตอล<br>ทราเวลเล็กซ์ (ไทยแลนด์) จำกัด </div>
                             </div>
                         </div>
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(9)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_9">บริษัท ไอร่า แอดไวเซอรี่ จำกัด</div>
                             </div>
                         </div>
                         <div class="col-md-2 col-lg row_data">
-                            <div class="pop_network d-flex justify-content-center">
+                            <div class="pop_network d-flex justify-content-center" onclick="click_network(10)">
                                 <div class="text-center body_txt body_network txt_data" data-translate="a_n_10">บริษัท แอสไพเรชั่น วัน จำกัด</div>
                             </div>
                         </div>
@@ -72,4 +73,14 @@
         </div>
     </div>
  </div>
+<script>
 
+function click_network(id){
+        var href = ["http://www.aira.co.th","http://www.aira.co.th","http://www.airafactoring.co.th","http://www.airaadvisory.co.th/index.php","http://www.aira-aiful.co.th","http://www.aira.co.th","http://www.aira.co.th","http://www.aira.co.th","http://www.aira.co.th","http://www.aira.co.th"];
+       // var href = $(this).attr('data-href');
+        var link = $('<a href="' + href[id-1 ] + '" />');
+        link.attr('target', '_blank');
+        window.open(link.attr('href'));
+
+    }
+</script>

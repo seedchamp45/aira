@@ -10,6 +10,16 @@ $(function(){
     var img_flow="images/data/data_flow";
     var stLanguage = ""; 
     
+    $('#network_1').attr('href','http://www.google.com');
+    $('#network_2').attr('href','http://www.google.com');
+    $('#network_3').attr('href','http://www.google.com');
+    $('#network_4').attr('href','http://www.google.com');
+    $('#network_5').attr('href','http://www.google.com');
+    $('#network_6').attr('href','http://www.google.com');
+    $('#network_7').attr('href','http://www.google.com');
+    $('#network_8').attr('href','http://www.google.com');
+    $('#network_9').attr('href','http://www.google.com');
+    $('#network_10').attr('href','http://www.google.com');
     /*set url*/
     $("#facebook").attr("href",url_facebook);
     $("#youtub").attr("href",url_youtube);

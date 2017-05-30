@@ -335,10 +335,7 @@ ul .setting{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-
- /*min-width: 9.35em;
- min-height: 6.4em;*/
-
+    
     background-size: 9.8em 7em;
     max-width: 10em;
     min-width: 9em;
@@ -348,6 +345,20 @@ ul .setting{
     position: relative;
 }
 
+.pop_network:hover{
+    background-image: url(../images/network/bright.png);
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+     background-size: 9.8em 7em;
+    max-width: 10em;
+    min-width: 9em;
+    max-height: 7em;
+    min-height: 7em;
+    background-repeat: no-repeat;
+    color: #F00 !important;
+}
 
 .margin2{
     margin: 0rem;
@@ -364,6 +375,7 @@ ul .setting{
 .row_data{
     padding-left: 0.5em;
     padding-right: 0.5em;  
+    color: #FFF ;
 }
 
 
@@ -385,7 +397,6 @@ ul .setting{
     font-family: "db_helvethaica_x";
     font-size: 1em;
     font-weight: normal;
-    color: #FFF !important;
 }
 
 
@@ -1015,4 +1026,8 @@ h4 {
 
 .top_pop_tween{
     margin-top: 0.6em;
+}
+.menu_data{
+  color: #FFF ;
+  text-decoration: none;
 }
