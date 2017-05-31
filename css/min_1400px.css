@@ -211,7 +211,7 @@ and open the template in the editor.
     }
 
     .h4_jp{
-        font-size: 0.9em;
+        font-size: 0.9em !important;
     }
     .data_management_font {
         font-family: "db_helvethaica_x";
