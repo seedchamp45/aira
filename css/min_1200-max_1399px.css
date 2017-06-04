@@ -262,9 +262,12 @@ ul .setting{
 }
 
 .setting_bar{
+    float: right;
     margin-left: 0em;
-    margin-right: 0em;
+    margin-right: 1em;
 }
+
+
 
 .bu_social{
     margin-left: 2px;
@@ -277,8 +280,11 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 2.3em;
-    height: 1.8em;
+    width: 1.5em;
+    height: 1.1em; 
+    margin-top: -0.3em;
+    margin-right: 0.3em;
+   
 }
 
 .icon_en{
@@ -287,8 +293,10 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 2.3em;
-    height: 1.8em;
+    width: 1.5em;
+    height: 1.1em;
+    margin-top: -0.3em;
+    margin-right: 0.3em;
 }
 
 .icon_jp{
@@ -298,8 +306,9 @@ ul .setting{
     -o-background-size: cover;
     background-size: 100% 100% !important;
     background-repeat: no-repeat;
-    width: 2.3em;
-    height: 1.8em;
+    width: 1.5em;
+    height: 1.1em;
+    margin-top: -0.3em;
 }
 
 .icon_facebook{
@@ -308,8 +317,10 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.6em;
-    height: 1.6em;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_youtub{
@@ -318,8 +329,10 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.7em;
-    height: 1.6em;
+    width: 1.4em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_twitter{
@@ -328,8 +341,10 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.6em;
-    height: 1.6em;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_google{
@@ -338,8 +353,9 @@ ul .setting{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    width: 1.6em;
-    height: 1.6em;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.3em;
 }
 /*
 .logo {
@@ -1169,4 +1185,23 @@ h3 {
     margin-top: 10px !important;
     color: #F00 !important;
     text-decoration: underline !important;
+}
+
+
+.setting{
+    margin-bottom: 0.2em !important;
+     list-style-type:none !important;
+   display: inline !important;
+   display:flex !important;
+}
+
+
+.bg_tab_menu{
+   background-color: #a29696;
+}
+
+
+
+.inline{
+   display: inline !important ;
 }

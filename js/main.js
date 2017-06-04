@@ -892,9 +892,10 @@ $(function(){
            load_page();
            changeBg();
 
-        }else if(this.id !="th" || this.id !="en" || this.id !="jp"){
+        }else if((this.id !="th" || this.id !="en" || this.id !="jp" )&& (this.id !="facebook"
+                && this.id !="youtub" && this.id !="twitter" && this.id !="google")){
            
-              
+              alert(":"+this.id);
             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
             $("#"+ idOld +'_txt').addClass('menu_action');
             

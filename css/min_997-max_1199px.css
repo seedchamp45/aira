@@ -126,7 +126,7 @@ Large devices (desktops, 992px and up)
 }
 
 .ui_bar{
-    margin-left: 0.8em;
+    margin-left: 0.1em;
 }
 
 .font{
@@ -238,7 +238,6 @@ ul .setting{
 .setting_bar{
     float: right;
     margin-left: 0em;
-    margin-right: 0.2em;
 }
 
 .bu_social{
@@ -246,86 +245,88 @@ ul .setting{
     margin-right: 2px;   
 }
 
-
 .icon_th{
     background-image: url('../images/menu/bu_th.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-     background-size: 100% 100%;
-    width:2.3em;
-    height:1.79em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1.5em;
+    height: 1.1em; 
+    margin-top: -0.3em;
+    margin-right: 0.3em;
+   
 }
 
 .icon_en{
     background-image: url('../images/menu/bu_en.png');
-     -webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-     background-size: 100% 100%;
-    width:2.3em;
-    height:1.78em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1.5em;
+    height: 1.1em;
+    margin-top: -0.3em;
+    margin-right: 0.3em;
 }
 
 .icon_jp{
     background-image: url('../images/menu/bu_jp.png');
-     -webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100% !important;
-    width:2.4em;
-    height:1.8em;
     background-repeat: no-repeat;
+    width: 1.5em;
+    height: 1.1em;
+    margin-top: -0.3em;
 }
 
 .icon_facebook{
-    margin: 0.15em;
     background-image: url('../images/menu/bu_facebook.png');
-     -webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 90% 90%;
-    width:1.75em;
-    height:1.75em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_youtub{
-    margin: 0.15em;
     background-image: url('../images/menu/bu_youtube.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-     background-size: 90% 90%;
-    width:1.75em;
-    height:1.75em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1.4em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_twitter{
-    margin: 0.15em;
     background-image: url('../images/menu/bu_twitter.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-     background-size: 90% 90%;
-    width:1.75em;
-    height:1.75em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.2em;
+    margin-top: 0.3em;
 }
 
 .icon_google{
-    margin: 0.15em;
     background-image: url('../images/menu/bu_google.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 90% 90%;
-    width:1.75em;
-    height:1.75em;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.3em;
 }
 
 
@@ -1030,4 +1031,21 @@ h4 {
 .menu_data{
   color: #FFF ;
   text-decoration: none;
+}
+
+.setting{
+    margin-bottom: 0.2em !important;
+     list-style-type:none !important;
+   display: inline !important;
+   display:flex !important;
+}
+
+.bg_tab_menu{
+   background-color: #a29696;
+}
+
+
+
+.inline{
+   display: inline !important ;
 }

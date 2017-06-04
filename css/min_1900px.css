@@ -450,3 +450,54 @@ txt_menu_en_jp{
     color: #F00 !important;
     text-decoration: underline !important;
 }
+
+
+
+   
+.icon_th{
+    width: 2.04em;
+    height: 1.5em;
+    margin-top: -0.2em;
+    margin-right: 0.3em;
+}
+
+.icon_en{
+    width: 2.04em;
+    height: 1.5em;
+    margin-top: -0.2em;
+    margin-right: 0.3em;;
+}
+
+.icon_jp{
+    width: 2.04em;
+    height: 1.5em;
+    margin-top: -0.2em;
+}
+
+.icon_facebook{
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: 0.3em;
+    margin-top: 0.2em;
+}
+
+.icon_youtub{
+    width: 1.83em;
+    height: 1.3em;
+    margin-right: 0.3em;
+    margin-top: 0.2em;
+}
+
+.icon_twitter{
+    width: 1.3em;
+    height: 1.3em;
+    margin-right: 0.3em;
+    margin-top: 0.2em;
+}
+
+.icon_google{
+    width: 1.3em;
+    height: 1.3em;
+    margin-top: 0.2em;
+}
+   
