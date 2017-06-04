@@ -194,12 +194,21 @@ a .menu_right{
     text-align: left;
 }
 
-.menu_data:hover{
-    margin-top: 10px !important;
+
+.pop_network {
+    cursor:pointer
+}
+
+
+.menu_title_action {
+     font-family:"db_helvethaica_x75_bold";
+     font-weight: bold;
+   /* font-size: 2.1em;
+    margin-top: 10px !important;*/
     color: #F00 !important;
     text-decoration: underline !important;
 }
 
-.pop_network {
-    cursor:pointer
+.a_download{
+    cursor:pointer;
 }

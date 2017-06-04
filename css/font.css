@@ -36,3 +36,40 @@ and open the template in the editor.
     font-style: normal;
 
 }
+
+
+@font-face {
+    font-family: 'db_helvethaica_x45_light';
+    src: url('../fonts/db_helvethaica_x_li-webfont.eot');
+    src: url('../fonts/db_helvethaica_x_li-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/db_helvethaica_x_li-webfont.woff2') format('woff2'),
+         url('../fonts/db_helvethaica_x_li-webfont.woff') format('woff'),
+         url('../fonts/db_helvethaica_x_li-webfont.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_helvethaica_x75_bold';
+    src: url('../fonts/db_helvethaica_x_bd-webfont.eot');
+    src: url('../fonts/db_helvethaica_x_bd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/db_helvethaica_x_bd-webfont.woff2') format('woff2'),
+         url('../fonts/db_helvethaica_x_bd-webfont.woff') format('woff'),
+         url('../fonts/db_helvethaica_x_bd-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'db_helvethaica_x55_regular';
+    src: url('../fonts/db_helvethaica_x-webfont.eot');
+    src: url('../fonts/db_helvethaica_x-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/db_helvethaica_x-webfont.woff2') format('woff2'),
+         url('../fonts/db_helvethaica_x-webfont.woff') format('woff'),
+         url('../fonts/db_helvethaica_x-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

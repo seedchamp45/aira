@@ -95,11 +95,11 @@ and open the template in the editor.
     }
     .scrollbar {
         height: 50vh;
-        width: 98%;
         overflow-y: auto;
         overflow-x: hidden;
         margin-top: 25px;
         margin-bottom: 25px;
+        margin-right: 2em;
     }
     
     .pop_network {
@@ -198,21 +198,7 @@ and open the template in the editor.
         padding-right: 1.9em;
     }
     
-    .h4_la{
-        font-size: 1.5em; 
-    }
-    
-    .h4_th{
-    font-size: 1.5em;
-    }
-
-    .h4_en{
-        font-size: 1.5em;
-    }
-
-    .h4_jp{
-        font-size: 0.9em !important;
-    }
+  
     .data_management_font {
         font-family: "db_helvethaica_x";
         margin-top: 0.2em;
@@ -559,10 +545,12 @@ and open the template in the editor.
     overflow-x: hidden;
     margin-top: 0.7em;
     margin-bottom: 1em;
+    
+    
 }
 
 .txt_story_pop_head{
-   font-family: "db_helvethaica_x";
+   font-family: "db_helvethaica_x75_bold";
     font-weight: bold;
     color: #FFF !important;
     font-size: 2em;
@@ -581,7 +569,7 @@ and open the template in the editor.
 }
 
 .txt_story_pop_head_th{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x75_bold";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.4em;
@@ -623,7 +611,7 @@ and open the template in the editor.
 
 
  .txt_story_pop_text_la{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.1em;
@@ -633,7 +621,7 @@ and open the template in the editor.
 }
 
 .txt_story_pop_text_th{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.1em;
@@ -643,7 +631,7 @@ and open the template in the editor.
 }
 
 .txt_story_pop_text_en{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.1em;
@@ -654,7 +642,7 @@ and open the template in the editor.
 
 
 .txt_story_pop_text_jp{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 0.6em;
@@ -665,7 +653,7 @@ and open the template in the editor.
 
 
 .txt_story_pop_text_en_jp{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.7em;
@@ -691,6 +679,89 @@ and open the template in the editor.
  .menu_title_action{
      font-size: 1.7em;
     margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
+}
+
+.logo {
+    margin-left: 2em;
+}
+
+.setting_bar {
+    float: right;
+    margin-left: 0em;
+    margin-right: 2em;
+}
+
+.data_page {
+    margin-top: 2em;
+    padding-left: 4.5em;
+    list-style-type: none;
+}
+.page {
+    position: absolute;
+    height: 76vh;
+    width: 98%;
+    background-color: #203080;
+    margin-top: -1em;
+    /* margin-bottom: 1em; */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.6;
+    right: 0px;
+    left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.data_pop_righ
+{
+    margin-right: 3.4em;
+}
+
+.img_c3 {
+    margin-left: 5vw;
+}
+
+
+.h4_la{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.5em;
+    line-height: 1em !important;
+ }
+    
+.h4_th{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.5em;
+    line-height: 1em !important;
+}
+
+.h4_en{
+   font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.5em;
+    line-height: 1em !important;
+}
+
+.h4_jp{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.9em;
+    line-height: 1em !important;
+}  
+
+
+.menu_data:hover{
+   
+    margin-top: 8px !important;
     color: #F00 !important;
     text-decoration: underline !important;
 }

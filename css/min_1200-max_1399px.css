@@ -103,21 +103,14 @@ top: 1.01em;
 }
 
 .font_en {
-  /*  font-family: "db_helvethaica_x";
-    font-size: 0.8em;
-    font-weight: bold;
-    color: #333333;
-    line-height: 1em;
-    margin-top: 0.2em;
-    text-transform: uppercase;*/
     
     
     font-family: "db_helvethaica_x";
-    font-size: 0.75em;
+    font-size: 0.9em;
     font-weight: bold;
     color: #333333;
     line-height: 1.2em;
-    margin-top: 0.2em;
+    /*margin-top: 0.2em;*/
     text-transform: uppercase;
 }
 
@@ -578,6 +571,7 @@ h3 {
 /*ul*/
 .data_page{
     margin-top: 2em;
+    padding-left: 4em;
     list-style-type: none;
 }
 
@@ -589,7 +583,8 @@ h3 {
     height: 76vh;
     margin-top: -1em;
     margin-bottom: 1em;
-
+    margin-left: auto;
+    margin-right:auto;
    /* margin-top: -2.5em;
     margin-bottom: 5em;*/
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";       /* IE 8 */
@@ -614,10 +609,11 @@ h3 {
  /*margin-left: 30px;
  float: left;*/
     height: 50vh;
-    width: 100%;
+    /*width: 100%;*/
     overflow-y: auto;
     overflow-x: hidden;
     margin-top: 25px;
+    margin-right: 0.9em;
     margin-bottom: 25px;
 }
 
@@ -685,21 +681,7 @@ h3 {
  padding-right: 1em;
 }
 
-.h4_la{
-   font-size: 1.4em; 
-}
 
-.h4_th{
-    font-size: 1.35em;
-}
-
-.h4_en{
-    font-size: 1.4em;
-}
-
-.h4_jp{
-    font-size: 0.8em !important;
-}
 
 
 .m_img_data {
@@ -1059,7 +1041,7 @@ h3 {
 }
 
 .txt_story_pop_head{
-   font-family: "db_helvethaica_x";
+   font-family: "db_helvethaica_x75_bold";
     font-weight: bold;
     color: #FFF !important;
     font-size: 2em;
@@ -1068,7 +1050,7 @@ h3 {
     line-height: 2rem !important;  
 }
  .txt_story_pop_head_la{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x75_bold";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.4em;
@@ -1078,7 +1060,7 @@ h3 {
 }
 
 .txt_story_pop_head_th{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x75_bold";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.4em;
@@ -1130,7 +1112,7 @@ h3 {
 }
 
 .txt_story_pop_text_th{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.1em;
@@ -1140,7 +1122,7 @@ h3 {
 }
 
 .txt_story_pop_text_en{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.1em;
@@ -1151,7 +1133,7 @@ h3 {
 
 
 .txt_story_pop_text_jp{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 0.6em;
@@ -1162,7 +1144,7 @@ h3 {
 
 
 .txt_story_pop_text_en_jp{
-    font-family: "db_helvethaica_x";
+    font-family: "db_helvethaica_x45_light";
     font-weight: normal;
     color: #FFF !important;
     font-size: 1.7em;
@@ -1190,9 +1172,9 @@ h3 {
 
 .setting{
     margin-bottom: 0.2em !important;
-     list-style-type:none !important;
-   display: inline !important;
-   display:flex !important;
+    list-style-type:none !important;
+    display: inline !important;
+    display:flex !important;
 }
 
 
@@ -1204,4 +1186,47 @@ h3 {
 
 .inline{
    display: inline !important ;
+}
+
+.img_c3{
+    margin-left: 2em;
+}
+.h4_la{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.3em;
+    line-height: 1em !important;
+ }
+    
+.h4_th{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.2em;
+    line-height: 1em !important;
+}
+
+.h4_en{
+   font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.4em;
+    line-height: 1em !important;
+}
+
+.h4_jp{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 0.8em !important;
+    line-height: 1em !important;
+}  
+
+
+.menu_data:hover{
+   
+    margin-top: 8px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
 }

@@ -119,17 +119,38 @@ and open the template in the editor.
  }
 
  .page {
-     position: fixed;
-     width: 98%;
-     background-color: #203080;
-     height: 82vh;
-     margin-top: -1em;
-     margin-bottom: 1em;
-     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
-     filter: alpha(opacity=60);
-     -moz-opacity: 0.6;
-     -khtml-opacity: 0.6;
-     opacity: 0.6;
+    position: absolute;
+    height: 82vh;
+    width: 98%;
+    background-color: #203080;
+    margin-top: -1em;
+    /* margin-bottom: 1em; */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.6;
+    right: 0px;
+    left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+     
+     /*
+     position: absolute;
+    height: 79vh;
+    width: 98%;
+    background-color: #203080;
+    margin-top: -1em;
+    
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    -moz-opacity: 0.6;
+    -khtml-opacity: 0.6;
+    opacity: 0.6;
+    right: 0px;
+    left: 0px;
+    margin-right: auto;
+    margin-left: auto;*/
  }
 
  .scrollbar {
@@ -166,22 +187,7 @@ and open the template in the editor.
   .text-center-top_1 {
      padding-right: 4em;
  }
-    
-.h4_la{
-      font-size: 1.8em; 
- }
-    
-.h4_th{
-    font-size: 1.9em;
-}
 
-.h4_en{
-    font-size: 1.9em;
-}
-
-.h4_jp{
-    font-size: 1.5em;
-}
 
 .title_center{
     margin-right: 2em;
@@ -501,3 +507,202 @@ txt_menu_en_jp{
     margin-top: 0.2em;
 }
    
+.logo {
+    margin-left: 2.2em;
+}
+
+.setting_bar {
+    float: right;
+    margin-left: 0em;
+    margin-right: 2.2em;
+}
+.data_page {
+    margin-top: 2em;
+    padding-left: 5em;
+    list-style-type: none;
+}
+
+.menu1 {
+    margin-top: 3em !important;
+    height: 1em;
+}
+.body_data_title {
+    margin-top: -0.2em;
+}
+
+
+.bg_popup {
+    background-image: url(../images/data/popup.png);
+    width: 1200px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.data_left {
+    float: left;
+    display: inline;
+    width: 280px;
+}
+
+.data_right {
+    float: right;
+    display: inline;
+    width: 920px;
+}
+
+.text-description {
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.scrollbar_description {
+    height: 460px;
+    width: 900px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 0.7em;
+    margin-bottom: 1em;
+}
+
+.force-overflow_description {
+    min-height: 450px;
+    margin-right: 0.9em;
+}
+
+.img_data_management {
+    width: 250px;
+    height: auto;
+   
+    margin: 10px;
+}
+
+.img_c3 {
+    margin-left: 8vw;
+}
+
+.txt_story_pop_text_th {
+    font-family: "db_helvethaica_x45_light";
+    font-weight: lighter;
+    color: #FFF !important;
+    font-size: 1.6em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+.txt_story_pop_text_en {
+    font-family: "db_helvethaica_x45_light";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_head_th {
+    font-family: "db_helvethaica_x75_bold";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2.0em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+
+
+.txt_story_pop_head {
+    font-family: "db_helvethaica_x75_bold";
+    font-weight: bold;
+    color: #FFF !important;
+    font-size: 2.8em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_head_en {
+    font-family: "db_helvethaica_x75_bold";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 2.2em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+
+
+.txt_story_pop_head_jp {
+    font-family: "db_helvethaica_x";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.5em;
+    padding-left: 0rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+    margin-top: 1.2em!important;
+}
+
+.txt_story_pop_text_en_jp {
+    font-family: "db_helvethaica_x45_light";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.6em;
+    display: inline;
+    line-height: 1em !important;
+}
+
+.txt_story_pop_text_jp {
+    font-family: "db_helvethaica_x45_light";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.2em;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    line-height: 1em !important;
+}
+    
+.h4_la{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.9em;
+    line-height: 1em !important;
+ }
+    
+.h4_th{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.9em;
+    line-height: 1em !important;
+}
+
+.h4_en{
+   font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.9em;
+    line-height: 1em !important;
+}
+
+.h4_jp{
+    font-family: "db_helvethaica_x55_regular";
+    font-weight: normal;
+    color: #FFF !important;
+    font-size: 1.2em;
+    line-height: 1em !important;
+}
+
+.menu_data:hover{
+   
+    margin-top: 10px !important;
+    color: #F00 !important;
+    text-decoration: underline !important;
+}
+
+
