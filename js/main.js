@@ -1,4 +1,4 @@
- 
+  var lang="th";
 $(function(){
     var url_facebook = "https://www.facebook.com/airasec";
     var url_youtube = "https://www.youtube.com/channel/UClcq7jhMDEQ7iDCb2g_F2Fw";
@@ -864,8 +864,9 @@ $(function(){
     
   
  var idOld="";
- var lang="th";
+
 // hide bg
+
  if(idOld == ""){ 
     $(".page").hide();
  }
@@ -882,7 +883,7 @@ $(function(){
         //add class
         // alert("this.id"+this.id);
         if(this.id && this.id !="th" && this.id !="en" && this.id !="jp" && this.id !="facebook"
-                && this.id !="youtub" && this.id !="twitter" && this.id !="google"){
+                && this.id !="youtub" && this.id !="twitter" && this.id !="google" &&  this.id !="a_download"){
            idOld = this.id;
          
            $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
@@ -893,9 +894,9 @@ $(function(){
            changeBg();
 
         }else if((this.id !="th" || this.id !="en" || this.id !="jp" )&& (this.id !="facebook"
-                && this.id !="youtub" && this.id !="twitter" && this.id !="google")){
+                && this.id !="youtub" && this.id !="twitter" && this.id !="google"&&  this.id !="a_download")){
            
-              alert(":"+this.id);
+              
             $("#"+ idOld +'_img').attr("src",'images/menu/'+ idOld +"_action.png");
             $("#"+ idOld +'_txt').addClass('menu_action');
             
@@ -910,7 +911,8 @@ $(function(){
             aira_data();
         }
     });
-    
+     
+     
     function removeFont(){
         $('.font_title').removeClass("font_title_"+lang) ;       
         $(".font").removeClass("font_"+lang);
@@ -1006,7 +1008,7 @@ $(function(){
         });
     }
     
-    
+   
     
     
     
@@ -1029,3 +1031,10 @@ $(function(){
 
 
 
+ function downloadFile(st,load){
+        $("#"+st).attr("href", "download/"+load+"_"+lang+".pdf");
+        var link = $("#"+st).attr("href");
+        $("#my-container").load(link);
+/*
+         $("#download1").load(link);*/
+     }
