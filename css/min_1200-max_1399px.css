@@ -674,7 +674,7 @@ h3 {
 }
 
 .new_txt_top{
- margin-top: 22em;
+ margin-top: 15em;
 }
 
 .text-center-top_1 {
@@ -897,6 +897,7 @@ h3 {
     font-weight: normal;
     font-size: 1.4em;
     display: inline;
+    line-height: 1em;
 }
 
 .txt_head_en_jp{
@@ -1211,7 +1212,7 @@ h3 {
    font-family: "db_helvethaica_x55_regular";
     font-weight: normal;
     color: #FFF !important;
-    font-size: 1.4em;
+    font-size: 1.2em;
     line-height: 1em !important;
 }
 

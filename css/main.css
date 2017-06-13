@@ -212,3 +212,10 @@ a .menu_right{
 .a_download{
     cursor:pointer;
 }
+
+.txt_jp{
+    display: inline;
+}
+.txt_story_en_jp{
+    display: inline;
+}
